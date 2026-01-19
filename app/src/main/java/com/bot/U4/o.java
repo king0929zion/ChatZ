@@ -9,7 +9,8 @@ import java.util.List;
 import m4.AbstractC1276k;
 
 /* loaded from: classes.dex */
-public abstract class o implements 
+public abstract class o {
+
     public static String p(String str) {
         AbstractC1276k.f(str, "<this>");
         return t4.j.r(new t4.o(new Y3.t(str, 3), new M2.b("    ", 10), 1), SequenceUtils.EOL);
