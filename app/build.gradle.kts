@@ -12,8 +12,8 @@ android {
         applicationId = "com.bot"
         minSdk = 24
         targetSdk = 34
-        versionCode = 113
-        versionName = "1.1.3"
+        versionCode = 114
+        versionName = "1.1.4"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -56,7 +56,6 @@ android {
     // Disable resource processing optimizations
     androidResources {
         additionalParameters += "--no-version-vectors"
-        generateLocaleConfig = false
     }
 }
 
