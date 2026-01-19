@@ -20,6 +20,4 @@
     <dimen name="notification_subtext_size">13.0sp</dimen>
     <dimen name="notification_top_pad">10.0dip</dimen>
     <dimen name="notification_top_pad_large_text">5.0dip</dimen>
-    <dimen name="APKTOOL_DUMMY_5" />
-    <dimen name="APKTOOL_DUMMY_6" />
 </resources>

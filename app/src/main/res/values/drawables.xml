@@ -2,19 +2,4 @@
 <resources>
     <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
     <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
-    <drawable name="APKTOOL_DUMMY_0" />
-    <drawable name="APKTOOL_DUMMY_6" />
-    <drawable name="APKTOOL_DUMMY_20" />
-    <drawable name="APKTOOL_DUMMY_21" />
-    <drawable name="APKTOOL_DUMMY_22" />
-    <drawable name="APKTOOL_DUMMY_23" />
-    <drawable name="APKTOOL_DUMMY_24" />
-    <drawable name="APKTOOL_DUMMY_25" />
-    <drawable name="APKTOOL_DUMMY_26" />
-    <drawable name="APKTOOL_DUMMY_27" />
-    <drawable name="APKTOOL_DUMMY_28" />
-    <drawable name="APKTOOL_DUMMY_2b" />
-    <drawable name="APKTOOL_DUMMY_2c" />
-    <drawable name="APKTOOL_DUMMY_2d" />
-    <drawable name="APKTOOL_DUMMY_53" />
 </resources>
