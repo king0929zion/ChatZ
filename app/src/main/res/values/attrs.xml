@@ -36,16 +36,6 @@
         <enum name="adjacent" value="2" />
     </attr>
     <attr name="font" format="reference" />
-    <attr name="fontProviderAuthority" format="string" />
-    <attr name="fontProviderCerts" format="reference" />
-    <attr name="fontProviderFallbackQuery" format="string" />
-    <attr name="fontProviderFetchTimeout" format="integer">
-        <enum name="forever" value="-1" />
-    </attr>
-    <attr name="fontProviderPackage" format="string" />
-    <attr name="fontProviderQuery" format="string" />
-    <attr name="fontProviderSystemFontFamily" format="string" />
-    <attr name="fontVariationSettings" format="string" />
     <attr name="fontWeight" format="integer" />
     <attr name="graph" format="reference" />
     <attr name="isDraggingToFullscreenAllowed" format="boolean" />
