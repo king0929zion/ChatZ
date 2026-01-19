@@ -15,7 +15,7 @@ import com.vladsch.flexmark.util.sequence.ReplacedTextMapper;
 import com.vladsch.flexmark.util.sequence.builder.ISequenceBuilder;
 
 /* loaded from: classes.dex */
-public abstract class RefNode implements Node, LinkRefDerived, ReferencingNode<ReferenceRepository, Reference>, DoNotLinkDecorate, TextContainer,    {
+public abstract class RefNode implements Node, LinkRefDerived, ReferencingNode<ReferenceRepository, Reference>, DoNotLinkDecorate, TextContainer {
     protected boolean isDefined;
     protected BasedSequence reference;
     protected BasedSequence referenceClosingMarker;
