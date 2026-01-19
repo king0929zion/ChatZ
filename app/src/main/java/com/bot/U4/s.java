@@ -1,5 +1,5 @@
 package u4;
 
 /* loaded from: classes.dex */
-public abstract class s implements r,   {
+public abstract class s implements r {
 }

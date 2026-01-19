@@ -5,7 +5,7 @@ import i4.AbstractC1120d;
 import m4.AbstractC1276k;
 
 /* loaded from: classes.dex */
-public abstract class u implements t,   {
+public abstract class u implements t {
     public static String A(String str, int i6) {
         AbstractC1276k.f(str, "<this>");
         if (i6 < 0) {

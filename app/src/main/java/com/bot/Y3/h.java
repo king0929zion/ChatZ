@@ -5,7 +5,7 @@ import java.util.Set;
 import m4.AbstractC1276k;
 
 /* loaded from: classes.dex */
-public abstract class h implements AbstractC0734a implements Set,   {
+public abstract class h implements AbstractC0734a implements Set {
     @Override // java.util.Collection, java.util.Set
     public final boolean equals(Object obj) {
         if (obj == this) {

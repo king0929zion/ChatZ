@@ -275,7 +275,7 @@ public class Formatter implements IRender {
     }
 
     /* loaded from: classes.dex */
-    public abstract class FormatterExtension implements Extension,   {
+    public abstract class FormatterExtension implements Extension {
         void extend(Builder builder);
 
         void rendererOptions(MutableDataHolder mutableDataHolder);

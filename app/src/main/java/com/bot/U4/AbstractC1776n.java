@@ -10,7 +10,7 @@ import m4.AbstractC1276k;
 
 /* renamed from: u4.n */
 /* loaded from: classes.dex */
-public abstract class AbstractC1776n implements u,   {
+public abstract class AbstractC1776n implements u {
     public static boolean G(CharSequence charSequence, String str, boolean z5) {
         AbstractC1276k.f(charSequence, "<this>");
         AbstractC1276k.f(str, "other");

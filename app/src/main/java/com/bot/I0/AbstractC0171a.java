@@ -28,7 +28,7 @@ import y4.C1998d;
 
 /* renamed from: I0.a, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC0171a implements ViewGroup,   {
+public abstract class AbstractC0171a implements ViewGroup {
 
     /* renamed from: c, reason: collision with root package name */
     public WeakReference f2271c;

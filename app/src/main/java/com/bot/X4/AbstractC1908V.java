@@ -2,7 +2,7 @@ package x4;
 
 /* renamed from: x4.V, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC1908V implements AbstractC1939v,   {
+public abstract class AbstractC1908V implements AbstractC1939v {
 
     /* renamed from: i, reason: collision with root package name */
     public static final /* synthetic */ int f15672i = 0;

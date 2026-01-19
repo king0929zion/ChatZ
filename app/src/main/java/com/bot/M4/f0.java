@@ -8,7 +8,7 @@ import kotlinx.serialization.encoding.Encoder;
 import m4.AbstractC1276k;
 
 /* loaded from: classes.dex */
-public abstract class f0 implements AbstractC0270q,   {
+public abstract class f0 implements AbstractC0270q {
 
     /* renamed from: b, reason: collision with root package name */
     public final e0 f3465b;

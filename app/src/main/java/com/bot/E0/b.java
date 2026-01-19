@@ -5,7 +5,7 @@ import java.util.concurrent.CancellationException;
 import u.AbstractC1735c;
 
 /* loaded from: classes.dex */
-public abstract class b implements CancellationException,   {
+public abstract class b implements CancellationException {
 
     /* renamed from: c, reason: collision with root package name */
     public final /* synthetic */ int f1290c;

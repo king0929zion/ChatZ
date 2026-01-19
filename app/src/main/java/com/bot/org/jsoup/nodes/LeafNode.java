@@ -4,7 +4,7 @@ import com.vladsch.flexmark.html2md.converter.FlexmarkHtmlConverter;
 import java.util.List;
 
 /* loaded from: classes.dex */
-public abstract class LeafNode implements Node,   {
+public abstract class LeafNode implements Node {
     Object value;
 
     private void ensureAttributes() {

@@ -6,7 +6,7 @@ import com.vladsch.flexmark.util.ast.Node;
 import com.vladsch.flexmark.util.ast.NodeVisitorBase;
 
 /* loaded from: classes.dex */
-public abstract class AnchorRefTargetBlockVisitor implements NodeVisitorBase,   {
+public abstract class AnchorRefTargetBlockVisitor implements NodeVisitorBase {
     public boolean preVisit(Node node) {
         return true;
     }

@@ -12,7 +12,7 @@ import m4.AbstractC1276k;
 import p.O0;
 
 /* loaded from: classes.dex */
-public abstract class j implements k,   {
+public abstract class j implements k {
     public static h p(Iterator it) {
         AbstractC1276k.f(it, "<this>");
         return new C1729a(new t(it, 2));

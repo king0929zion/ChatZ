@@ -10,7 +10,7 @@ import java.util.NoSuchElementException;
 import m4.AbstractC1276k;
 
 /* loaded from: classes.dex */
-public abstract class B implements C,   {
+public abstract class B implements C {
     public static Object Y(Object obj, Map map) {
         AbstractC1276k.f(map, "<this>");
         Object obj2 = map.get(obj);

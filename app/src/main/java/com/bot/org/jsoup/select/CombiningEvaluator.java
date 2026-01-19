@@ -10,7 +10,7 @@ import org.jsoup.internal.StringUtil;
 import org.jsoup.nodes.Element;
 
 /* loaded from: classes.dex */
-public abstract class CombiningEvaluator implements Evaluator,   {
+public abstract class CombiningEvaluator implements Evaluator {
     private static final Comparator<Evaluator> costComparator = new Object();
     int cost;
     final ArrayList<Evaluator> evaluators;
