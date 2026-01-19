@@ -964,7 +964,7 @@ public abstract class AbstractC0530j {
         int i7;
         int i8;
         C0626q c0626q3;
-        ?? r02;
+        Object r02;
         C0626q c0626q4;
         C0626q c0626q5 = c0626q;
         AbstractC1276k.f(u5, "downloadState");
