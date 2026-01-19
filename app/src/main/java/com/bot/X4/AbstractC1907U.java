@@ -8,7 +8,7 @@ import m4.AbstractC1276k;
 
 /* renamed from: x4.U, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC1907U implements AbstractC1908V implements InterfaceC1893F {
+public abstract class AbstractC1907U implements AbstractC1908V, InterfaceC1893F  {
 
     /* renamed from: j, reason: collision with root package name */
     public static final /* synthetic */ AtomicReferenceFieldUpdater f15669j = AtomicReferenceFieldUpdater.newUpdater(AbstractC1907U.class, Object.class, "_queue$volatile");

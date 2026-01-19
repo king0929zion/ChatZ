@@ -9,7 +9,7 @@ import com.vladsch.flexmark.util.sequence.ReplacedTextMapper;
 import com.vladsch.flexmark.util.sequence.builder.ISequenceBuilder;
 
 /* loaded from: classes.dex */
-public abstract class LinkNode implements LinkNodeBase implements DoNotLinkDecorate, TextContainer,   {
+public abstract class LinkNode implements LinkNodeBase, DoNotLinkDecorate, TextContainer,    {
     public LinkNode() {
     }
 
