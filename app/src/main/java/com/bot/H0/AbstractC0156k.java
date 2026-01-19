@@ -5,7 +5,7 @@ import m4.AbstractC1276k;
 
 /* renamed from: H0.k, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC0156k implements AbstractC1040q {
+public abstract class AbstractC0156k implements 
 
     /* renamed from: r, reason: collision with root package name */
     public final int f1963r = j0.e(this);
