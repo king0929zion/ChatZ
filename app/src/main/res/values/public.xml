@@ -114,9 +114,9 @@
     <public type="dimen" name="notification_top_pad_large_text" id="0x7f050015" />
     <public type="dimen" name="APKTOOL_DUMMY_5" id="0x7f050005" />
     <public type="dimen" name="APKTOOL_DUMMY_6" id="0x7f050006" />
-    <public type="drawable" name="$metaso__0" id="0x7f060001" />
-    <public type="drawable" name="$minimax__0" id="0x7f060002" />
-    <public type="drawable" name="$qwen__0" id="0x7f060003" />
+    <public type="drawable" name="metaso_drawable_0" id="0x7f060001" />
+    <public type="drawable" name="minimax_drawable_0" id="0x7f060002" />
+    <public type="drawable" name="qwen_drawable_0" id="0x7f060003" />
     <public type="drawable" name="abc_vector_test" id="0x7f060004" />
     <public type="drawable" name="add" id="0x7f060005" />
     <public type="drawable" name="arrow_back" id="0x7f060007" />
