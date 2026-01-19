@@ -829,7 +829,8 @@ public abstract class AbstractC0530j {
             T.r.C(c0626q2, c0144d);
             C0146e c0146e4 = C0150g.f1926d;
             T.r.G(c0626q2, c9, c0146e4);
-            T.r.b(new C0625p0[]{Q.D0.f5207c.a(new e1.f(f6)), U0.a.a(c6.f5700k)}, AbstractC0874g.c(474683113, new l4.e() { // from class: R2.B {
+            T.r.b(new C0625p0[]{Q.D0.f5207c.a(new e1.f(f6)), U0.a.a(c6.f5700k)}, AbstractC0874g.c(474683113, new l4.e() { // from class: R2.B
+                {
                     float f10 = d3.b.a;
                 }
 
@@ -963,7 +964,7 @@ public abstract class AbstractC0530j {
         int i7;
         int i8;
         C0626q c0626q3;
-        Object r02;
+        ?? r02;
         C0626q c0626q4;
         C0626q c0626q5 = c0626q;
         AbstractC1276k.f(u5, "downloadState");
@@ -1324,7 +1325,9 @@ public abstract class AbstractC0530j {
                 public final /* synthetic */ boolean f6933c;
 
                 /* renamed from: e, reason: collision with root package name */
-                public final /* synthetic */ boolean f6934e; {
+                public final /* synthetic */ boolean f6934e;
+
+                {
                     this.f6933c = z5;
                     this.f6934e = z6;
                 }
