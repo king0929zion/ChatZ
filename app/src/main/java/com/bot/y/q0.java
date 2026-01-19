@@ -243,7 +243,7 @@ public final class q0 implements a0 {
             AbstractC1734b.b("Should precompose before resolving nested prefetch states");
             throw new RuntimeException();
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         t0Var.c(new I1.z(obj, 1));
         List list = (List) obj.f12973c;
         if (list != null) {

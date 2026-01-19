@@ -52,7 +52,7 @@ public final class C0102x0 implements F0.V {
                                 boolean z5 = true;
                                 r.X0 x03 = r.X0.f14183c;
                                 F0.k0 w6 = x02 == x03 ? u6.w(C0959a.a(AbstractC0960b.j(0, -w5.f1486e, 1, j3), 0, 0, 0, 0, 14)) : u6.w(C0959a.a(AbstractC0960b.j(-w5.f1485c, 0, 2, j3), 0, 0, 0, 0, 11));
-                                final ?? obj = new Object();
+                                final Object obj = new Object();
                                 float b5 = c22.b();
                                 if (!AbstractC1276k.a(b5, Y3.k.s0(fArr)) && !AbstractC1276k.a(b5, Y3.k.x0(fArr))) {
                                     z5 = false;

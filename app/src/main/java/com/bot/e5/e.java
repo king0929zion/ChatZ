@@ -50,7 +50,7 @@ public final class e extends q {
         }
         if (W5 > 0 && j7 > j5) {
             long j8 = c0949i.f11482e - (j7 - j5);
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.Q(c0949i);
             c0949i.T(j8, obj);
             obj.skip(obj.f11482e);

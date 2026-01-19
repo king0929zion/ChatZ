@@ -92,7 +92,7 @@ public abstract class D0 {
         final int i9;
         final float f7;
         int f8;
-        ?? arrayList;
+        Object arrayList;
         S0.P p6;
         o0 o0Var;
         Object obj;
@@ -191,7 +191,7 @@ public abstract class D0 {
                             arrayList = P5;
                         } else {
                             ArrayList arrayList3 = c0545g2.f7631f;
-                            ?? r7 = arrayList3;
+                            Object r7 = arrayList3;
                             if (arrayList3 == null) {
                                 r7 = P5;
                             }

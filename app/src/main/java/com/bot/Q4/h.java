@@ -66,7 +66,7 @@ public final class h {
     /* JADX WARN: Type inference failed for: r0v0, types: [Q4.b, java.lang.Object] */
     /* JADX WARN: Type inference failed for: r1v0, types: [Q4.g, java.lang.Object] */
     static {
-        ?? obj = new Object();
+        Object obj = new Object();
         f6514b = obj;
         f6515c = new Object();
         f6516d = new LinkedHashMap();

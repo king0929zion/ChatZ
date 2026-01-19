@@ -21,7 +21,7 @@ public final class K<T> extends AbstractC0141b0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [R.L, h0.q] */
     @Override // H0.AbstractC0141b0
     public final AbstractC1040q e() {
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         abstractC1040q.f6705r = this.a;
         abstractC1040q.f6706s = this.f6704b;
         abstractC1040q.f6707t = X0.f14183c;

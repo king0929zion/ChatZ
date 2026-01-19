@@ -93,7 +93,7 @@ public final class C1394e implements w {
         if (c1651b != null) {
             return c1651b;
         }
-        ?? viewGroup = new ViewGroup(viewTreeObserverOnGlobalLayoutListenerC0216x.getContext());
+        ViewGroup viewGroup = new ViewGroup(viewTreeObserverOnGlobalLayoutListenerC0216x.getContext());
         viewGroup.setClipChildren(false);
         viewGroup.setClipToPadding(false);
         viewGroup.setTag(R.id.hide_graphics_layer_in_inspector_tag, Boolean.TRUE);

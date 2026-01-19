@@ -256,7 +256,7 @@ public abstract class r extends AbstractC0156k implements H0.w0, z0.e, H0.A0, H0
 
     /* JADX WARN: Type inference failed for: r0v0, types: [m4.r, java.lang.Object] */
     public final boolean R0() {
-        ?? obj = new Object();
+        Object obj = new Object();
         AbstractC0157l.y(this, C1566f1.f14315s, new C0311h0(obj, 1));
         if (!obj.f12968c) {
             int i6 = K.f13595b;

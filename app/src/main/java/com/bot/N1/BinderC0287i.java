@@ -84,7 +84,7 @@ public final class BinderC0287i extends Binder implements InterfaceC0284f {
             if (readStrongBinder != null) {
                 IInterface queryLocalInterface = readStrongBinder.queryLocalInterface(InterfaceC0283e.a);
                 if (queryLocalInterface == null || !(queryLocalInterface instanceof InterfaceC0283e)) {
-                    ?? obj = new Object();
+                    Object obj = new Object();
                     obj.f3740c = readStrongBinder;
                     interfaceC0283e2 = obj;
                 } else {
@@ -104,7 +104,7 @@ public final class BinderC0287i extends Binder implements InterfaceC0284f {
         if (readStrongBinder2 != null) {
             IInterface queryLocalInterface2 = readStrongBinder2.queryLocalInterface(InterfaceC0283e.a);
             if (queryLocalInterface2 == null || !(queryLocalInterface2 instanceof InterfaceC0283e)) {
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 obj2.f3740c = readStrongBinder2;
                 interfaceC0283e = obj2;
             } else {

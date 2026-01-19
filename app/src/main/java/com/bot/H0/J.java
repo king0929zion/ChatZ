@@ -390,8 +390,7 @@ public final class J implements InterfaceC0608h, s0, InterfaceC0152h {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r1v1, types: [m4.w, java.lang.Object] */
-    public final void F() {
+        public final void F() {
         if (this.f1753x) {
             return;
         }
@@ -401,7 +400,7 @@ public final class J implements InterfaceC0608h, s0, InterfaceC0152h {
         }
         P0.m mVar = this.f1752w;
         this.f1753x = true;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12973c = new P0.m();
         t0 snapshotObserver = ((ViewTreeObserverOnGlobalLayoutListenerC0216x) M.a(this)).getSnapshotObserver();
         C0028d c0028d = new C0028d(1, this, obj);
@@ -633,12 +632,8 @@ public final class J implements InterfaceC0608h, s0, InterfaceC0152h {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r7v1 */
-    /* JADX WARN: Type inference failed for: r7v15 */
-    /* JADX WARN: Type inference failed for: r7v16 */
-    /* JADX WARN: Type inference failed for: r7v3, types: [H0.i0, h0.q] */
-    public final void a(InterfaceC1041r interfaceC1041r) {
-        ?? r7;
+                    public final void a(InterfaceC1041r interfaceC1041r) {
+        Object r7;
         C0149f0 c0149f0;
         C0147e0 c0147e0;
         V.e eVar;
@@ -1134,29 +1129,7 @@ public final class J implements InterfaceC0608h, s0, InterfaceC0152h {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r2v0 */
-    /* JADX WARN: Type inference failed for: r2v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r2v10 */
-    /* JADX WARN: Type inference failed for: r2v11 */
-    /* JADX WARN: Type inference failed for: r2v3 */
-    /* JADX WARN: Type inference failed for: r2v4, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r2v5, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v6 */
-    /* JADX WARN: Type inference failed for: r2v7 */
-    /* JADX WARN: Type inference failed for: r2v8 */
-    /* JADX WARN: Type inference failed for: r2v9 */
-    /* JADX WARN: Type inference failed for: r3v0 */
-    /* JADX WARN: Type inference failed for: r3v1 */
-    /* JADX WARN: Type inference failed for: r3v10 */
-    /* JADX WARN: Type inference failed for: r3v11 */
-    /* JADX WARN: Type inference failed for: r3v2 */
-    /* JADX WARN: Type inference failed for: r3v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r3v4 */
-    /* JADX WARN: Type inference failed for: r3v5 */
-    /* JADX WARN: Type inference failed for: r3v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r3v8 */
-    /* JADX WARN: Type inference failed for: r3v9 */
-    public final void g0(X0 x02) {
+                                                                                            public final void g0(X0 x02) {
         if (AbstractC1276k.b(this.f1716E, x02)) {
             return;
         }
@@ -1166,7 +1139,7 @@ public final class J implements InterfaceC0608h, s0, InterfaceC0152h {
             while (abstractC1040q != null) {
                 if ((abstractC1040q.f11808f & 16) != 0) {
                     AbstractC0156k abstractC0156k = abstractC1040q;
-                    ?? r32 = 0;
+                    int r32 = 0;
                     while (abstractC0156k != 0) {
                         if (abstractC0156k instanceof w0) {
                             ((w0) abstractC0156k).t0();

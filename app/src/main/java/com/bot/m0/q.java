@@ -234,7 +234,7 @@ public final class q implements n {
         C h3 = h();
         ViewTreeObserverOnGlobalLayoutListenerC0216x viewTreeObserverOnGlobalLayoutListenerC0216x = this.a;
         if (h3 == null || !h3.f12872r || !viewTreeObserverOnGlobalLayoutListenerC0216x.y(i6)) {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f12973c = Boolean.FALSE;
             C h6 = h();
             Boolean g3 = g(i6, viewTreeObserverOnGlobalLayoutListenerC0216x.getEmbeddedViewFocusRect(), new p(obj, i6));

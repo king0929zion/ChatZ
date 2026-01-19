@@ -373,7 +373,7 @@ public abstract class AbstractC1571h0 {
     /* JADX WARN: Type inference failed for: r6v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
     public static final boolean i(C0040p c0040p, long j3) {
         Object obj;
-        ?? r6 = c0040p.a;
+        Object r6 = c0040p.a;
         int size = r6.size();
         boolean z5 = false;
         int i6 = 0;

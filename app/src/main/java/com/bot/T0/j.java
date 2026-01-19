@@ -106,7 +106,7 @@ public final class j {
         if (bVar != null) {
             return bVar;
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = this.f8316f;
         ArrayList arrayList = new ArrayList();
         int i6 = 0;

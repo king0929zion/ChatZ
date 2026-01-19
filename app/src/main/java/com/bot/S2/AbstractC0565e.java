@@ -813,7 +813,7 @@ public abstract class AbstractC0565e {
         C1031h c1031h;
         C1818y c1818y;
         int i7;
-        final ?? r9;
+        final Object r9;
         boolean z7;
         C0626q c0626q3;
         boolean z8;
@@ -1375,7 +1375,7 @@ public abstract class AbstractC0565e {
                     int intValue = ((Integer) obj3).intValue();
                     AbstractC1276k.f((v.I) obj, "$this$FlowRow");
                     boolean z8 = true;
-                    ?? r14 = 0;
+                    int r14 = 0;
                     if (c0626q2.S(intValue & 1, (intValue & 17) != 16)) {
                         ArrayList arrayList3 = arrayList;
                         int size = arrayList3.size();
@@ -2118,7 +2118,7 @@ public abstract class AbstractC0565e {
                     C1789c c1789c;
                     C0146e c0146e4;
                     C1810p c1810p;
-                    ?? r22;
+                    Object r22;
                     C1038o c1038o;
                     float f9;
                     C0148f c0148f;

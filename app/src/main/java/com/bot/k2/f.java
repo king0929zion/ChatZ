@@ -1,7 +1,5 @@
 package k2;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class f {
 
@@ -20,18 +18,14 @@ public final class f {
     /* renamed from: h, reason: collision with root package name */
     public static final /* synthetic */ f[] f12614h;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, k2.f] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, k2.f] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, k2.f] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, k2.f] */
-    static {
-        ?? r02 = new Enum("MEMORY_CACHE", 0);
+                    static {
+        f r02 = new f();
         f12610c = r02;
-        ?? r12 = new Enum("MEMORY", 1);
+        f r12 = new f();
         f12611e = r12;
-        ?? r22 = new Enum("DISK", 2);
+        f r22 = new f();
         f12612f = r22;
-        ?? r32 = new Enum("NETWORK", 3);
+        f r32 = new f();
         f12613g = r32;
         f12614h = new f[]{r02, r12, r22, r32};
     }

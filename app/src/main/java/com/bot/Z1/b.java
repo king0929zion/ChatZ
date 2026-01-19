@@ -107,13 +107,11 @@ public final class b implements Y1.a {
         return new i(compileStatement);
     }
 
-    /* JADX WARN: Type inference failed for: r1v0, types: [java.lang.Object, X3.f] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Object, X3.f] */
-    @Override // Y1.a
+            @Override // Y1.a
     public final void w() {
-        ?? r12 = f9859g;
+        Object r12 = f9859g;
         if (((Method) r12.getValue()) != null) {
-            ?? r22 = f9858f;
+            Object r22 = f9858f;
             if (((Method) r22.getValue()) != null) {
                 Method method = (Method) r12.getValue();
                 AbstractC1276k.c(method);

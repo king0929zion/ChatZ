@@ -24,7 +24,7 @@ public final class C1971k extends AbstractC0141b0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [y.l, h0.q] */
     @Override // H0.AbstractC0141b0
     public final AbstractC1040q e() {
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         abstractC1040q.f15887r = this.a;
         abstractC1040q.f15888s = this.f15883b;
         abstractC1040q.f15889t = this.f15884c;

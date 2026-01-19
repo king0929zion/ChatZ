@@ -87,7 +87,7 @@ public final class y implements Closeable {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [Q4.x, java.lang.Object] */
     public final x d() {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = this.f6657c;
         obj.f6645b = this.f6658e;
         obj.f6646c = this.f6660g;

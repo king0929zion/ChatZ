@@ -84,29 +84,7 @@ public final class C1424b0 extends AbstractC0156k implements H0.A0, InterfaceC01
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r2v11 */
-    /* JADX WARN: Type inference failed for: r2v12, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r2v13, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v14 */
-    /* JADX WARN: Type inference failed for: r2v15 */
-    /* JADX WARN: Type inference failed for: r2v16 */
-    /* JADX WARN: Type inference failed for: r2v17 */
-    /* JADX WARN: Type inference failed for: r2v18 */
-    /* JADX WARN: Type inference failed for: r2v19 */
-    /* JADX WARN: Type inference failed for: r2v6 */
-    /* JADX WARN: Type inference failed for: r2v7, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r5v0 */
-    /* JADX WARN: Type inference failed for: r5v1 */
-    /* JADX WARN: Type inference failed for: r5v10 */
-    /* JADX WARN: Type inference failed for: r5v11 */
-    /* JADX WARN: Type inference failed for: r5v2 */
-    /* JADX WARN: Type inference failed for: r5v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v4 */
-    /* JADX WARN: Type inference failed for: r5v5 */
-    /* JADX WARN: Type inference failed for: r5v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v8 */
-    /* JADX WARN: Type inference failed for: r5v9 */
-    public final void Q0() {
+                                                                                            public final void Q0() {
         C0149f0 c0149f0;
         if (this.f11819q) {
             if (!this.f11806c.f11819q) {
@@ -119,7 +97,7 @@ public final class C1424b0 extends AbstractC0156k implements H0.A0, InterfaceC01
                     while (abstractC1040q != null) {
                         if ((abstractC1040q.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q;
-                            ?? r5 = 0;
+                            int r5 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof H0.F0) {
                                     if (AbstractC1426c0.f13686r.equals(((H0.F0) abstractC0156k).m())) {
@@ -179,10 +157,9 @@ public final class C1424b0 extends AbstractC0156k implements H0.A0, InterfaceC01
         this.f13677t = c1682j;
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [m4.w, java.lang.Object] */
-    @Override // H0.m0
+        @Override // H0.m0
     public final void i0() {
-        ?? obj = new Object();
+        Object obj = new Object();
         AbstractC0157l.r(this, new C0741a0(4, obj, this));
         y.X x5 = (y.X) obj.f12973c;
         if (this.f13682y.R0().b()) {

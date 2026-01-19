@@ -1,7 +1,5 @@
 package F4;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class i {
 
@@ -20,18 +18,14 @@ public final class i {
     /* renamed from: h, reason: collision with root package name */
     public static final /* synthetic */ i[] f1635h;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, F4.i] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, F4.i] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, F4.i] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, F4.i] */
-    static {
-        ?? r02 = new Enum("SUCCESSFUL", 0);
+                    static {
+        i r02 = new i();
         f1631c = r02;
-        ?? r12 = new Enum("REREGISTER", 1);
+        i r12 = new i();
         f1632e = r12;
-        ?? r22 = new Enum("CANCELLED", 2);
+        i r22 = new i();
         f1633f = r22;
-        ?? r32 = new Enum("ALREADY_SELECTED", 3);
+        i r32 = new i();
         f1634g = r32;
         f1635h = new i[]{r02, r12, r22, r32};
     }

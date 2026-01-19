@@ -61,14 +61,13 @@ public final class X extends AbstractC1040q implements D, InterfaceC0961c, w0 {
         O0();
     }
 
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    @Override // H0.w0
+        @Override // H0.w0
     public final void L() {
         C0040p c0040p = this.f431z;
         if (c0040p == null) {
             return;
         }
-        ?? r12 = c0040p.a;
+        Object r12 = c0040p.a;
         int size = r12.size();
         for (int i6 = 0; i6 < size; i6++) {
             if (((y) r12.get(i6)).f484d) {
@@ -181,8 +180,7 @@ public final class X extends AbstractC1040q implements D, InterfaceC0961c, w0 {
         O0();
     }
 
-    /* JADX WARN: Type inference failed for: r4v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    @Override // H0.w0
+        @Override // H0.w0
     public final void w(C0040p c0040p, EnumC0041q enumC0041q, long j3) {
         this.f422A = j3;
         if (enumC0041q == EnumC0041q.f475c) {
@@ -192,7 +190,7 @@ public final class X extends AbstractC1040q implements D, InterfaceC0961c, w0 {
             this.f426u = AbstractC1888A.y(A0(), null, new W(this, null), 1);
         }
         N0(c0040p, enumC0041q);
-        ?? r42 = c0040p.a;
+        Object r42 = c0040p.a;
         int size = r42.size();
         int i6 = 0;
         while (true) {

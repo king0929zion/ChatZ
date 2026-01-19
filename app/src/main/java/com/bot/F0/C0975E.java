@@ -241,7 +241,7 @@ public final class C0975E implements List, InterfaceC1374c {
     @Override // java.util.List
     public final ListIterator listIterator(int i6) {
         a();
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12971c = i6 - 1;
         return new Y3.D((C1286u) obj, this);
     }

@@ -49,7 +49,7 @@ public final class v {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [E1.b, java.lang.Object] */
     public E1.b b() {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = new LinkedHashMap();
         obj.f1292b = (p) this.f6637c;
         obj.f1293c = this.f6636b;

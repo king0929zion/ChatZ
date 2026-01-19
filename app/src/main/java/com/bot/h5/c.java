@@ -59,7 +59,7 @@ public final class c implements f5.a {
         }
         if (this.f11925h == null) {
             Queue queue = this.f11926i;
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f11777e = this;
             obj.f11776c = this.f11921c;
             obj.f11778f = queue;

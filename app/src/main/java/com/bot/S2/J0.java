@@ -1,7 +1,5 @@
 package S2;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class J0 {
 
@@ -17,15 +15,12 @@ public final class J0 {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ J0[] f7719g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, S2.J0] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, S2.J0] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, S2.J0] */
-    static {
-        ?? r02 = new Enum("LEFT", 0);
+                static {
+        J0 r02 = new J0();
         f7716c = r02;
-        ?? r12 = new Enum("CENTER", 1);
+        J0 r12 = new J0();
         f7717e = r12;
-        ?? r22 = new Enum("RIGHT", 2);
+        J0 r22 = new J0();
         f7718f = r22;
         f7719g = new J0[]{r02, r12, r22};
     }

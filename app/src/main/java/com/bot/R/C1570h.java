@@ -49,7 +49,7 @@ public final class C1570h extends d4.i implements l4.e {
         if (i6 == 0) {
             X3.a.e(obj);
             InterfaceC1942y interfaceC1942y = (InterfaceC1942y) this.f14339i;
-            ?? obj2 = new Object();
+            Object obj2 = new Object();
             C0010k H3 = T.r.H(this.f14340j);
             C0505j c0505j = new C0505j(obj2, interfaceC1942y, this.f14341k, 1);
             this.f14338h = 1;

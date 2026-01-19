@@ -70,7 +70,7 @@ public abstract class AbstractC0090r0 {
         M.q qVar = c0098v0.f1185d;
         Q q3 = c0098v0.f1203v;
         Q q5 = c0098v0.f1204w;
-        ?? obj = new Object();
+        Object obj = new Object();
         C0091s c0091s = new C0091s(3, qVar, (Object) obj, q3);
         X0.q qVar2 = wVar.a;
         qVar2.e(vVar, kVar, c0091s, q5);
@@ -507,14 +507,14 @@ public abstract class AbstractC0090r0 {
         r rVar;
         X3.i iVar2;
         C0103y c0103y;
-        ?? r10;
-        ?? r22;
+        Object r10;
+        Object r22;
         Object obj;
         Object obj2;
         boolean z7;
-        ?? r5;
+        Object r5;
         Object obj3;
-        ?? r02;
+        Object r02;
         int i12;
         c0626q.d0(-2118572703);
         int i13 = (i9 & 6) == 0 ? (c0626q.f(interfaceC1041r) ? 4 : 2) | i9 : i9;
@@ -571,7 +571,7 @@ public abstract class AbstractC0090r0 {
             if (E5) {
                 c0626q.b0(145641571);
                 boolean z8 = (i17 & 112) == 32;
-                ?? P5 = c0626q.P();
+                Object P5 = c0626q.P();
                 i1 i1Var2 = P5;
                 if (z8 || P5 == c0602e) {
                     i1 i1Var3 = new i1(c0545g);
@@ -589,7 +589,7 @@ public abstract class AbstractC0090r0 {
                 c0626q.b0(145905443);
                 i11 = i18;
                 boolean f6 = ((i17 & 112) == 32) | c0626q.f(i1Var);
-                ?? P6 = c0626q.P();
+                Object P6 = c0626q.P();
                 r rVar2 = P6;
                 if (f6 || P6 == c0602e) {
                     r rVar3 = new r(1, i1Var, c0545g);
@@ -687,7 +687,7 @@ public abstract class AbstractC0090r0 {
             if (z5) {
                 c0626q.b0(146499837);
                 boolean f7 = c0626q.f(r10);
-                ?? P9 = c0626q.P();
+                Object P9 = c0626q.P();
                 C0103y c0103y2 = P9;
                 if (f7 || P9 == c0602e) {
                     C0103y c0103y3 = new C0103y(r10, 1);

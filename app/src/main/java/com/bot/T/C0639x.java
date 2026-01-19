@@ -1637,7 +1637,7 @@ public final class C0639x implements InterfaceC0631t {
                 }
                 Set[] setArr = (Set[]) obj;
                 int length = setArr.length;
-                ?? copyOf = Arrays.copyOf(setArr, length + 1);
+                Object[] copyOf = Arrays.copyOf(setArr, length + 1);
                 copyOf[length] = hVar;
                 hVar2 = copyOf;
             }

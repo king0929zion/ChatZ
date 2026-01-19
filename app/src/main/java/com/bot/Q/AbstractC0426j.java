@@ -254,7 +254,7 @@ public abstract class AbstractC0426j {
         }
         if (c0626q.S(i7 & 1, (i7 & 1171) != 1170)) {
             W w5 = (W) c0626q.j(f5898h);
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f391c = interfaceC1193a;
             obj.f392e = interfaceC1041r;
             obj.f393f = c1102v;

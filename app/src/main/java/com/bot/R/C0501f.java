@@ -54,7 +54,7 @@ public final class C0501f extends d4.i implements l4.g {
             r rVar = this.f6765i;
             float d6 = this.f6766j.d(this.f6767k);
             if (!Float.isNaN(d6)) {
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 C0513s c0513s = this.f6768l;
                 float g3 = Float.isNaN(c0513s.f6833j.g()) ? S.l.f7374V : c0513s.f6833j.g();
                 obj2.f12970c = g3;

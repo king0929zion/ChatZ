@@ -116,7 +116,7 @@ public final class b {
             enabledCipherSuites = (String[]) copyOf;
             enabledCipherSuites[enabledCipherSuites.length - 1] = str;
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = jVar.a;
         obj.f6533b = strArr2;
         obj.f6534c = strArr;

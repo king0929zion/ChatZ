@@ -1,7 +1,5 @@
 package D;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: D.i0, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC0073i0 {
@@ -18,15 +16,12 @@ public final class EnumC0073i0 {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ EnumC0073i0[] f1037g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, D.i0] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, D.i0] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, D.i0] */
-    static {
-        ?? r02 = new Enum("Cursor", 0);
+                static {
+        EnumC0073i0 r02 = new EnumC0073i0();
         f1034c = r02;
-        ?? r12 = new Enum("SelectionStart", 1);
+        EnumC0073i0 r12 = new EnumC0073i0();
         f1035e = r12;
-        ?? r22 = new Enum("SelectionEnd", 2);
+        EnumC0073i0 r22 = new EnumC0073i0();
         f1036f = r22;
         f1037g = new EnumC0073i0[]{r02, r12, r22};
     }

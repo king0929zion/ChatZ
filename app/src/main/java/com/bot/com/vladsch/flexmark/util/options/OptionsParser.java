@@ -49,18 +49,7 @@ public class OptionsParser<T> implements OptionParser<T> {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r15v1, types: [com.vladsch.flexmark.util.options.OptionParser] */
-    /* JADX WARN: Type inference failed for: r15v4 */
-    /* JADX WARN: Type inference failed for: r15v5 */
-    /* JADX WARN: Type inference failed for: r15v6 */
-    /* JADX WARN: Type inference failed for: r15v7 */
-    /* JADX WARN: Type inference failed for: r16v0 */
-    /* JADX WARN: Type inference failed for: r16v1 */
-    /* JADX WARN: Type inference failed for: r16v2, types: [com.vladsch.flexmark.util.misc.DelimitedBuilder] */
-    /* JADX WARN: Type inference failed for: r16v3 */
-    /* JADX WARN: Type inference failed for: r16v4 */
-    /* JADX WARN: Type inference failed for: r16v5 */
-    @Override // com.vladsch.flexmark.util.options.OptionParser
+                                                @Override // com.vladsch.flexmark.util.options.OptionParser
     public Pair<T, List<ParsedOption<T>>> parseOption(BasedSequence basedSequence, T t5, MessageProvider messageProvider) {
         BasedSequence basedSequence2;
         OptionParser<T> optionParser;
@@ -84,8 +73,8 @@ public class OptionsParser<T> implements OptionParser<T> {
                 int length2 = optionParserArr.length;
                 int i8 = i6;
                 CharPredicate charPredicate2 = charPredicate;
-                ?? r16 = charPredicate2;
-                ?? r15 = charPredicate2;
+                Object r16 = charPredicate2;
+                Object r15 = charPredicate2;
                 while (true) {
                     if (i8 >= length2) {
                         basedSequence2 = basedSequence3;

@@ -1,7 +1,5 @@
 package k2;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class j {
 
@@ -14,12 +12,9 @@ public final class j {
     /* JADX INFO: Fake field, exist only in values array */
     j EF0;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [k2.j, java.lang.Enum] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [k2.j, java.lang.Enum] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [k2.j, java.lang.Enum] */
-    static {
-        ?? r02 = new Enum("IGNORE", 0);
-        ?? r12 = new Enum("RESPECT_PERFORMANCE", 1);
+                static {
+        j r02 = new j();
+        j r12 = new j();
         f12620c = r12;
         f12621e = new j[]{r02, r12, new Enum("RESPECT_ALL", 2)};
     }

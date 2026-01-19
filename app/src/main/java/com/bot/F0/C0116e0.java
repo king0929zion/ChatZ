@@ -16,7 +16,7 @@ public final class C0116e0 extends AbstractC0141b0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [h0.q, F0.f0] */
     @Override // H0.AbstractC0141b0
     public final AbstractC1040q e() {
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         abstractC1040q.f1474r = this.a;
         long j3 = Integer.MIN_VALUE;
         abstractC1040q.f1475s = (j3 & 4294967295L) | (j3 << 32);

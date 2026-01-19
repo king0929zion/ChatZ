@@ -36,7 +36,7 @@ public final class x implements Closeable {
     public x(d5.A a) {
         AbstractC1276k.f(a, "sink");
         this.f9531c = a;
-        ?? obj = new Object();
+        Object obj = new Object();
         this.f9532e = obj;
         this.f9533f = 16384;
         this.f9535h = new d(obj);

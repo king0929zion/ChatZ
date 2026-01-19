@@ -59,10 +59,9 @@ public final class H implements InterfaceC1068g, I0 {
         return j3;
     }
 
-    /* JADX WARN: Type inference failed for: r1v0, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    public void c(C0040p c0040p, boolean z5) {
+        public void c(C0040p c0040p, boolean z5) {
         I i6 = (I) this.f394g;
-        ?? r12 = c0040p.a;
+        Object r12 = c0040p.a;
         int size = r12.size();
         for (int i7 = 0; i7 < size; i7++) {
             if (((y) r12.get(i7)).b()) {

@@ -827,7 +827,7 @@ public final class i {
             AbstractC1276k.f("Ignoring popBackStack to destination " + AbstractC0230i.a(this.a.f2519c, i6) + " as it was not found on the current back stack", "message");
             return false;
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         Y3.j jVar2 = new Y3.j();
         int size = arrayList.size();
         int i9 = 0;
@@ -838,7 +838,7 @@ public final class i {
             }
             int i10 = i9 + 1;
             H h3 = (H) arrayList.get(i9);
-            ?? obj2 = new Object();
+            Object obj2 = new Object();
             I1.j jVar3 = (I1.j) jVar.last();
             z7 = z6;
             g gVar = new g((C1283r) obj2, (C1283r) obj, this, z7, jVar2);
@@ -1094,7 +1094,7 @@ public final class i {
                 arrayList2.add(Y4.l.K(jVar4));
             }
         }
-        ?? obj3 = new Object();
+        Object obj3 = new Object();
         int size3 = arrayList2.size();
         while (i7 < size3) {
             Object obj4 = arrayList2.get(i7);

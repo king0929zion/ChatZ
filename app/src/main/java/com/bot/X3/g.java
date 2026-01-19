@@ -1,7 +1,5 @@
 package X3;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class g {
 
@@ -17,14 +15,11 @@ public final class g {
     /* JADX INFO: Fake field, exist only in values array */
     g EF0;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, X3.g] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, X3.g] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, X3.g] */
-    static {
-        ?? r02 = new Enum("SYNCHRONIZED", 0);
-        ?? r12 = new Enum("PUBLICATION", 1);
+                static {
+        g r02 = new g();
+        g r12 = new g();
         f9390c = r12;
-        ?? r22 = new Enum("NONE", 2);
+        g r22 = new g();
         f9391e = r22;
         f9392f = new g[]{r02, r12, r22};
     }

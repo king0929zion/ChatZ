@@ -386,7 +386,7 @@ public abstract class AbstractC1087g {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, b4.c, t4.i] */
     public static t4.i m(l4.e eVar) {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f14951f = Y4.d.x(obj, obj, eVar);
         return obj;
     }

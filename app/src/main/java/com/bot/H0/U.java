@@ -1,7 +1,5 @@
 package H0;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class U {
 
@@ -17,15 +15,12 @@ public final class U {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ U[] f1814g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, H0.U] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, H0.U] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, H0.U] */
-    static {
-        ?? r02 = new Enum("IsPlacedInLookahead", 0);
+                static {
+        U r02 = new U();
         f1811c = r02;
-        ?? r12 = new Enum("IsPlacedInApproach", 1);
+        U r12 = new U();
         f1812e = r12;
-        ?? r22 = new Enum("IsNotPlaced", 2);
+        U r22 = new U();
         f1813f = r22;
         f1814g = new U[]{r02, r12, r22};
     }

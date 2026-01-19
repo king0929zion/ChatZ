@@ -43,7 +43,7 @@ public final class C1254c implements InterfaceC1258g {
             case 1:
                 ByteBuffer byteBuffer = (ByteBuffer) obj;
                 try {
-                    ?? obj2 = new Object();
+                    Object obj2 = new Object();
                     obj2.write(byteBuffer);
                     byteBuffer.position(0);
                     Context context = c1665m.a;

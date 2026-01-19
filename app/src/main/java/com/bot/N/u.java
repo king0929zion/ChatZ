@@ -53,14 +53,13 @@ public final class u extends AbstractC1040q implements InterfaceC0170z, Interfac
         return false;
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [N.s] */
-    @Override // H0.A0
+        @Override // H0.A0
     public final void I(x xVar) {
         s sVar = this.f3627A;
         s sVar2 = sVar;
         if (sVar == null) {
             final int i6 = 0;
-            ?? r02 = new l4.c(this) { // from class: N.s
+            l4.c r02 = new l4.c(this) { // from class: N.s
 
                 /* renamed from: e, reason: collision with root package name */
                 public final /* synthetic */ u f3623e;

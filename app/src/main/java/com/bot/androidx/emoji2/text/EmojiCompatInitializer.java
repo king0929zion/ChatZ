@@ -25,7 +25,7 @@ public class EmojiCompatInitializer implements InterfaceC0884b {
     @Override // b2.InterfaceC0884b
     public final Object b(Context context) {
         Object obj;
-        ?? wVar = new w(new e(context));
+        w wVar = new w(new e(context));
         wVar.a = 1;
         if (j.f15974k == null) {
             synchronized (j.f15973j) {

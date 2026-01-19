@@ -29,7 +29,7 @@ public final class C1555c<T> extends AbstractC0141b0 {
     public final AbstractC1040q e() {
         p.O0 o02 = AbstractC1573i.a;
         X0 x02 = X0.f14184e;
-        ?? abstractC1592o0 = new AbstractC1592o0(o02, true, null, x02);
+        AbstractC1592o0 abstractC1592o0 = new AbstractC1592o0(o02, true, null, x02);
         abstractC1592o0.f14392L = this.a;
         abstractC1592o0.f14393M = x02;
         abstractC1592o0.f14394N = this.f14253b;

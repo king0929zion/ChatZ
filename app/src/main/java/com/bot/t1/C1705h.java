@@ -30,8 +30,7 @@ public final class C1705h extends C0987j {
         super.F();
     }
 
-    /* JADX WARN: Type inference failed for: r4v0, types: [t1.g] */
-    @Override // f0.C0987j
+        @Override // f0.C0987j
     public final void x() {
         int ime;
         View view = this.f14872f;
@@ -41,7 +40,7 @@ public final class C1705h extends C0987j {
             return;
         }
         final AtomicBoolean atomicBoolean = new AtomicBoolean(false);
-        ?? r42 = new WindowInsetsController.OnControllableInsetsChangedListener() { // from class: t1.g
+        WindowInsetsController.OnControllableInsetsChangedListener r42 = new WindowInsetsController.OnControllableInsetsChangedListener() { // from class: t1.g
             @Override // android.view.WindowInsetsController.OnControllableInsetsChangedListener
             public final void onControllableInsetsChanged(WindowInsetsController windowInsetsController2, int i6) {
                 atomicBoolean.set((i6 & 8) != 0);

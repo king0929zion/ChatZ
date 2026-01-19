@@ -45,7 +45,7 @@ final class a extends AbstractC0141b0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [p.r, B.d, h0.q] */
     @Override // H0.AbstractC0141b0
     public final AbstractC1040q e() {
-        ?? rVar = new r(this.f333b, this.f334c, this.f335d, this.f336e, null, this.f337f, this.f338g);
+        r rVar = new r(this.f333b, this.f334c, this.f335d, this.f336e, null, this.f337f, this.f338g);
         rVar.f344Q = this.a;
         return rVar;
     }

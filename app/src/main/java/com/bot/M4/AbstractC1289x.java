@@ -15,7 +15,7 @@ public abstract class AbstractC1289x {
     /* JADX WARN: Type inference failed for: r0v3, types: [java.lang.Object] */
     /* JADX WARN: Type inference failed for: r0v4 */
     static {
-        ?? r02 = 0;
+        int r02 = 0;
         try {
             r02 = (C1290y) Class.forName("kotlin.reflect.jvm.internal.ReflectionFactoryImpl").newInstance();
         } catch (ClassCastException | ClassNotFoundException | IllegalAccessException | InstantiationException unused) {

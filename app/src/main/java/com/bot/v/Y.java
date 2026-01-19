@@ -1,7 +1,5 @@
 package v;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class Y {
 
@@ -11,10 +9,8 @@ public final class Y {
     /* renamed from: e, reason: collision with root package name */
     public static final /* synthetic */ Y[] f15278e;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [v.Y, java.lang.Enum] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [v.Y, java.lang.Enum] */
-    static {
-        ?? r02 = new Enum("Horizontal", 0);
+            static {
+        Y r02 = new Y();
         f15277c = r02;
         f15278e = new Y[]{r02, new Enum("Vertical", 1)};
     }

@@ -84,7 +84,7 @@ public final /* synthetic */ class b1 implements l4.f {
         List list;
         String str;
         kotlinx.serialization.json.b bVar;
-        ?? b5;
+        Object b5;
         String str2;
         boolean z6;
         boolean z7;
@@ -322,7 +322,7 @@ public final /* synthetic */ class b1 implements l4.f {
                 Object obj8 = P7;
                 if (P7 == c0602e) {
                     Object value = d1Var.getValue();
-                    ?? obj9 = new Object();
+                    Object obj9 = new Object();
                     obj9.a = mVar;
                     obj9.f976b = interfaceC0961c;
                     obj9.f977c = dVar;

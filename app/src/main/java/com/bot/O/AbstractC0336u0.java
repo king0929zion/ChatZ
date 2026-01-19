@@ -762,7 +762,7 @@ public abstract class AbstractC0336u0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [java.util.List, java.util.Collection, java.lang.Object] */
     public static final boolean v(C0040p c0040p) {
         MotionEvent a6;
-        ?? r02 = c0040p.a;
+        Object r02 = c0040p.a;
         int size = r02.size();
         int i6 = 0;
         while (true) {

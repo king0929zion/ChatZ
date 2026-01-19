@@ -768,7 +768,7 @@ public final /* synthetic */ class C0091s implements l4.c {
                 Context context = (Context) obj3;
                 G.g gVar = (G.g) obj2;
                 C1492d c1492d = (C1492d) obj;
-                ?? r42 = ((G.c) obj4).a;
+                Object r42 = ((G.c) obj4).a;
                 int size = r42.size();
                 int i17 = 0;
                 while (i17 < size) {

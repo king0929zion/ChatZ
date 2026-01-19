@@ -168,9 +168,8 @@ public final class C0642y0 extends AbstractC0633u {
         return z5;
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.util.List, java.lang.Object] */
-    public final List D() {
-        ?? r02 = this.f8276g;
+        public final List D() {
+        Object r02 = this.f8276g;
         if (r02 != 0) {
             return r02;
         }
@@ -644,12 +643,11 @@ public final class C0642y0 extends AbstractC0633u {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r2v0, types: [T.Z, java.lang.Object, b0.b] */
-    @Override // T.AbstractC0633u
+        @Override // T.AbstractC0633u
     public final InterfaceC0604f s(A0.b bVar) {
         C0158m c0158m = this.f8271b;
         E1.b bVar2 = (E1.b) c0158m.f1973f;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = bVar;
         return bVar2.f(obj, (D.r) c0158m.f1974g);
     }

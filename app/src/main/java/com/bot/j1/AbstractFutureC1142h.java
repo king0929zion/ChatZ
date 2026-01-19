@@ -45,7 +45,7 @@ public abstract class AbstractFutureC1142h implements Future {
     /* JADX WARN: Type inference failed for: r3v4 */
     /* JADX WARN: Type inference failed for: r3v5 */
     static {
-        ?? r32;
+        Object r32;
         try {
             th = null;
             r32 = new C1139e(AtomicReferenceFieldUpdater.newUpdater(C1141g.class, Thread.class, FlexmarkHtmlConverter.A_NODE), AtomicReferenceFieldUpdater.newUpdater(C1141g.class, C1141g.class, FlexmarkHtmlConverter.B_NODE), AtomicReferenceFieldUpdater.newUpdater(AbstractFutureC1142h.class, C1141g.class, "f"), AtomicReferenceFieldUpdater.newUpdater(AbstractFutureC1142h.class, C1138d.class, "e"), AtomicReferenceFieldUpdater.newUpdater(AbstractFutureC1142h.class, Object.class, "c"));

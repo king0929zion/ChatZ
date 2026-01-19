@@ -26,7 +26,7 @@ public final class u extends AbstractC0156k implements m0, InterfaceC0154i {
     /* JADX WARN: Type inference failed for: r0v0, types: [m4.w, java.lang.Object] */
     @Override // H0.m0
     public final void i0() {
-        ?? obj = new Object();
+        Object obj = new Object();
         AbstractC0157l.r(this, new C0028d(6, obj, this));
         X x5 = (X) obj.f12973c;
         if (this.f11901t.R0().b()) {

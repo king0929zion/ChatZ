@@ -776,7 +776,7 @@ public class l0 implements InterfaceC1922e0, r0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [C4.k, x4.n0] */
     public final void h0(C1902O c1902o) {
         AtomicReferenceFieldUpdater atomicReferenceFieldUpdater;
-        ?? kVar = new C4.k();
+        C4.k kVar = new C4.k();
         C1912Z c1912z = kVar;
         if (!c1902o.f15662c) {
             c1912z = new C1912Z(kVar);

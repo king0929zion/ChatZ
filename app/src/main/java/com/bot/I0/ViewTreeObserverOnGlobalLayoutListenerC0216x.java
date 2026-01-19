@@ -386,13 +386,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
     /* renamed from: z0, reason: collision with root package name */
     public final M.q f2488z0;
 
-    /* JADX WARN: Type inference failed for: r0v15, types: [java.lang.Object, B0.B] */
-    /* JADX WARN: Type inference failed for: r0v18, types: [B0.H, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v7, types: [P0.e, h0.q] */
-    /* JADX WARN: Type inference failed for: r3v27, types: [java.lang.Object, I0.C0] */
-    /* JADX WARN: Type inference failed for: r3v37, types: [java.lang.Object, G0.b] */
-    /* JADX WARN: Type inference failed for: r3v38, types: [java.lang.Object, I0.T] */
-    public ViewTreeObserverOnGlobalLayoutListenerC0216x(Context context, InterfaceC0910h interfaceC0910h) {
+                            public ViewTreeObserverOnGlobalLayoutListenerC0216x(Context context, InterfaceC0910h interfaceC0910h) {
         super(context);
         this.f2442c = 9205357640488583168L;
         this.f2445e = true;
@@ -407,7 +401,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         int i7 = Build.VERSION.SDK_INT;
         boolean z5 = i7 >= 35;
         this.f2465o = z5;
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         this.f2467p = new m0.q(this, this);
         this.f2469q = interfaceC0910h;
         this.f2471r = new k0.b();
@@ -436,7 +430,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         this.f2418G = new k.I();
         this.f2425K = new C0036l();
         H0.J root = getRoot();
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f378b = root;
         obj.f379c = new C0029e(root.f1721J.f1916c);
         obj.f380d = new A3.c(1, (byte) 0);
@@ -444,7 +438,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         this.f2426L = obj;
         this.f2428M = T.r.A(new Configuration(context.getResources().getConfiguration()));
         C1072k autofillTree = getAutofillTree();
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f391c = this;
         obj2.f392e = autofillTree;
         AutofillManager autofillManager = (AutofillManager) getContext().getSystemService(AutofillManager.class);
@@ -494,13 +488,13 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         this.f2474s0 = T.r.A(mVar2 != null ? mVar2 : mVar);
         this.f2476t0 = new C0205r0(this, 1);
         this.f2478u0 = new C1863c(isInTouchMode() ? 1 : 2);
-        ?? obj3 = new Object();
+        Object obj3 = new Object();
         new V.e(new C0140b[16]);
         new V.e(new Y4.l[16]);
         new V.e(new H0.J[16]);
         new V.e(new Y4.l[16]);
         this.f2480v0 = obj3;
-        ?? obj4 = new Object();
+        Object obj4 = new Object();
         new F2.h(new A0.b(obj4, 6));
         this.f2482w0 = obj4;
         this.f2488z0 = new M.q(9);
@@ -1595,23 +1589,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         if ((r2 / r3) >= 5.0f) goto L246;
      */
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r32v0 */
-    /* JADX WARN: Type inference failed for: r32v1, types: [boolean] */
-    /* JADX WARN: Type inference failed for: r32v2 */
-    /* JADX WARN: Type inference failed for: r38v0 */
-    /* JADX WARN: Type inference failed for: r38v1, types: [boolean] */
-    /* JADX WARN: Type inference failed for: r38v2 */
-    /* JADX WARN: Type inference failed for: r4v21 */
-    /* JADX WARN: Type inference failed for: r4v22 */
-    /* JADX WARN: Type inference failed for: r4v30 */
-    /* JADX WARN: Type inference failed for: r4v31, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v73 */
-    /* JADX WARN: Type inference failed for: r5v49 */
-    /* JADX WARN: Type inference failed for: r5v50 */
-    /* JADX WARN: Type inference failed for: r5v58 */
-    /* JADX WARN: Type inference failed for: r5v59, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r5v85 */
-    @Override // android.view.View
+                                                                    @Override // android.view.View
     /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
@@ -1805,8 +1783,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         }
     }
 
-    /* JADX WARN: Type inference failed for: r3v0, types: [m4.w, java.lang.Object] */
-    @Override // android.view.ViewGroup, android.view.ViewParent
+        @Override // android.view.ViewGroup, android.view.ViewParent
     public final View focusSearch(View view, int i6) {
         C1354c a;
         if (view == null || this.f2440a0.f1844c) {
@@ -1829,7 +1806,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         }
         m0.f d6 = m0.j.d(i6);
         int i7 = d6 != null ? d6.a : 6;
-        ?? obj = new Object();
+        Object obj = new Object();
         if (((m0.q) getFocusOwner()).g(i7, a, new A0.k(obj, 2)) == null) {
             return view;
         }
@@ -2160,9 +2137,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         throw new UnsupportedOperationException("Method not decompiled: I0.ViewTreeObserverOnGlobalLayoutListenerC0216x.o(android.view.MotionEvent):int");
     }
 
-    /* JADX WARN: Type inference failed for: r0v34, types: [I0.l, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r7v0, types: [androidx.lifecycle.W, java.lang.Object] */
-    @Override // android.view.ViewGroup, android.view.View
+            @Override // android.view.ViewGroup, android.view.View
     public final void onAttachedToWindow() {
         InterfaceC0921d interfaceC0921d;
         androidx.lifecycle.O g3;
@@ -2175,7 +2150,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         this.f2479v.onViewAttachedToWindow(this);
         if (i6 > 28) {
             if (f2405R0 == null) {
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 f2405R0 = obj2;
                 StrictMode.VmPolicy vmPolicy = StrictMode.getVmPolicy();
                 try {
@@ -2222,7 +2197,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
             interfaceC0921d = null;
         } else {
             androidx.lifecycle.Z e7 = f6.e();
-            ?? obj3 = new Object();
+            Object obj3 = new Object();
             F1.a aVar = F1.a.f1544b;
             AbstractC1276k.f(aVar, "extras");
             B0.H h6 = new B0.H(e7, obj3, aVar);
@@ -2604,8 +2579,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
         }
     }
 
-    /* JADX WARN: Type inference failed for: r5v1, types: [m4.a, O0.j] */
-    @Override // android.view.View
+        @Override // android.view.View
     public final void onScrollCaptureSearch(Rect rect, Point point, Consumer consumer) {
         A3.c cVar;
         if (Build.VERSION.SDK_INT >= 31 && (cVar = this.K0) != null) {
@@ -2717,29 +2691,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r4v0 */
-    /* JADX WARN: Type inference failed for: r4v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v10 */
-    /* JADX WARN: Type inference failed for: r4v11 */
-    /* JADX WARN: Type inference failed for: r4v12 */
-    /* JADX WARN: Type inference failed for: r4v4 */
-    /* JADX WARN: Type inference failed for: r4v5, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v6, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r4v7 */
-    /* JADX WARN: Type inference failed for: r4v8 */
-    /* JADX WARN: Type inference failed for: r4v9 */
-    /* JADX WARN: Type inference failed for: r5v0 */
-    /* JADX WARN: Type inference failed for: r5v1 */
-    /* JADX WARN: Type inference failed for: r5v10 */
-    /* JADX WARN: Type inference failed for: r5v11 */
-    /* JADX WARN: Type inference failed for: r5v2 */
-    /* JADX WARN: Type inference failed for: r5v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v4 */
-    /* JADX WARN: Type inference failed for: r5v5 */
-    /* JADX WARN: Type inference failed for: r5v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v8 */
-    /* JADX WARN: Type inference failed for: r5v9 */
-    public void setCoroutineContext(InterfaceC0910h interfaceC0910h) {
+                                                                                            public void setCoroutineContext(InterfaceC0910h interfaceC0910h) {
         this.f2469q = interfaceC0910h;
         AbstractC1040q abstractC1040q = getRoot().f1721J.f1919f;
         if (abstractC1040q instanceof B0.X) {
@@ -2766,7 +2718,7 @@ public final class ViewTreeObserverOnGlobalLayoutListenerC0216x extends ViewGrou
                 for (AbstractC1040q abstractC1040q5 = abstractC1040q4; abstractC1040q5 != null && abstractC1040q5.f11819q; abstractC1040q5 = abstractC1040q5.f11811i) {
                     if ((abstractC1040q5.f11808f & 16) != 0) {
                         AbstractC0156k abstractC0156k = abstractC1040q5;
-                        ?? r5 = 0;
+                        int r5 = 0;
                         while (abstractC0156k != 0) {
                             if (abstractC0156k instanceof H0.w0) {
                                 H0.w0 w0Var = (H0.w0) abstractC0156k;

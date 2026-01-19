@@ -265,7 +265,7 @@ public class V extends AbstractC0049b implements N, InterfaceC0007h, B4.w {
     /* JADX WARN: Type inference failed for: r0v0, types: [A4.X, B4.d, java.lang.Object] */
     @Override // B4.AbstractC0049b
     public final AbstractC0051d e() {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = -1L;
         return obj;
     }
@@ -385,7 +385,7 @@ public class V extends AbstractC0049b implements N, InterfaceC0007h, B4.w {
                     int length3 = interfaceC0905cArr.length;
                     interfaceC0905cArr = interfaceC0905cArr;
                     if (length >= length3) {
-                        ?? copyOf = Arrays.copyOf(interfaceC0905cArr, Math.max(2, interfaceC0905cArr.length * 2));
+                        Object[] copyOf = Arrays.copyOf(interfaceC0905cArr, Math.max(2, interfaceC0905cArr.length * 2));
                         AbstractC1276k.e(copyOf, "copyOf(...)");
                         interfaceC0905cArr = copyOf;
                     }

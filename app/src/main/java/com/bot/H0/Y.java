@@ -277,10 +277,7 @@ public final class Y {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r13v1 */
-    /* JADX WARN: Type inference failed for: r13v11 */
-    /* JADX WARN: Type inference failed for: r13v2, types: [h0.q] */
-    public final boolean j(I0.r rVar) {
+                public final boolean j(I0.r rVar) {
         boolean z5;
         AbstractC1040q abstractC1040q;
         V.e eVar;
@@ -451,16 +448,7 @@ public final class Y {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r12v1 */
-    /* JADX WARN: Type inference failed for: r12v11 */
-    /* JADX WARN: Type inference failed for: r12v2, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r15v0 */
-    /* JADX WARN: Type inference failed for: r15v1, types: [int] */
-    /* JADX WARN: Type inference failed for: r15v2 */
-    /* JADX WARN: Type inference failed for: r15v3, types: [int] */
-    /* JADX WARN: Type inference failed for: r15v4 */
-    /* JADX WARN: Type inference failed for: r17v0, types: [H0.J, java.lang.Object] */
-    public final void k(J j3, long j4) {
+                                        public final void k(J j3, long j4) {
         AbstractC1040q abstractC1040q;
         AbstractC1040q abstractC1040q2;
         if (j3.f1732U) {
@@ -534,7 +522,7 @@ public final class Y {
                             ((InterfaceC0169y) abstractC0156k).o(c0149f0.f1916c);
                         } else if ((abstractC0156k.f11808f & PegdownExtensions.EXTANCHORLINKS) != 0 && (abstractC0156k instanceof AbstractC0156k)) {
                             AbstractC1040q abstractC1040q3 = abstractC0156k.f1964s;
-                            ?? r15 = z5;
+                            Object r15 = z5;
                             abstractC1040q2 = abstractC0156k;
                             eVar2 = eVar2;
                             while (abstractC1040q3 != null) {

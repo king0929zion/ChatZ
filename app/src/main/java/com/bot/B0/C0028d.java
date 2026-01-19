@@ -41,29 +41,7 @@ public final class C0028d extends AbstractC1277l implements InterfaceC1193a {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r3v0 */
-    /* JADX WARN: Type inference failed for: r3v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r3v13 */
-    /* JADX WARN: Type inference failed for: r3v14 */
-    /* JADX WARN: Type inference failed for: r3v3 */
-    /* JADX WARN: Type inference failed for: r3v4, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r3v5, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r3v6 */
-    /* JADX WARN: Type inference failed for: r3v7 */
-    /* JADX WARN: Type inference failed for: r3v8 */
-    /* JADX WARN: Type inference failed for: r3v9 */
-    /* JADX WARN: Type inference failed for: r4v0 */
-    /* JADX WARN: Type inference failed for: r4v1 */
-    /* JADX WARN: Type inference failed for: r4v2 */
-    /* JADX WARN: Type inference failed for: r4v24 */
-    /* JADX WARN: Type inference failed for: r4v25 */
-    /* JADX WARN: Type inference failed for: r4v26 */
-    /* JADX WARN: Type inference failed for: r4v27 */
-    /* JADX WARN: Type inference failed for: r4v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r4v4 */
-    /* JADX WARN: Type inference failed for: r4v5 */
-    /* JADX WARN: Type inference failed for: r4v6, types: [V.e] */
-    @Override // l4.InterfaceC1193a
+                                                                                            @Override // l4.InterfaceC1193a
     public final Object b() {
         boolean dispatchKeyEvent;
         P0.p pVar;
@@ -80,7 +58,7 @@ public final class C0028d extends AbstractC1277l implements InterfaceC1193a {
                     for (AbstractC1040q abstractC1040q = c0149f0.f1918e; abstractC1040q != null; abstractC1040q = abstractC1040q.f11810h) {
                         if ((abstractC1040q.f11808f & 8) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q;
-                            ?? r42 = 0;
+                            int r42 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof A0) {
                                     A0 a02 = (A0) abstractC0156k;

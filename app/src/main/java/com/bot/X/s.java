@@ -110,14 +110,12 @@ public final class s implements InterfaceC1623y1 {
     /* renamed from: w, reason: collision with root package name */
     public final e0.k f15566w;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, x.a] */
-    /* JADX WARN: Type inference failed for: r0v1, types: [java.lang.Object, B0.B] */
-    public s(int i6, int i7) {
-        ?? obj = new Object();
+            public s(int i6, int i7) {
+        Object obj = new Object();
         obj.a = -1;
         obj.f15440d = -1;
         this.a = obj;
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f378b = new C0601d0(i6);
         obj2.f379c = new C0601d0(i7);
         obj2.f381e = new W(i6);
@@ -263,15 +261,14 @@ public final class s implements InterfaceC1623y1 {
         return this.f15552i.e(f6);
     }
 
-    /* JADX WARN: Type inference failed for: r3v0, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    public final void f(l lVar, boolean z5, boolean z6) {
+        public final void f(l lVar, boolean z5, boolean z6) {
         e0.k kVar;
         long j3;
         AbstractC0983f e6;
         l4.c e7;
         AbstractC0983f h3;
         E0 e02 = AbstractC1318d.f13114j;
-        ?? r32 = lVar.f15501k;
+        Object r32 = lVar.f15501k;
         int i6 = lVar.f15504n;
         int i7 = lVar.f15492b;
         m mVar = lVar.a;
@@ -388,14 +385,12 @@ public final class s implements InterfaceC1623y1 {
         return (l) this.f15549f.getValue();
     }
 
-    /* JADX WARN: Type inference failed for: r0v1, types: [java.util.Collection, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r1v0, types: [java.util.List, java.lang.Object] */
-    public final void h(float f6, l lVar) {
+            public final void h(float f6, l lVar) {
         a0 a0Var;
         a0 a0Var2;
         if (this.f15553j) {
-            ?? r02 = lVar.f15501k;
-            ?? r12 = lVar.f15501k;
+            Object r02 = lVar.f15501k;
+            Object r12 = lVar.f15501k;
             boolean isEmpty = r02.isEmpty();
             C1850a c1850a = this.a;
             if (!isEmpty) {

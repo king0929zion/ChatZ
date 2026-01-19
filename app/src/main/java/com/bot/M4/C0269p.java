@@ -10,7 +10,7 @@ public final class C0269p extends ClassValue {
     @Override // java.lang.ClassValue
     public final Object computeValue(Class cls) {
         AbstractC1276k.f(cls, "type");
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = new SoftReference(null);
         return obj;
     }

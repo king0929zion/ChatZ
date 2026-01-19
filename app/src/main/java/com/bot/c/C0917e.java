@@ -21,13 +21,12 @@ public final class C0917e extends AbstractC1277l implements InterfaceC1193a {
         this.f11073f = z5;
     }
 
-    /* JADX WARN: Type inference failed for: r0v1, types: [m4.i, l4.a] */
-    @Override // l4.InterfaceC1193a
+        @Override // l4.InterfaceC1193a
     public final Object b() {
         boolean z5 = this.f11073f;
         h hVar = this.f11072e;
         hVar.a = z5;
-        ?? r02 = hVar.f10957c;
+        Object r02 = hVar.f10957c;
         if (r02 != 0) {
             r02.b();
         }

@@ -31,9 +31,7 @@ public final class c implements List, InterfaceC1374c {
         this.f8755g = i7;
     }
 
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r1v3, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List, java.util.Collection
+            @Override // java.util.List, java.util.Collection
     public final boolean add(Object obj) {
         switch (this.f8752c) {
             case 0:
@@ -49,9 +47,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v5, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List
+            @Override // java.util.List
     public final boolean addAll(int i6, Collection collection) {
         switch (this.f8752c) {
             case 0:
@@ -67,9 +63,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r2v0, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v1, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List, java.util.Collection
+            @Override // java.util.List, java.util.Collection
     public final void clear() {
         switch (this.f8752c) {
             case 0:
@@ -101,9 +95,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r2v0, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v3, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List, java.util.Collection
+            @Override // java.util.List, java.util.Collection
     public final boolean contains(Object obj) {
         switch (this.f8752c) {
             case 0:
@@ -148,9 +140,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v4, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List
+            @Override // java.util.List
     public final Object get(int i6) {
         switch (this.f8752c) {
             case 0:
@@ -162,9 +152,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r3v0, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r3v3, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List
+            @Override // java.util.List
     public final int indexOf(Object obj) {
         switch (this.f8752c) {
             case 0:
@@ -208,9 +196,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r2v0, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v3, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List
+            @Override // java.util.List
     public final int lastIndexOf(Object obj) {
         switch (this.f8752c) {
             case 0:
@@ -250,15 +236,13 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r2v0, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v1, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List, java.util.Collection
+            @Override // java.util.List, java.util.Collection
     public final boolean remove(Object obj) {
         switch (this.f8752c) {
             case 0:
                 int i6 = this.f8755g;
                 for (int i7 = this.f8754f; i7 < i6; i7++) {
-                    ?? r22 = this.f8753e;
+                    Object r22 = this.f8753e;
                     if (AbstractC1276k.b(r22.get(i7), obj)) {
                         r22.remove(i7);
                         this.f8755g--;
@@ -269,7 +253,7 @@ public final class c implements List, InterfaceC1374c {
             default:
                 int i8 = this.f8755g;
                 for (int i9 = this.f8754f; i9 < i8; i9++) {
-                    ?? r23 = this.f8753e;
+                    Object r23 = this.f8753e;
                     if (AbstractC1276k.b(r23.get(i9), obj)) {
                         r23.remove(i9);
                         this.f8755g--;
@@ -301,9 +285,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r3v0, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r3v3, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List, java.util.Collection
+            @Override // java.util.List, java.util.Collection
     public final boolean retainAll(Collection collection) {
         switch (this.f8752c) {
             case 0:
@@ -312,7 +294,7 @@ public final class c implements List, InterfaceC1374c {
                 int i8 = this.f8754f;
                 if (i8 <= i7) {
                     while (true) {
-                        ?? r32 = this.f8753e;
+                        Object r32 = this.f8753e;
                         if (!collection.contains(r32.get(i7))) {
                             r32.remove(i7);
                             this.f8755g--;
@@ -330,7 +312,7 @@ public final class c implements List, InterfaceC1374c {
                 int i11 = this.f8754f;
                 if (i11 <= i10) {
                     while (true) {
-                        ?? r33 = this.f8753e;
+                        Object r33 = this.f8753e;
                         if (!collection.contains(r33.get(i10))) {
                             r33.remove(i10);
                             this.f8755g--;
@@ -344,9 +326,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v4, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List
+            @Override // java.util.List
     public final Object set(int i6, Object obj) {
         switch (this.f8752c) {
             case 0:
@@ -397,9 +377,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v4, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List
+            @Override // java.util.List
     public final void add(int i6, Object obj) {
         switch (this.f8752c) {
             case 0:
@@ -434,9 +412,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v1, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v5, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List, java.util.Collection
+            @Override // java.util.List, java.util.Collection
     public final boolean addAll(Collection collection) {
         switch (this.f8752c) {
             case 0:
@@ -452,9 +428,7 @@ public final class c implements List, InterfaceC1374c {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v6, types: [java.util.List, java.lang.Object] */
-    @Override // java.util.List
+            @Override // java.util.List
     public final Object remove(int i6) {
         switch (this.f8752c) {
             case 0:

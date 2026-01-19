@@ -11,7 +11,7 @@ public final class C1767e {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [u4.e, java.lang.Object] */
     static {
-        ?? obj = new Object();
+        Object obj = new Object();
         if (!AbstractC1121e.c("  ") && !AbstractC1121e.c(FlexmarkHtmlConverter.DEFAULT_NODE) && !AbstractC1121e.c(FlexmarkHtmlConverter.DEFAULT_NODE)) {
             AbstractC1121e.c(FlexmarkHtmlConverter.DEFAULT_NODE);
         }

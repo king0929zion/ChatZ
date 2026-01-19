@@ -439,7 +439,7 @@ public abstract class a {
         float f6;
         long j4;
         float f7;
-        ?? r42;
+        Object r42;
         C1038o c1038o;
         c0626q.d0(-2075762358);
         int i7 = i6 | (c0626q.f(str) ? 4 : 2) | (c0626q.g(z5) ? 32 : 16) | (c0626q.g(z6) ? PegdownExtensions.WIKILINKS : PegdownExtensions.FENCED_CODE_BLOCKS) | (c0626q.g(z7) ? 2048 : PegdownExtensions.ANCHORLINKS);
@@ -637,7 +637,7 @@ public abstract class a {
         long j4;
         C0626q c0626q2;
         long j5;
-        ?? r42;
+        Object r42;
         Object obj;
         C1381C c1381c;
         C1038o c1038o;

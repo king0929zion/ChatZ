@@ -60,7 +60,7 @@ public abstract class b {
             if (list == null) {
                 list = AbstractC1358b.f(resources, 0);
             }
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.a = str;
             obj.f14643b = str2;
             obj.f14644c = list;

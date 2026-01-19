@@ -36,9 +36,7 @@ public final class n implements InterfaceC1563e1 {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v6, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r1v0, types: [java.util.List, java.lang.Object] */
-    public final int b(int i6) {
+            public final int b(int i6) {
         Object obj;
         switch (this.a) {
             case 0:
@@ -50,7 +48,7 @@ public final class n implements InterfaceC1563e1 {
                 if (i6 > e() || c6 > i6) {
                     return ((i6 - c()) * AbstractC1121e.p(g3)) - d();
                 }
-                ?? r02 = g3.f15501k;
+                Object r02 = g3.f15501k;
                 int size = r02.size();
                 int i7 = 0;
                 while (true) {
@@ -92,8 +90,7 @@ public final class n implements InterfaceC1563e1 {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v4, types: [java.util.List, java.lang.Object] */
-    public final int e() {
+        public final int e() {
         switch (this.a) {
             case 0:
                 m mVar = (m) Y3.m.x0(((s) this.f15531c).g().f15501k);

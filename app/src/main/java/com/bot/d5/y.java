@@ -122,7 +122,7 @@ public final class y implements Comparable {
         if (a8.subList(i6, a8.size()).indexOf(e5.c.f11601e) != -1) {
             throw new IllegalArgumentException(("Impossible relative path to resolve: " + this + " and " + yVar).toString());
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         C0952l c6 = e5.c.c(yVar);
         if (c6 == null && (c6 = e5.c.c(this)) == null) {
             c6 = e5.c.f(f11513e);
@@ -151,7 +151,7 @@ public final class y implements Comparable {
     /* JADX WARN: Type inference failed for: r0v1, types: [d5.i, java.lang.Object] */
     public final y d(String str) {
         AbstractC1276k.f(str, "child");
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.g0(str);
         return e5.c.b(this, e5.c.d(obj, false), false);
     }

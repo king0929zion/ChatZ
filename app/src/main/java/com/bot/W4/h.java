@@ -54,7 +54,7 @@ public final class h implements V4.d {
         this.f9041c = c6;
         this.f9042d = a;
         AbstractC1276k.f(c6, "source");
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f9023b = c6;
         obj.a = 262144L;
         this.f9044f = obj;

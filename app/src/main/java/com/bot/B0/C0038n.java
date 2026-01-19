@@ -53,34 +53,7 @@ public final class C0038n extends C0039o {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r1v4, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r4v6, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r5v0, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r5v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r5v38 */
-    /* JADX WARN: Type inference failed for: r5v39, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r5v40, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r5v41 */
-    /* JADX WARN: Type inference failed for: r5v42 */
-    /* JADX WARN: Type inference failed for: r5v43 */
-    /* JADX WARN: Type inference failed for: r5v44 */
-    /* JADX WARN: Type inference failed for: r5v45 */
-    /* JADX WARN: Type inference failed for: r5v46 */
-    /* JADX WARN: Type inference failed for: r5v47 */
-    /* JADX WARN: Type inference failed for: r5v8 */
-    /* JADX WARN: Type inference failed for: r5v9, types: [int] */
-    /* JADX WARN: Type inference failed for: r8v0 */
-    /* JADX WARN: Type inference failed for: r8v1 */
-    /* JADX WARN: Type inference failed for: r8v15 */
-    /* JADX WARN: Type inference failed for: r8v16, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r8v17 */
-    /* JADX WARN: Type inference failed for: r8v18 */
-    /* JADX WARN: Type inference failed for: r8v19, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r8v21 */
-    /* JADX WARN: Type inference failed for: r8v22 */
-    /* JADX WARN: Type inference failed for: r8v23 */
-    /* JADX WARN: Type inference failed for: r8v24 */
-    @Override // B0.C0039o
+                                                                                                                @Override // B0.C0039o
     public final boolean a(C1173u c1173u, InterfaceC0134w interfaceC0134w, C0033i c0033i, boolean z5) {
         C1173u c1173u2;
         C0.c cVar;
@@ -101,7 +74,7 @@ public final class C0038n extends C0039o {
         AbstractC0156k abstractC0156k = this.f461c;
         boolean z10 = true;
         if (abstractC0156k.f11819q) {
-            ?? r8 = 0;
+            int r8 = 0;
             while (abstractC0156k != 0) {
                 if (abstractC0156k instanceof w0) {
                     this.f464f = AbstractC0157l.t((w0) abstractC0156k, 16);
@@ -324,12 +297,12 @@ public final class C0038n extends C0039o {
                     z6 = false;
                 }
                 if (!z12 && c0040p2.f474f == 3 && (c0040p = this.f465g) != null) {
-                    ?? r12 = c0040p.a;
+                    Object r12 = c0040p.a;
                     int size3 = r12.size();
-                    ?? r42 = c0040p2.a;
+                    Object r42 = c0040p2.a;
                     if (size3 == r42.size()) {
                         int size4 = r42.size();
-                        for (?? r5 = z6; r5 < size4; r5++) {
+                        for (Object r5 = z6; r5 < size4; r5++) {
                             if (C1353b.c(((y) r12.get(r5)).f483c, ((y) r42.get(r5)).f483c)) {
                             }
                         }
@@ -346,8 +319,7 @@ public final class C0038n extends C0039o {
         return true;
     }
 
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    @Override // B0.C0039o
+        @Override // B0.C0039o
     public final void b(C0033i c0033i) {
         super.b(c0033i);
         C0040p c0040p = this.f465g;
@@ -355,7 +327,7 @@ public final class C0038n extends C0039o {
             return;
         }
         this.f466h = this.f467i;
-        ?? r12 = c0040p.a;
+        Object r12 = c0040p.a;
         int size = r12.size();
         for (int i6 = 0; i6 < size; i6++) {
             y yVar = (y) r12.get(i6);
@@ -372,29 +344,7 @@ public final class C0038n extends C0039o {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r1v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r1v10 */
-    /* JADX WARN: Type inference failed for: r1v11 */
-    /* JADX WARN: Type inference failed for: r1v12 */
-    /* JADX WARN: Type inference failed for: r1v2, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r1v4 */
-    /* JADX WARN: Type inference failed for: r1v5, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r1v6, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r1v7 */
-    /* JADX WARN: Type inference failed for: r1v8 */
-    /* JADX WARN: Type inference failed for: r1v9 */
-    /* JADX WARN: Type inference failed for: r3v11 */
-    /* JADX WARN: Type inference failed for: r3v12 */
-    /* JADX WARN: Type inference failed for: r3v13 */
-    /* JADX WARN: Type inference failed for: r3v14 */
-    /* JADX WARN: Type inference failed for: r3v2 */
-    /* JADX WARN: Type inference failed for: r3v3 */
-    /* JADX WARN: Type inference failed for: r3v4 */
-    /* JADX WARN: Type inference failed for: r3v5, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r3v6 */
-    /* JADX WARN: Type inference failed for: r3v7 */
-    /* JADX WARN: Type inference failed for: r3v8, types: [V.e] */
-    public final void c() {
+                                                                                            public final void c() {
         V.e eVar = this.a;
         Object[] objArr = eVar.f8759c;
         int i6 = eVar.f8761f;
@@ -402,7 +352,7 @@ public final class C0038n extends C0039o {
             ((C0038n) objArr[i7]).c();
         }
         AbstractC0156k abstractC0156k = this.f461c;
-        ?? r32 = 0;
+        int r32 = 0;
         while (abstractC0156k != 0) {
             if (abstractC0156k instanceof w0) {
                 ((w0) abstractC0156k).L();
@@ -441,29 +391,7 @@ public final class C0038n extends C0039o {
 
     /* JADX WARN: Multi-variable type inference failed */
     /* JADX WARN: Removed duplicated region for block: B:6:0x008d A[LOOP:0: B:5:0x008b->B:6:0x008d, LOOP_END] */
-    /* JADX WARN: Type inference failed for: r7v0 */
-    /* JADX WARN: Type inference failed for: r7v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r7v10 */
-    /* JADX WARN: Type inference failed for: r7v11 */
-    /* JADX WARN: Type inference failed for: r7v3 */
-    /* JADX WARN: Type inference failed for: r7v4, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r7v5, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r7v6 */
-    /* JADX WARN: Type inference failed for: r7v7 */
-    /* JADX WARN: Type inference failed for: r7v8 */
-    /* JADX WARN: Type inference failed for: r7v9 */
-    /* JADX WARN: Type inference failed for: r8v0 */
-    /* JADX WARN: Type inference failed for: r8v1 */
-    /* JADX WARN: Type inference failed for: r8v10 */
-    /* JADX WARN: Type inference failed for: r8v11 */
-    /* JADX WARN: Type inference failed for: r8v2 */
-    /* JADX WARN: Type inference failed for: r8v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r8v4 */
-    /* JADX WARN: Type inference failed for: r8v5 */
-    /* JADX WARN: Type inference failed for: r8v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r8v8 */
-    /* JADX WARN: Type inference failed for: r8v9 */
-    /*
+                                                                                            /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
     */
@@ -574,51 +502,7 @@ public final class C0038n extends C0039o {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r0v10 */
-    /* JADX WARN: Type inference failed for: r0v11 */
-    /* JADX WARN: Type inference failed for: r0v12 */
-    /* JADX WARN: Type inference failed for: r0v13 */
-    /* JADX WARN: Type inference failed for: r0v2, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r0v3, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r0v5 */
-    /* JADX WARN: Type inference failed for: r0v6, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r0v7, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r0v8 */
-    /* JADX WARN: Type inference failed for: r0v9 */
-    /* JADX WARN: Type inference failed for: r14v10 */
-    /* JADX WARN: Type inference failed for: r14v11 */
-    /* JADX WARN: Type inference failed for: r14v12 */
-    /* JADX WARN: Type inference failed for: r14v13 */
-    /* JADX WARN: Type inference failed for: r14v2 */
-    /* JADX WARN: Type inference failed for: r14v3 */
-    /* JADX WARN: Type inference failed for: r14v4 */
-    /* JADX WARN: Type inference failed for: r14v5, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r14v6 */
-    /* JADX WARN: Type inference failed for: r14v7 */
-    /* JADX WARN: Type inference failed for: r14v8, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r6v0 */
-    /* JADX WARN: Type inference failed for: r6v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r6v10 */
-    /* JADX WARN: Type inference failed for: r6v11, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r6v12, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r6v13 */
-    /* JADX WARN: Type inference failed for: r6v14 */
-    /* JADX WARN: Type inference failed for: r6v15 */
-    /* JADX WARN: Type inference failed for: r6v16 */
-    /* JADX WARN: Type inference failed for: r6v17 */
-    /* JADX WARN: Type inference failed for: r6v18 */
-    /* JADX WARN: Type inference failed for: r7v0 */
-    /* JADX WARN: Type inference failed for: r7v1 */
-    /* JADX WARN: Type inference failed for: r7v10, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r7v12 */
-    /* JADX WARN: Type inference failed for: r7v13 */
-    /* JADX WARN: Type inference failed for: r7v14 */
-    /* JADX WARN: Type inference failed for: r7v15 */
-    /* JADX WARN: Type inference failed for: r7v6 */
-    /* JADX WARN: Type inference failed for: r7v7, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r7v8 */
-    /* JADX WARN: Type inference failed for: r7v9 */
-    public final boolean e(C0033i c0033i, boolean z5) {
+                                                                                                                                                                                    public final boolean e(C0033i c0033i, boolean z5) {
         if (this.f463e.e() == 0) {
             return false;
         }
@@ -632,7 +516,7 @@ public final class C0038n extends C0039o {
         AbstractC1276k.c(i0Var);
         long j3 = i0Var.f1487f;
         AbstractC0156k abstractC0156k2 = abstractC0156k;
-        ?? r7 = 0;
+        int r7 = 0;
         while (abstractC0156k2 != 0) {
             if (abstractC0156k2 instanceof w0) {
                 ((w0) abstractC0156k2).w(c0040p, EnumC0041q.f475c, j3);
@@ -678,7 +562,7 @@ public final class C0038n extends C0039o {
             }
         }
         if (abstractC0156k.f11819q) {
-            ?? r14 = 0;
+            int r14 = 0;
             while (abstractC0156k != 0) {
                 if (abstractC0156k instanceof w0) {
                     ((w0) abstractC0156k).w(c0040p, EnumC0041q.f476e, j3);

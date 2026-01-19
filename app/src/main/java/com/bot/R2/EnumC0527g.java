@@ -1,7 +1,5 @@
 package R2;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: R2.g, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC0527g {
@@ -21,18 +19,14 @@ public final class EnumC0527g {
     /* renamed from: h, reason: collision with root package name */
     public static final /* synthetic */ EnumC0527g[] f6939h;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, R2.g] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, R2.g] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, R2.g] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, R2.g] */
-    static {
-        ?? r02 = new Enum("TODAY", 0);
+                    static {
+        EnumC0527g r02 = new EnumC0527g();
         f6935c = r02;
-        ?? r12 = new Enum("YESTERDAY", 1);
+        EnumC0527g r12 = new EnumC0527g();
         f6936e = r12;
-        ?? r22 = new Enum("THIS_WEEK", 2);
+        EnumC0527g r22 = new EnumC0527g();
         f6937f = r22;
-        ?? r32 = new Enum("THIS_MONTH", 3);
+        EnumC0527g r32 = new EnumC0527g();
         f6938g = r32;
         f6939h = new EnumC0527g[]{r02, r12, r22, r32};
     }

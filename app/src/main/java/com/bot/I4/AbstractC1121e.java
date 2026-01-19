@@ -511,7 +511,7 @@ public abstract class AbstractC1121e {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.util.List, java.util.Collection, java.lang.Object] */
     public static final int p(x.l lVar) {
-        ?? r02 = lVar.f15501k;
+        Object r02 = lVar.f15501k;
         if (r02.isEmpty()) {
             return 0;
         }

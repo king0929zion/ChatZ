@@ -72,7 +72,7 @@ public final class C1115i {
         ComponentCallbacks2C1841k componentCallbacks2C1841k = new ComponentCallbacks2C1841k(this);
         k kVar = new k(this, componentCallbacks2C1841k, c1840j);
         this.f12080f = kVar;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = m.K0(c1108b.a);
         obj.f1292b = m.K0(c1108b.f12052b);
         obj.f1293c = m.K0(c1108b.f12053c);

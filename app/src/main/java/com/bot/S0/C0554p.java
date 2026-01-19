@@ -44,8 +44,7 @@ public final class C0554p {
     /* renamed from: h, reason: collision with root package name */
     public final ArrayList f7654h;
 
-    /* JADX WARN: Type inference failed for: r7v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    public C0554p(E1.b bVar, long j3, int i6, int i7) {
+        public C0554p(E1.b bVar, long j3, int i6, int i7) {
         boolean z5;
         int i8;
         int g3;
@@ -107,7 +106,7 @@ public final class C0554p {
         int size2 = arrayList.size();
         for (int i13 = 0; i13 < size2; i13++) {
             r rVar = (r) arrayList.get(i13);
-            ?? r7 = rVar.a.f7619f;
+            Object r7 = rVar.a.f7619f;
             ArrayList arrayList4 = new ArrayList(r7.size());
             int size3 = r7.size();
             for (int i14 = 0; i14 < size3; i14++) {
@@ -127,12 +126,10 @@ public final class C0554p {
         this.f7653g = arrayList3;
     }
 
-    /* JADX WARN: Type inference failed for: r5v0, types: [java.lang.Object, m4.u] */
-    /* JADX WARN: Type inference failed for: r6v0, types: [java.lang.Object, m4.t] */
-    public final void a(long j3, float[] fArr) {
+            public final void a(long j3, float[] fArr) {
         k(O.f(j3));
         l(O.e(j3));
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12971c = 0;
         F.g(this.f7654h, j3, new C0553o(j3, fArr, (C1286u) obj, (C1285t) new Object()));
     }

@@ -38,13 +38,12 @@ public final class k extends d4.i implements l4.e {
         return new k(this.f597i, this.f598j, this.f599k, interfaceC0905c);
     }
 
-    /* JADX WARN: Type inference failed for: r3v2, types: [l4.f, d4.i] */
-    @Override // d4.a
+        @Override // d4.a
     public final Object r(Object obj) {
         int i6 = this.f596h;
         if (i6 == 0) {
             X3.a.e(obj);
-            ?? r32 = this.f597i.f614h;
+            Object r32 = this.f597i.f614h;
             this.f596h = 1;
             Object d6 = r32.d(this.f598j, this.f599k, this);
             EnumC0927a enumC0927a = EnumC0927a.f11114c;

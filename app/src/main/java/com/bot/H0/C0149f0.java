@@ -43,7 +43,7 @@ public final class C0149f0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [h0.q, H0.e0] */
     public C0149f0(J j3) {
         this.a = j3;
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         abstractC1040q.f11809g = -1;
         this.f1915b = abstractC1040q;
         C0165u c0165u = new C0165u(j3);
@@ -78,7 +78,7 @@ public final class C0149f0 {
             abstractC1040q2 = ((AbstractC0141b0) interfaceC1039p).e();
             abstractC1040q2.f11808f = j0.f(abstractC1040q2);
         } else {
-            ?? abstractC1040q3 = new AbstractC1040q();
+            AbstractC1040q abstractC1040q3 = new AbstractC1040q();
             abstractC1040q3.f11808f = j0.d(interfaceC1039p);
             abstractC1040q3.f1887r = interfaceC1039p;
             new HashSet();

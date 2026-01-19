@@ -66,7 +66,7 @@ public abstract class AbstractC0157l {
                 for (AbstractC1040q abstractC1040q5 = abstractC1040q4; abstractC1040q5 != null && abstractC1040q5.f11819q; abstractC1040q5 = abstractC1040q5.f11811i) {
                     if ((abstractC1040q5.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                         AbstractC0156k abstractC0156k = abstractC1040q5;
-                        ?? r6 = 0;
+                        int r6 = 0;
                         while (abstractC0156k != 0) {
                             if (abstractC0156k instanceof F0) {
                                 F0 f02 = (F0) abstractC0156k;
@@ -163,7 +163,7 @@ public abstract class AbstractC0157l {
                 for (AbstractC1040q abstractC1040q5 = abstractC1040q4; abstractC1040q5 != null && abstractC1040q5.f11819q; abstractC1040q5 = abstractC1040q5.f11811i) {
                     if ((abstractC1040q5.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                         AbstractC0156k abstractC0156k = abstractC1040q5;
-                        ?? r7 = 0;
+                        int r7 = 0;
                         while (abstractC0156k != 0) {
                             if (abstractC0156k instanceof F0) {
                                 F0 f03 = (F0) abstractC0156k;
@@ -490,7 +490,7 @@ public abstract class AbstractC0157l {
                 while (abstractC1040q2 != null) {
                     if ((abstractC1040q2.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                         AbstractC0156k abstractC0156k = abstractC1040q2;
-                        ?? r42 = 0;
+                        int r42 = 0;
                         while (abstractC0156k != 0) {
                             if (abstractC0156k instanceof F0) {
                                 F0 f02 = (F0) abstractC0156k;
@@ -577,7 +577,7 @@ public abstract class AbstractC0157l {
                 while (abstractC1040q2 != null) {
                     if ((abstractC1040q2.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                         AbstractC0156k abstractC0156k = abstractC1040q2;
-                        ?? r5 = 0;
+                        int r5 = 0;
                         while (abstractC0156k != 0) {
                             boolean z5 = true;
                             if (abstractC0156k instanceof F0) {

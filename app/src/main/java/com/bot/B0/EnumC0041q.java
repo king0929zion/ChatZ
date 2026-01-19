@@ -1,7 +1,5 @@
 package B0;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: B0.q, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC0041q {
@@ -18,15 +16,12 @@ public final class EnumC0041q {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ EnumC0041q[] f478g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, B0.q] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, B0.q] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, B0.q] */
-    static {
-        ?? r02 = new Enum("Initial", 0);
+                static {
+        EnumC0041q r02 = new EnumC0041q();
         f475c = r02;
-        ?? r12 = new Enum("Main", 1);
+        EnumC0041q r12 = new EnumC0041q();
         f476e = r12;
-        ?? r22 = new Enum("Final", 2);
+        EnumC0041q r22 = new EnumC0041q();
         f477f = r22;
         f478g = new EnumC0041q[]{r02, r12, r22};
     }

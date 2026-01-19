@@ -259,7 +259,7 @@ public class LineAppendableImpl implements LineAppendable {
     /* JADX WARN: Type inference failed for: r2v2, types: [com.vladsch.flexmark.util.sequence.builder.ISequenceBuilder] */
     /* JADX WARN: Type inference failed for: r3v1, types: [java.lang.CharSequence] */
     private LineInfo getLineRange(int i6, int i7, CharSequence charSequence) {
-        ?? sequence = this.appendable.toSequence();
+        Object sequence = this.appendable.toSequence();
         CharSequence trimmedEOL = SequenceUtils.trimmedEOL(sequence);
         if (trimmedEOL == null || trimmedEOL.length() == 0) {
             trimmedEOL = SequenceUtils.EOL;

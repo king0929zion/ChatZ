@@ -76,7 +76,7 @@ public abstract class AbstractC1573i {
     public static final Object b(C1606t c1606t, float f6, C1603s c1603s, C1517E c1517e, Object obj, InterfaceC1334l interfaceC1334l, d4.i iVar) {
         Object c6;
         float c7 = c1517e.c(obj);
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f12970c = Float.isNaN(c1606t.f14472f.g()) ? S.l.f7374V : c1606t.f14472f.g();
         if (!Float.isNaN(c7)) {
             float f7 = obj2.f12970c;
@@ -147,7 +147,7 @@ public abstract class AbstractC1573i {
 
     /* JADX WARN: Type inference failed for: r5v3, types: [java.util.List, java.util.Collection, java.lang.Object] */
     public static final boolean e(B0.V v5) {
-        ?? r5 = v5.f419i.f427v.a;
+        Object r5 = v5.f419i.f427v.a;
         int size = r5.size();
         boolean z5 = false;
         int i6 = 0;
@@ -257,7 +257,7 @@ public abstract class AbstractC1573i {
 
     /* JADX WARN: Type inference failed for: r7v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
     public static final long i(C0040p c0040p, boolean z5) {
-        ?? r7 = c0040p.a;
+        Object r7 = c0040p.a;
         int size = r7.size();
         long j3 = 0;
         int i6 = 0;
@@ -282,7 +282,7 @@ public abstract class AbstractC1573i {
         if (c6) {
             return S.l.f7374V;
         }
-        ?? r8 = c0040p.a;
+        Object r8 = c0040p.a;
         int size = r8.size();
         int i7 = 0;
         for (int i8 = 0; i8 < size; i8++) {

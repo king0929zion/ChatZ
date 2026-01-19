@@ -165,10 +165,10 @@ public abstract class AbstractC0570g0 {
             LinkedHashMap linkedHashMap = new LinkedHashMap();
             List<String> c02 = AbstractC1776n.c0(replace, new String[]{SequenceUtils.EOL});
             StringBuilder sb = new StringBuilder(replace.length());
-            ?? obj = new Object();
-            ?? obj2 = new Object();
+            Object obj = new Object();
+            Object obj2 = new Object();
             obj2.f12969c = SequenceUtils.SPC;
-            ?? obj3 = new Object();
+            Object obj3 = new Object();
             int i16 = 0;
             for (String str6 : c02) {
                 int i17 = i16 + 1;

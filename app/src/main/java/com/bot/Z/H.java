@@ -20,7 +20,7 @@ public abstract class H {
     /* JADX WARN: Type inference failed for: r11v0, types: [z.G, java.lang.Object, e1.c] */
     /* JADX WARN: Type inference failed for: r9v0, types: [F0.W, java.lang.Object] */
     static {
-        ?? obj = new Object();
+        Object obj = new Object();
         f16074b = obj;
         f16075c = new t(0, 0, 0, 0, 0, 0, C1649m.a, new Object(), AbstractC1888A.c(C0911i.f11057c), obj, AbstractC0960b.b(0, 0, 15));
     }

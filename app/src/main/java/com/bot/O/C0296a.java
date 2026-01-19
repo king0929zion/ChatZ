@@ -78,7 +78,7 @@ public final /* synthetic */ class C0296a implements l4.c {
                 while (true) {
                     boolean z5 = this.f4068e;
                     if (i6 >= size) {
-                        ?? r12 = this.f4071h;
+                        Object r12 = this.f4071h;
                         int size2 = r12.size();
                         for (int i7 = 0; i7 < size2; i7++) {
                             ((x.m) r12.get(i7)).c(j0Var, z5);

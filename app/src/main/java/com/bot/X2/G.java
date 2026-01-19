@@ -22,7 +22,7 @@ public final class G extends d4.i implements l4.h {
     public final Object n(Object obj, Object obj2, Object obj3, Object obj4, Object obj5) {
         boolean booleanValue = ((Boolean) obj).booleanValue();
         long longValue = ((Number) obj4).longValue();
-        ?? iVar = new d4.i(5, (InterfaceC0905c) obj5);
+        d4.i iVar = new d4.i(5, (InterfaceC0905c) obj5);
         iVar.f9180h = booleanValue;
         iVar.f9181i = (R2.A) obj2;
         iVar.f9182j = (String) obj3;

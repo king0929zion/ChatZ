@@ -1,7 +1,5 @@
 package z4;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: z4.a, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC2050a {
@@ -18,15 +16,12 @@ public final class EnumC2050a {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ EnumC2050a[] f16330g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, z4.a] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, z4.a] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, z4.a] */
-    static {
-        ?? r02 = new Enum("SUSPEND", 0);
+                static {
+        EnumC2050a r02 = new EnumC2050a();
         f16327c = r02;
-        ?? r12 = new Enum("DROP_OLDEST", 1);
+        EnumC2050a r12 = new EnumC2050a();
         f16328e = r12;
-        ?? r22 = new Enum("DROP_LATEST", 2);
+        EnumC2050a r22 = new EnumC2050a();
         f16329f = r22;
         f16330g = new EnumC2050a[]{r02, r12, r22};
     }

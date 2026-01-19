@@ -45,29 +45,7 @@ public final class C0146e extends AbstractC1277l implements l4.e {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r1v12 */
-    /* JADX WARN: Type inference failed for: r1v13, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r1v14, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r1v15 */
-    /* JADX WARN: Type inference failed for: r1v16 */
-    /* JADX WARN: Type inference failed for: r1v17 */
-    /* JADX WARN: Type inference failed for: r1v18 */
-    /* JADX WARN: Type inference failed for: r1v23 */
-    /* JADX WARN: Type inference failed for: r1v24 */
-    /* JADX WARN: Type inference failed for: r1v7 */
-    /* JADX WARN: Type inference failed for: r1v8, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r2v1 */
-    /* JADX WARN: Type inference failed for: r2v10 */
-    /* JADX WARN: Type inference failed for: r2v11 */
-    /* JADX WARN: Type inference failed for: r2v12 */
-    /* JADX WARN: Type inference failed for: r2v2 */
-    /* JADX WARN: Type inference failed for: r2v3 */
-    /* JADX WARN: Type inference failed for: r2v4, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r2v5 */
-    /* JADX WARN: Type inference failed for: r2v6 */
-    /* JADX WARN: Type inference failed for: r2v7, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r2v9 */
-    @Override // l4.e
+                                                                                            @Override // l4.e
     public final Object m(Object obj, Object obj2) {
         switch (this.f1911e) {
             case 0:
@@ -108,7 +86,7 @@ public final class C0146e extends AbstractC1277l implements l4.e {
                     while (abstractC1040q2 != null) {
                         if ((abstractC1040q2.f11808f & SharedConstants.DefaultBufferSize) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q2;
-                            ?? r22 = 0;
+                            int r22 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof InterfaceC0154i) {
                                     AbstractC1040q abstractC1040q3 = ((AbstractC1040q) ((InterfaceC0154i) abstractC0156k)).f11806c;

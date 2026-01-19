@@ -14,7 +14,7 @@ public abstract class o {
     /* JADX WARN: Type inference failed for: r0v8 */
     /* JADX WARN: Type inference failed for: r0v9 */
     static {
-        ?? r02;
+        Object r02;
         try {
             Class.forName("java.nio.file.Files");
             r02 = new Object();

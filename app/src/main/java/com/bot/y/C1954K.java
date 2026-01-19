@@ -101,8 +101,7 @@ public final class C1954K {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r4v28, types: [b4.h, b4.c] */
-    public final void c(int i6, int i7, int i8, ArrayList arrayList, C0316k c0316k, C1859j c1859j, boolean z5, boolean z6, boolean z7, int i9, int i10, InterfaceC1942y interfaceC1942y, o0.w wVar) {
+        public final void c(int i6, int i7, int i8, ArrayList arrayList, C0316k c0316k, C1859j c1859j, boolean z5, boolean z6, boolean z7, int i9, int i10, InterfaceC1942y interfaceC1942y, o0.w wVar) {
         k.M m3;
         Object obj;
         long j3;
@@ -421,7 +420,7 @@ public final class C1954K {
                                                             iArr4 = iArr5;
                                                             c1948e4.e(true);
                                                             m8 = m3;
-                                                            ?? r42 = obj;
+                                                            Object r42 = obj;
                                                             AbstractC1888A.y(c1948e4.a, r42, new C1984y(c1948e4, interfaceC1351z, bVar, r42), 3);
                                                         }
                                                     } else {

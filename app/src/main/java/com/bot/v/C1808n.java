@@ -64,9 +64,9 @@ public final class C1808n implements F0.V {
             });
         }
         F0.k0[] k0VarArr = new F0.k0[list.size()];
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12971c = C0959a.j(j3);
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f12971c = C0959a.i(j3);
         int size = list.size();
         boolean z5 = false;

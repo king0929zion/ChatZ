@@ -98,14 +98,13 @@ public final class q extends AbstractC1040q implements InterfaceC0170z, Interfac
         return false;
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [N.o] */
-    @Override // H0.A0
+        @Override // H0.A0
     public final void I(x xVar) {
         o oVar = this.f3605F;
         o oVar2 = oVar;
         if (oVar == null) {
             final int i6 = 0;
-            ?? r02 = new l4.c(this) { // from class: N.o
+            l4.c r02 = new l4.c(this) { // from class: N.o
 
                 /* renamed from: e, reason: collision with root package name */
                 public final /* synthetic */ q f3596e;
@@ -617,10 +616,7 @@ public final class q extends AbstractC1040q implements InterfaceC0170z, Interfac
     /* JADX WARN: Multi-variable type inference failed */
     /* JADX WARN: Removed duplicated region for block: B:104:0x01bc  */
     /* JADX WARN: Removed duplicated region for block: B:44:0x00f1  */
-    /* JADX WARN: Type inference failed for: r18v1 */
-    /* JADX WARN: Type inference failed for: r18v2, types: [o0.q] */
-    /* JADX WARN: Type inference failed for: r18v6 */
-    @Override // H0.InterfaceC0160o
+                @Override // H0.InterfaceC0160o
     /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument

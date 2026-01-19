@@ -71,7 +71,7 @@ public final class e extends AbstractC1040q implements F0, InterfaceC0169y {
         e eVar2 = this.f12595r;
         if (eVar2 == null || !AbstractC1121e.b(eVar2, u.l(c0987j))) {
             if (this.f11806c.f11819q) {
-                ?? obj = new Object();
+                Object obj = new Object();
                 AbstractC0157l.B(this, new f(obj, this, c0987j, 3));
                 f02 = (F0) obj.f12973c;
             } else {

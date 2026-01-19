@@ -1,7 +1,5 @@
 package X0;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class x {
 
@@ -20,18 +18,14 @@ public final class x {
     /* renamed from: h, reason: collision with root package name */
     public static final /* synthetic */ x[] f9132h;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, X0.x] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, X0.x] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, X0.x] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, X0.x] */
-    static {
-        ?? r02 = new Enum("StartInput", 0);
+                    static {
+        x r02 = new x();
         f9128c = r02;
-        ?? r12 = new Enum("StopInput", 1);
+        x r12 = new x();
         f9129e = r12;
-        ?? r22 = new Enum("ShowKeyboard", 2);
+        x r22 = new x();
         f9130f = r22;
-        ?? r32 = new Enum("HideKeyboard", 3);
+        x r32 = new x();
         f9131g = r32;
         f9132h = new x[]{r02, r12, r22, r32};
     }

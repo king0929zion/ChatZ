@@ -43,10 +43,9 @@ public final class j extends AbstractC1040q implements F0, a {
         eVar.f41d = A0();
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [m4.w, java.lang.Object] */
-    @Override // h0.AbstractC1040q
+        @Override // h0.AbstractC1040q
     public final void F0() {
-        ?? obj = new Object();
+        Object obj = new Object();
         AbstractC0157l.z(this, new k(obj, 0));
         j jVar = (j) ((F0) obj.f12973c);
         this.f54t = jVar;
@@ -58,29 +57,7 @@ public final class j extends AbstractC1040q implements F0, a {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r4v11 */
-    /* JADX WARN: Type inference failed for: r4v12, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v14 */
-    /* JADX WARN: Type inference failed for: r4v15, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v16, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r4v17 */
-    /* JADX WARN: Type inference failed for: r4v18 */
-    /* JADX WARN: Type inference failed for: r4v19 */
-    /* JADX WARN: Type inference failed for: r4v20 */
-    /* JADX WARN: Type inference failed for: r4v21 */
-    /* JADX WARN: Type inference failed for: r4v22 */
-    /* JADX WARN: Type inference failed for: r6v0 */
-    /* JADX WARN: Type inference failed for: r6v1 */
-    /* JADX WARN: Type inference failed for: r6v10 */
-    /* JADX WARN: Type inference failed for: r6v11 */
-    /* JADX WARN: Type inference failed for: r6v2 */
-    /* JADX WARN: Type inference failed for: r6v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r6v4 */
-    /* JADX WARN: Type inference failed for: r6v5 */
-    /* JADX WARN: Type inference failed for: r6v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r6v8 */
-    /* JADX WARN: Type inference failed for: r6v9 */
-    public final InterfaceC1942y M0() {
+                                                                                            public final InterfaceC1942y M0() {
         j jVar;
         F0 f02;
         C0149f0 c0149f0;
@@ -99,7 +76,7 @@ public final class j extends AbstractC1040q implements F0, a {
                     while (abstractC1040q != null) {
                         if ((abstractC1040q.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q;
-                            ?? r6 = 0;
+                            int r6 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof F0) {
                                     f02 = (F0) abstractC0156k;
@@ -160,30 +137,7 @@ public final class j extends AbstractC1040q implements F0, a {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r3v10, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r3v11, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r3v12 */
-    /* JADX WARN: Type inference failed for: r3v13 */
-    /* JADX WARN: Type inference failed for: r3v14 */
-    /* JADX WARN: Type inference failed for: r3v15 */
-    /* JADX WARN: Type inference failed for: r3v16 */
-    /* JADX WARN: Type inference failed for: r3v17 */
-    /* JADX WARN: Type inference failed for: r3v6 */
-    /* JADX WARN: Type inference failed for: r3v7, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r3v8, types: [java.lang.Object, H0.F0] */
-    /* JADX WARN: Type inference failed for: r3v9 */
-    /* JADX WARN: Type inference failed for: r5v0 */
-    /* JADX WARN: Type inference failed for: r5v1 */
-    /* JADX WARN: Type inference failed for: r5v10 */
-    /* JADX WARN: Type inference failed for: r5v11 */
-    /* JADX WARN: Type inference failed for: r5v2 */
-    /* JADX WARN: Type inference failed for: r5v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v4 */
-    /* JADX WARN: Type inference failed for: r5v5 */
-    /* JADX WARN: Type inference failed for: r5v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v8 */
-    /* JADX WARN: Type inference failed for: r5v9 */
-    @Override // A0.a
+                                                                                                @Override // A0.a
     public final long a0(long j3, int i6) {
         C0149f0 c0149f0;
         boolean z5 = this.f11819q;
@@ -202,10 +156,10 @@ public final class j extends AbstractC1040q implements F0, a {
                     while (abstractC1040q != null) {
                         if ((abstractC1040q.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q;
-                            ?? r5 = 0;
+                            int r5 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof F0) {
-                                    ?? r32 = (F0) abstractC0156k;
+                                    Object r32 = (F0) abstractC0156k;
                                     if (AbstractC1276k.b(m(), r32.m()) && j.class == r32.getClass()) {
                                         jVar = r32;
                                         break loop0;
@@ -260,30 +214,7 @@ public final class j extends AbstractC1040q implements F0, a {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r3v10, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r3v11, types: [java.lang.Object, H0.F0] */
-    /* JADX WARN: Type inference failed for: r3v12 */
-    /* JADX WARN: Type inference failed for: r3v13, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r3v14, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r3v15 */
-    /* JADX WARN: Type inference failed for: r3v16 */
-    /* JADX WARN: Type inference failed for: r3v17 */
-    /* JADX WARN: Type inference failed for: r3v18 */
-    /* JADX WARN: Type inference failed for: r3v19 */
-    /* JADX WARN: Type inference failed for: r3v20 */
-    /* JADX WARN: Type inference failed for: r3v9 */
-    /* JADX WARN: Type inference failed for: r5v10 */
-    /* JADX WARN: Type inference failed for: r5v11 */
-    /* JADX WARN: Type inference failed for: r5v12 */
-    /* JADX WARN: Type inference failed for: r5v13 */
-    /* JADX WARN: Type inference failed for: r5v2 */
-    /* JADX WARN: Type inference failed for: r5v3 */
-    /* JADX WARN: Type inference failed for: r5v4 */
-    /* JADX WARN: Type inference failed for: r5v5, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v6 */
-    /* JADX WARN: Type inference failed for: r5v7 */
-    /* JADX WARN: Type inference failed for: r5v8, types: [V.e] */
-    @Override // A0.a
+                                                                                                @Override // A0.a
     public final long s0(long j3, long j4, int i6) {
         C0149f0 c0149f0;
         long s02 = this.f52r.s0(j3, j4, i6);
@@ -303,10 +234,10 @@ public final class j extends AbstractC1040q implements F0, a {
                     while (abstractC1040q != null) {
                         if ((abstractC1040q.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q;
-                            ?? r5 = 0;
+                            int r5 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof F0) {
-                                    ?? r32 = (F0) abstractC0156k;
+                                    Object r32 = (F0) abstractC0156k;
                                     if (AbstractC1276k.b(m(), r32.m()) && j.class == r32.getClass()) {
                                         jVar = r32;
                                         break loop0;
@@ -363,30 +294,7 @@ public final class j extends AbstractC1040q implements F0, a {
     /* JADX WARN: Removed duplicated region for block: B:21:0x010d  */
     /* JADX WARN: Removed duplicated region for block: B:22:0x0044  */
     /* JADX WARN: Removed duplicated region for block: B:8:0x002a  */
-    /* JADX WARN: Type inference failed for: r10v10, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r10v11, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r10v12 */
-    /* JADX WARN: Type inference failed for: r10v13 */
-    /* JADX WARN: Type inference failed for: r10v14 */
-    /* JADX WARN: Type inference failed for: r10v15 */
-    /* JADX WARN: Type inference failed for: r10v16 */
-    /* JADX WARN: Type inference failed for: r10v17 */
-    /* JADX WARN: Type inference failed for: r10v6 */
-    /* JADX WARN: Type inference failed for: r10v7, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r10v8, types: [java.lang.Object, H0.F0] */
-    /* JADX WARN: Type inference failed for: r10v9 */
-    /* JADX WARN: Type inference failed for: r12v0 */
-    /* JADX WARN: Type inference failed for: r12v1 */
-    /* JADX WARN: Type inference failed for: r12v10 */
-    /* JADX WARN: Type inference failed for: r12v11 */
-    /* JADX WARN: Type inference failed for: r12v2 */
-    /* JADX WARN: Type inference failed for: r12v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r12v4 */
-    /* JADX WARN: Type inference failed for: r12v5 */
-    /* JADX WARN: Type inference failed for: r12v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r12v8 */
-    /* JADX WARN: Type inference failed for: r12v9 */
-    @Override // A0.a
+                                                                                                @Override // A0.a
     /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
@@ -406,11 +314,7 @@ public final class j extends AbstractC1040q implements F0, a {
     /* JADX WARN: Removed duplicated region for block: B:95:0x012a  */
     /* JADX WARN: Removed duplicated region for block: B:96:0x0045  */
     /* JADX WARN: Removed duplicated region for block: B:9:0x002a  */
-    /* JADX WARN: Type inference failed for: r14v15, types: [java.lang.Object, H0.F0] */
-    /* JADX WARN: Type inference failed for: r14v16 */
-    /* JADX WARN: Type inference failed for: r14v6 */
-    /* JADX WARN: Type inference failed for: r14v7, types: [h0.q] */
-    @Override // A0.a
+                    @Override // A0.a
     /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument

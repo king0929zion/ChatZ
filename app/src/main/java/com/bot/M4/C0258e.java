@@ -33,7 +33,7 @@ public final class C0258e extends f0 {
     public final Object g(Object obj) {
         boolean[] zArr = (boolean[]) obj;
         AbstractC1276k.f(zArr, "<this>");
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.a = zArr;
         obj2.f3461b = zArr.length;
         obj2.b(10);

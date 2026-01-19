@@ -80,7 +80,7 @@ public final /* synthetic */ class P implements l4.c {
                     M.q qVar = c0098v0.f1185d;
                     Q q3 = c0098v0.f1203v;
                     Q q5 = c0098v0.f1204w;
-                    ?? obj3 = new Object();
+                    Object obj3 = new Object();
                     C0091s c0091s = new C0091s(3, qVar, (Object) obj3, q3);
                     X0.q qVar2 = wVar.a;
                     qVar2.e(vVar, kVar, c0091s, q5);
@@ -160,7 +160,7 @@ public final /* synthetic */ class P implements l4.c {
                 C1496b c1496b = l5.f1765c;
                 l5.b();
                 int size = list5.size();
-                ?? r42 = this.f864f;
+                Object r42 = this.f864f;
                 int[] iArr = {r42.size(), list6.size(), list7.size()};
                 int i8 = 0;
                 for (int i9 = 0; i9 < 3; i9++) {

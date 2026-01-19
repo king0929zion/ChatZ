@@ -63,24 +63,20 @@ public final class C1620x1 extends AbstractC1592o0 implements z0.e, H0.A0 {
     public M1.b f14517W;
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r0v1, types: [r.f1, H0.j, h0.q] */
-    /* JADX WARN: Type inference failed for: r0v5, types: [H0.j, h0.q, A.l] */
-    /* JADX WARN: Type inference failed for: r10v0, types: [r.x1, H0.k] */
-    /* JADX WARN: Type inference failed for: r1v3, types: [r.x0] */
-    public C1620x1(C1459u c1459u, InterfaceC1618x interfaceC1618x, InterfaceC1619x0 interfaceC1619x0, X0 x02, InterfaceC1623y1 interfaceC1623y1, C1682j c1682j, boolean z5, boolean z6) {
+                    public C1620x1(C1459u c1459u, InterfaceC1618x interfaceC1618x, InterfaceC1619x0 interfaceC1619x0, X0 x02, InterfaceC1623y1 interfaceC1623y1, C1682j c1682j, boolean z5, boolean z6) {
         super(AbstractC1587m1.a, z5, c1682j, x02);
         this.f14506L = c1459u;
         this.f14507M = interfaceC1619x0;
         A0.e eVar = new A0.e();
         this.f14508N = eVar;
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         abstractC1040q.f14316r = z5;
         M0(abstractC1040q);
         this.f14509O = abstractC1040q;
         C1521G c1521g = new C1521G(new C1347v(new C0987j(AbstractC1587m1.f14391d)));
         this.f14510P = c1521g;
         C1459u c1459u2 = this.f14506L;
-        ?? r12 = this.f14507M;
+        Object r12 = this.f14507M;
         E1 e12 = new E1(interfaceC1623y1, c1459u2, r12 == 0 ? c1521g : r12, x02, z6, eVar, this, new C1596p1(this, 0));
         this.f14511Q = e12;
         C1593o1 c1593o1 = new C1593o1(e12, z5);
@@ -92,7 +88,7 @@ public final class C1620x1 extends AbstractC1592o0 implements z0.e, H0.A0 {
         M0(c1515d);
         this.f14514T = c1515d;
         M0(new A0.j(c1593o1, eVar));
-        ?? abstractC1040q2 = new AbstractC1040q();
+        AbstractC1040q abstractC1040q2 = new AbstractC1040q();
         abstractC1040q2.f29r = c1515d;
         M0(abstractC1040q2);
     }
@@ -282,12 +278,10 @@ public final class C1620x1 extends AbstractC1592o0 implements z0.e, H0.A0 {
         return false;
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r10v0, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    @Override // r.AbstractC1592o0, H0.w0
+            @Override // r.AbstractC1592o0, H0.w0
     public final void w(C0040p c0040p, EnumC0041q enumC0041q, long j3) {
-        ?? r02 = c0040p.a;
-        ?? r10 = c0040p.a;
+        Object r02 = c0040p.a;
+        Object r10 = c0040p.a;
         int size = r02.size();
         int i6 = 0;
         while (true) {

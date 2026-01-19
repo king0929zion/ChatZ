@@ -55,7 +55,7 @@ public final class h implements B3.g, InterfaceC0909g, M1.f, o, Y1.d {
     /* JADX WARN: Type inference failed for: r0v1, types: [d5.i, java.lang.Object] */
     public static byte[] c(List list) {
         AbstractC1276k.f(list, "protocols");
-        ?? obj = new Object();
+        Object obj = new Object();
         ArrayList a = a(list);
         int size = a.size();
         int i6 = 0;

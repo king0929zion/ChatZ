@@ -271,12 +271,7 @@ public final class g {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r7v0, types: [Y3.w] */
-    /* JADX WARN: Type inference failed for: r7v1 */
-    /* JADX WARN: Type inference failed for: r7v2, types: [java.util.Map] */
-    /* JADX WARN: Type inference failed for: r7v3 */
-    /* JADX WARN: Type inference failed for: r7v4, types: [java.util.Map] */
-    public static List k(LinkedHashMap linkedHashMap) {
+                        public static List k(LinkedHashMap linkedHashMap) {
         Object obj;
         if (linkedHashMap.isEmpty()) {
             return Y3.v.f9812c;
@@ -296,7 +291,7 @@ public final class g {
                 AbstractC1276k.e(sb, "toString(...)");
                 String obj3 = AbstractC1776n.l0(sb).toString();
                 boolean Q5 = AbstractC1776n.Q(obj3);
-                ?? r7 = Y3.w.f9813c;
+                Object r7 = Y3.w.f9813c;
                 if (!Q5) {
                     try {
                         obj = u(new JSONObject(obj3));
@@ -656,45 +651,7 @@ public final class g {
         if (r7 == null) goto L120;
      */
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r15v10 */
-    /* JADX WARN: Type inference failed for: r15v12 */
-    /* JADX WARN: Type inference failed for: r15v13 */
-    /* JADX WARN: Type inference failed for: r15v15 */
-    /* JADX WARN: Type inference failed for: r15v16 */
-    /* JADX WARN: Type inference failed for: r15v18 */
-    /* JADX WARN: Type inference failed for: r15v19 */
-    /* JADX WARN: Type inference failed for: r15v21 */
-    /* JADX WARN: Type inference failed for: r15v22 */
-    /* JADX WARN: Type inference failed for: r15v24 */
-    /* JADX WARN: Type inference failed for: r15v25 */
-    /* JADX WARN: Type inference failed for: r15v27 */
-    /* JADX WARN: Type inference failed for: r15v28 */
-    /* JADX WARN: Type inference failed for: r15v29 */
-    /* JADX WARN: Type inference failed for: r15v3 */
-    /* JADX WARN: Type inference failed for: r15v30, types: [java.lang.String] */
-    /* JADX WARN: Type inference failed for: r15v32 */
-    /* JADX WARN: Type inference failed for: r15v33 */
-    /* JADX WARN: Type inference failed for: r15v34 */
-    /* JADX WARN: Type inference failed for: r15v35 */
-    /* JADX WARN: Type inference failed for: r15v36 */
-    /* JADX WARN: Type inference failed for: r15v37 */
-    /* JADX WARN: Type inference failed for: r15v38 */
-    /* JADX WARN: Type inference failed for: r15v39 */
-    /* JADX WARN: Type inference failed for: r15v4 */
-    /* JADX WARN: Type inference failed for: r15v40 */
-    /* JADX WARN: Type inference failed for: r15v41 */
-    /* JADX WARN: Type inference failed for: r15v42 */
-    /* JADX WARN: Type inference failed for: r15v43 */
-    /* JADX WARN: Type inference failed for: r15v44 */
-    /* JADX WARN: Type inference failed for: r15v45 */
-    /* JADX WARN: Type inference failed for: r15v5 */
-    /* JADX WARN: Type inference failed for: r15v6, types: [java.lang.String] */
-    /* JADX WARN: Type inference failed for: r15v9 */
-    /* JADX WARN: Type inference failed for: r7v2 */
-    /* JADX WARN: Type inference failed for: r7v4, types: [org.json.JSONArray] */
-    /* JADX WARN: Type inference failed for: r7v8 */
-    /* JADX WARN: Type inference failed for: r7v9 */
-    /*
+                                                                                                                                                            /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
     */
@@ -793,23 +750,7 @@ public final class g {
     /* JADX WARN: Removed duplicated region for block: B:20:0x03ce A[Catch: all -> 0x004c, Exception -> 0x047b, TRY_ENTER, TryCatch #12 {Exception -> 0x047b, all -> 0x004c, blocks: (B:13:0x0042, B:15:0x03bb, B:20:0x03ce, B:29:0x03e5, B:32:0x03ed, B:34:0x03f5, B:35:0x03fb, B:37:0x0403, B:39:0x040c, B:41:0x0418, B:43:0x041e, B:50:0x042d, B:52:0x0435, B:57:0x043e, B:60:0x0445, B:61:0x044a, B:64:0x0451, B:68:0x005d), top: B:8:0x0038 }] */
     /* JADX WARN: Removed duplicated region for block: B:74:0x03b9  */
     /* JADX WARN: Removed duplicated region for block: B:83:0x006b  */
-    /* JADX WARN: Type inference failed for: r0v23, types: [org.json.JSONArray] */
-    /* JADX WARN: Type inference failed for: r13v10, types: [int] */
-    /* JADX WARN: Type inference failed for: r13v12 */
-    /* JADX WARN: Type inference failed for: r13v13 */
-    /* JADX WARN: Type inference failed for: r34v0, types: [I2.g] */
-    /* JADX WARN: Type inference failed for: r3v10 */
-    /* JADX WARN: Type inference failed for: r3v11 */
-    /* JADX WARN: Type inference failed for: r3v15 */
-    /* JADX WARN: Type inference failed for: r3v16 */
-    /* JADX WARN: Type inference failed for: r3v3, types: [int] */
-    /* JADX WARN: Type inference failed for: r3v32 */
-    /* JADX WARN: Type inference failed for: r3v33 */
-    /* JADX WARN: Type inference failed for: r3v38 */
-    /* JADX WARN: Type inference failed for: r3v39 */
-    /* JADX WARN: Type inference failed for: r3v4, types: [t3.d] */
-    /* JADX WARN: Type inference failed for: r3v5, types: [t3.d] */
-    /*
+                                                                    /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
     */

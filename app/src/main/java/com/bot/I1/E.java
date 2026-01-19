@@ -17,7 +17,7 @@ public final class E {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [D.n1, java.lang.Object] */
     public E() {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = -1;
         obj.f1121b = -1;
         this.a = obj;

@@ -115,29 +115,7 @@ public final class C extends AbstractC1040q implements InterfaceC0154i, Interfac
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r4v10, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v11, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r4v12 */
-    /* JADX WARN: Type inference failed for: r4v13 */
-    /* JADX WARN: Type inference failed for: r4v14 */
-    /* JADX WARN: Type inference failed for: r4v15 */
-    /* JADX WARN: Type inference failed for: r4v16 */
-    /* JADX WARN: Type inference failed for: r4v17 */
-    /* JADX WARN: Type inference failed for: r4v6 */
-    /* JADX WARN: Type inference failed for: r4v7, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v9 */
-    /* JADX WARN: Type inference failed for: r6v1 */
-    /* JADX WARN: Type inference failed for: r6v10 */
-    /* JADX WARN: Type inference failed for: r6v11 */
-    /* JADX WARN: Type inference failed for: r6v12 */
-    /* JADX WARN: Type inference failed for: r6v13 */
-    /* JADX WARN: Type inference failed for: r6v2 */
-    /* JADX WARN: Type inference failed for: r6v3 */
-    /* JADX WARN: Type inference failed for: r6v4, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r6v5 */
-    /* JADX WARN: Type inference failed for: r6v6 */
-    /* JADX WARN: Type inference failed for: r6v7, types: [V.e] */
-    public final void N0(EnumC1245A enumC1245A, EnumC1245A enumC1245A2) {
+                                                                                            public final void N0(EnumC1245A enumC1245A, EnumC1245A enumC1245A2) {
         C0149f0 c0149f0;
         l4.e eVar;
         q qVar = (q) ((ViewTreeObserverOnGlobalLayoutListenerC0216x) AbstractC0157l.w(this)).getFocusOwner();
@@ -161,7 +139,7 @@ public final class C extends AbstractC1040q implements InterfaceC0154i, Interfac
                         }
                         if ((i6 & 4096) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q2;
-                            ?? r6 = 0;
+                            int r6 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof h) {
                                     h hVar = (h) abstractC0156k;
@@ -210,34 +188,10 @@ public final class C extends AbstractC1040q implements InterfaceC0154i, Interfac
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r0v0, types: [m0.u, java.lang.Object, m0.s] */
-    /* JADX WARN: Type inference failed for: r6v10, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r6v11, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r6v12 */
-    /* JADX WARN: Type inference failed for: r6v13 */
-    /* JADX WARN: Type inference failed for: r6v14 */
-    /* JADX WARN: Type inference failed for: r6v15 */
-    /* JADX WARN: Type inference failed for: r6v16 */
-    /* JADX WARN: Type inference failed for: r6v17 */
-    /* JADX WARN: Type inference failed for: r6v6 */
-    /* JADX WARN: Type inference failed for: r6v7, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r6v8, types: [m0.v] */
-    /* JADX WARN: Type inference failed for: r6v9 */
-    /* JADX WARN: Type inference failed for: r8v1 */
-    /* JADX WARN: Type inference failed for: r8v10 */
-    /* JADX WARN: Type inference failed for: r8v11 */
-    /* JADX WARN: Type inference failed for: r8v12 */
-    /* JADX WARN: Type inference failed for: r8v13 */
-    /* JADX WARN: Type inference failed for: r8v2 */
-    /* JADX WARN: Type inference failed for: r8v3 */
-    /* JADX WARN: Type inference failed for: r8v4, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r8v5 */
-    /* JADX WARN: Type inference failed for: r8v6 */
-    /* JADX WARN: Type inference failed for: r8v7, types: [V.e] */
-    public final u O0() {
+                                                                                                    public final u O0() {
         boolean z5;
         C0149f0 c0149f0;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = true;
         w wVar = w.f12920b;
         obj.f12909b = wVar;
@@ -279,7 +233,7 @@ public final class C extends AbstractC1040q implements InterfaceC0154i, Interfac
                         }
                         if ((i7 & 2048) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q2;
-                            ?? r8 = 0;
+                            int r8 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof v) {
                                     ((v) abstractC0156k).e(obj);
@@ -455,8 +409,7 @@ public final class C extends AbstractC1040q implements InterfaceC0154i, Interfac
         return enumC1245A;
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [m4.w, java.lang.Object] */
-    public final void S0() {
+        public final void S0() {
         int ordinal = R0().ordinal();
         if (ordinal != 0) {
             if (ordinal == 1) {
@@ -469,7 +422,7 @@ public final class C extends AbstractC1040q implements InterfaceC0154i, Interfac
                 return;
             }
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         AbstractC0157l.r(this, new C0028d(8, obj, this));
         Object obj2 = obj.f12973c;
         if (obj2 == null) {

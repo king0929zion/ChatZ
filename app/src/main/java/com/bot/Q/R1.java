@@ -250,7 +250,7 @@ public abstract class R1 {
             Object P5 = c0626q.P();
             Object obj = P5;
             if (P5 == C0616l.a) {
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 obj2.a = new Object();
                 obj2.f6149b = new ArrayList();
                 c0626q.m0(obj2);

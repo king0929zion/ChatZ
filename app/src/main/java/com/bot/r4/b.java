@@ -281,7 +281,7 @@ public abstract class b {
         long c6 = i6.timeout().e() ? i6.timeout().c() - nanoTime : Long.MAX_VALUE;
         i6.timeout().d(Math.min(c6, timeUnit.toNanos(i7)) + nanoTime);
         try {
-            ?? obj = new Object();
+            Object obj = new Object();
             while (i6.W(8192L, obj) != -1) {
                 obj.skip(obj.f11482e);
             }

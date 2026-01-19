@@ -45,10 +45,7 @@ public final class i extends a {
         b();
     }
 
-    /* JADX WARN: Type inference failed for: r6v2 */
-    /* JADX WARN: Type inference failed for: r6v3, types: [boolean, int] */
-    /* JADX WARN: Type inference failed for: r6v4 */
-    public final void b() {
+                public final void b() {
         g gVar = this.f9066f;
         Object[] objArr = gVar.f9061i;
         if (objArr == null) {
@@ -73,7 +70,7 @@ public final class i extends a {
             kVar.f9073g = new Object[i8];
         }
         kVar.f9073g[0] = objArr;
-        ?? r6 = i7 == i6 ? 1 : 0;
+        Object r6 = i7 == i6 ? 1 : 0;
         kVar.f9074h = r6;
         kVar.b(i7 - r6, 1);
     }

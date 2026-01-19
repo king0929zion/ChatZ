@@ -1,7 +1,5 @@
 package m0;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: m0.A, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC1245A {
@@ -18,17 +16,13 @@ public final class EnumC1245A {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ EnumC1245A[] f12871g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, m0.A] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, m0.A] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, m0.A] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, m0.A] */
-    static {
-        ?? r02 = new Enum("Active", 0);
+                    static {
+        EnumC1245A r02 = new EnumC1245A();
         f12868c = r02;
-        ?? r12 = new Enum("ActiveParent", 1);
+        EnumC1245A r12 = new EnumC1245A();
         f12869e = r12;
-        ?? r22 = new Enum("Captured", 2);
-        ?? r32 = new Enum("Inactive", 3);
+        EnumC1245A r22 = new EnumC1245A();
+        EnumC1245A r32 = new EnumC1245A();
         f12870f = r32;
         f12871g = new EnumC1245A[]{r02, r12, r22, r32};
     }

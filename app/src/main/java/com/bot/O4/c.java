@@ -8,7 +8,7 @@ public final class c extends d {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, O4.c, O4.d] */
     static {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f4333e = new Y3.j();
         f4331f = obj;
     }

@@ -79,14 +79,13 @@ public final class C0685c {
         this.f9085b = c0158m;
     }
 
-    /* JADX WARN: Type inference failed for: r2v0, types: [java.lang.Object, X3.f] */
-    public final void a() {
+        public final void a() {
         View view;
         EditorBoundsInfo.Builder editorBounds;
         EditorBoundsInfo.Builder handwritingBounds;
         EditorBoundsInfo build;
         C0158m c0158m = this.f9085b;
-        ?? r22 = c0158m.f1973f;
+        Object r22 = c0158m.f1973f;
         InputMethodManager inputMethodManager = (InputMethodManager) r22.getValue();
         View view2 = (View) c0158m.f1972e;
         if (inputMethodManager.isActive(view2)) {

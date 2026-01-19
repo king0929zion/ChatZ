@@ -92,7 +92,7 @@ public abstract class AbstractC0942b {
                 c0949i.d0(((Number) arrayList5.get(i9)).intValue());
                 return;
             } else {
-                ?? obj = new Object();
+                Object obj = new Object();
                 c0949i.d0(((int) ((obj.f11482e / j5) + j6)) * (-1));
                 d(j6, obj, i17, arrayList4, i9, i8, arrayList5);
                 c0949i.Q(obj);
@@ -115,7 +115,7 @@ public abstract class AbstractC0942b {
                 c0949i.d0(i21 & 255);
             }
         }
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         int i22 = i9;
         while (i22 < i8) {
             byte i23 = ((C0952l) arrayList4.get(i22)).i(i12);

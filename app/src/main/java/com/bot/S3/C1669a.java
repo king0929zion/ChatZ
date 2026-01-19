@@ -16,7 +16,7 @@ public final class C1669a implements c {
         if (cVar instanceof C1669a) {
             return cVar;
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f14815b = f14814c;
         obj.a = cVar;
         return obj;

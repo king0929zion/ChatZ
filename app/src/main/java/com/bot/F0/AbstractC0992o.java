@@ -54,7 +54,7 @@ public abstract class AbstractC0992o {
         f11708d = c0989l;
         long j3 = 1;
         f11709e = j3 + j3;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f11685b = new long[16];
         obj.f11686c = new int[16];
         int[] iArr = new int[16];
@@ -75,7 +75,7 @@ public abstract class AbstractC0992o {
         f11713i = vVar;
         long j4 = f11709e;
         f11709e = j3 + j4;
-        ?? c0979b = new C0979b(j4, c0989l, null, new Y(29));
+        C0979b c0979b = new C0979b(j4, c0989l, null, new Y(29));
         f11708d = f11708d.e(c0979b.f11680b);
         f11714j = c0979b;
         f11715k = new AtomicInteger(0);
@@ -216,7 +216,7 @@ public abstract class AbstractC0992o {
         }
         if (n3 != null) {
             try {
-                ?? r42 = f11712h;
+                Object r42 = f11712h;
                 int size = r42.size();
                 for (int i6 = 0; i6 < size; i6++) {
                     ((l4.e) r42.get(i6)).m(new V.h(n3), c0978a);

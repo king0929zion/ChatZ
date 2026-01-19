@@ -141,7 +141,7 @@ public final /* synthetic */ class Y implements l4.c {
                 return obj;
             default:
                 synchronized (AbstractC0992o.f11707c) {
-                    ?? r22 = AbstractC0992o.f11713i;
+                    Object r22 = AbstractC0992o.f11713i;
                     int size = r22.size();
                     for (int i6 = 0; i6 < size; i6++) {
                         ((l4.c) r22.get(i6)).f(obj);

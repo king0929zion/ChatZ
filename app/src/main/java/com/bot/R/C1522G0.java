@@ -48,10 +48,10 @@ public final class C1522G0 {
     /* JADX WARN: Type inference failed for: r3v2, types: [U4.n, java.lang.Object] */
     public C1522G0(AbstractC1592o0 abstractC1592o0) {
         this.a = abstractC1592o0;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f8749b = new ArrayList();
         this.f14045j = obj;
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f8749b = new ArrayList();
         this.f14046k = obj2;
         this.f14047l = 0L;
@@ -66,7 +66,7 @@ public final class C1522G0 {
         C1516D0 c1516d0 = c1522g0.f14039d;
         C1516D0 c1516d02 = c1516d0;
         if (c1516d0 == null) {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f14003d = null;
             obj.f14004e = Long.MAX_VALUE;
             obj.f14005f = false;
@@ -92,7 +92,7 @@ public final class C1522G0 {
         EnumC1510A0 enumC1510A0 = EnumC1510A0.f13963f;
         C1512B0 c1512b02 = c1512b0;
         if (c1512b0 == null) {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f13980d = enumC1510A0;
             obj.f13981e = false;
             this.f14037b = obj;
@@ -108,7 +108,7 @@ public final class C1522G0 {
         C1514C0 c1514c0 = this.f14040e;
         C1514C0 c1514c02 = c1514c0;
         if (c1514c0 == null) {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f13988d = null;
             obj.f13989e = Long.MAX_VALUE;
             this.f14040e = obj;

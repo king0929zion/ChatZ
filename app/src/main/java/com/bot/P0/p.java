@@ -48,31 +48,7 @@ public final class p {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r2v10, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r2v11 */
-    /* JADX WARN: Type inference failed for: r2v12, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r2v13, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v14 */
-    /* JADX WARN: Type inference failed for: r2v15 */
-    /* JADX WARN: Type inference failed for: r2v16 */
-    /* JADX WARN: Type inference failed for: r2v17 */
-    /* JADX WARN: Type inference failed for: r2v18 */
-    /* JADX WARN: Type inference failed for: r2v19 */
-    /* JADX WARN: Type inference failed for: r2v2 */
-    /* JADX WARN: Type inference failed for: r2v3 */
-    /* JADX WARN: Type inference failed for: r2v9 */
-    /* JADX WARN: Type inference failed for: r6v0 */
-    /* JADX WARN: Type inference failed for: r6v1 */
-    /* JADX WARN: Type inference failed for: r6v10 */
-    /* JADX WARN: Type inference failed for: r6v11 */
-    /* JADX WARN: Type inference failed for: r6v2 */
-    /* JADX WARN: Type inference failed for: r6v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r6v4 */
-    /* JADX WARN: Type inference failed for: r6v5 */
-    /* JADX WARN: Type inference failed for: r6v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r6v8 */
-    /* JADX WARN: Type inference failed for: r6v9 */
-    public final C1354c a(i0 i0Var) {
+                                                                                                    public final C1354c a(i0 i0Var) {
         AbstractC0156k abstractC0156k;
         p l3 = l();
         if (l3 == null) {
@@ -83,7 +59,7 @@ public final class p {
             loop0: while (abstractC1040q != null) {
                 if ((abstractC1040q.f11808f & 8) != 0) {
                     abstractC0156k = abstractC1040q;
-                    ?? r6 = 0;
+                    int r6 = 0;
                     while (abstractC0156k != 0) {
                         if (abstractC0156k instanceof A0) {
                             if (abstractC0156k.h()) {
@@ -186,30 +162,7 @@ public final class p {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r6v12 */
-    /* JADX WARN: Type inference failed for: r6v13, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r6v14, types: [H0.A0] */
-    /* JADX WARN: Type inference failed for: r6v15 */
-    /* JADX WARN: Type inference failed for: r6v16, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r6v17, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r6v18 */
-    /* JADX WARN: Type inference failed for: r6v19 */
-    /* JADX WARN: Type inference failed for: r6v20 */
-    /* JADX WARN: Type inference failed for: r6v21 */
-    /* JADX WARN: Type inference failed for: r6v22 */
-    /* JADX WARN: Type inference failed for: r6v23 */
-    /* JADX WARN: Type inference failed for: r7v12 */
-    /* JADX WARN: Type inference failed for: r7v13 */
-    /* JADX WARN: Type inference failed for: r7v14 */
-    /* JADX WARN: Type inference failed for: r7v15, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r7v16 */
-    /* JADX WARN: Type inference failed for: r7v17 */
-    /* JADX WARN: Type inference failed for: r7v18, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r7v20 */
-    /* JADX WARN: Type inference failed for: r7v21 */
-    /* JADX WARN: Type inference failed for: r7v22 */
-    /* JADX WARN: Type inference failed for: r7v23 */
-    public final A0 f() {
+                                                                                                public final A0 f() {
         AbstractC1040q abstractC1040q;
         boolean z5 = this.f4499d.f4494f;
         J j3 = this.f4498c;
@@ -265,10 +218,10 @@ public final class p {
             while (abstractC1040q4 != null) {
                 if ((abstractC1040q4.f11808f & 8) != 0) {
                     AbstractC0156k abstractC0156k = abstractC1040q4;
-                    ?? r7 = 0;
+                    int r7 = 0;
                     while (abstractC0156k != 0) {
                         if (abstractC0156k instanceof A0) {
-                            ?? r6 = (A0) abstractC0156k;
+                            Object r6 = (A0) abstractC0156k;
                             if (r6.h()) {
                                 if (r6.x0()) {
                                     return r6;

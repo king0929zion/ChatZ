@@ -137,7 +137,7 @@ public abstract class AbstractC1117a {
         WeakReference weakReference = null;
         C1712o c1712o2 = c1712o;
         if (c1712o == null) {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.a = null;
             obj.f14876b = null;
             obj.f14877c = null;

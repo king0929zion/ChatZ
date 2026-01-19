@@ -40,7 +40,7 @@ public final class C implements InterfaceC0951k {
         if (j4 < Long.MAX_VALUE && P(j4) && c0949i.h(j4 - 1) == 13 && P(j4 + 1) && c0949i.h(j4) == 10) {
             return e5.a.a(j4, c0949i);
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         c0949i.d(obj, 0L, Math.min(32, c0949i.f11482e));
         throw new EOFException("\\n not found: limit=" + Math.min(c0949i.f11482e, j3) + " content=" + obj.k(obj.f11482e).e() + (char) 8230);
     }

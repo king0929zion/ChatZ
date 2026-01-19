@@ -66,8 +66,7 @@ public final class E1 {
 
     /* JADX WARN: Removed duplicated region for block: B:23:0x0035  */
     /* JADX WARN: Removed duplicated region for block: B:8:0x0020  */
-    /* JADX WARN: Type inference failed for: r6v0, types: [java.lang.Object, m4.v] */
-    /*
+        /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
     */
@@ -212,26 +211,7 @@ public final class E1 {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r13v21 */
-    /* JADX WARN: Type inference failed for: r13v22, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r13v31 */
-    /* JADX WARN: Type inference failed for: r7v11 */
-    /* JADX WARN: Type inference failed for: r7v12, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r7v21, types: [java.lang.Object, H0.F0] */
-    /* JADX WARN: Type inference failed for: r7v46 */
-    /* JADX WARN: Type inference failed for: r8v0 */
-    /* JADX WARN: Type inference failed for: r8v1 */
-    /* JADX WARN: Type inference failed for: r8v15 */
-    /* JADX WARN: Type inference failed for: r8v16 */
-    /* JADX WARN: Type inference failed for: r8v17 */
-    /* JADX WARN: Type inference failed for: r8v18 */
-    /* JADX WARN: Type inference failed for: r8v19 */
-    /* JADX WARN: Type inference failed for: r8v2 */
-    /* JADX WARN: Type inference failed for: r8v3 */
-    /* JADX WARN: Type inference failed for: r8v4, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r8v6 */
-    /* JADX WARN: Type inference failed for: r8v7, types: [V.e] */
-    public final long c(InterfaceC1563e1 interfaceC1563e1, long j3, int i6) {
+                                                                                public final long c(InterfaceC1563e1 interfaceC1563e1, long j3, int i6) {
         int i7;
         A0.j jVar;
         A0.j jVar2;
@@ -364,10 +344,10 @@ public final class E1 {
                     while (abstractC1040q5 != null) {
                         if ((abstractC1040q5.f11808f & i7) != 0) {
                             AbstractC0156k abstractC0156k2 = abstractC1040q5;
-                            ?? r8 = obj;
+                            Object r8 = obj;
                             while (abstractC0156k2 != 0) {
                                 if (abstractC0156k2 instanceof H0.F0) {
-                                    ?? r7 = (H0.F0) abstractC0156k2;
+                                    Object r7 = (H0.F0) abstractC0156k2;
                                     if (AbstractC1276k.b(jVar5.m(), r7.m()) && A0.j.class == r7.getClass()) {
                                         jVar3 = r7;
                                         break loop3;

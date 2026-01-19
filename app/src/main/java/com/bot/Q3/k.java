@@ -18,9 +18,7 @@ public final class k implements InterfaceC0905c, d4.d {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r2v1, types: [b4.c[]] */
-    /* JADX WARN: Type inference failed for: r2v2 */
-    @Override // d4.d
+            @Override // d4.d
     public final d4.d g() {
         j jVar = j.f6469c;
         int i6 = this.f6470c;
@@ -34,7 +32,7 @@ public final class k implements InterfaceC0905c, d4.d {
             jVar = null;
         } else {
             try {
-                ?? r22 = lVar.f6475h[i7];
+                Object r22 = lVar.f6475h[i7];
                 if (r22 != 0) {
                     this.f6470c = i7 - 1;
                     jVar = r22;

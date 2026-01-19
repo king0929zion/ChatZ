@@ -20,7 +20,7 @@ public final class RunnableC1889B extends AbstractC1907U implements Runnable {
     /* JADX WARN: Type inference failed for: r0v0, types: [x4.V, x4.U, x4.B] */
     static {
         Long l3;
-        ?? abstractC1907U = new AbstractC1907U();
+        AbstractC1907U abstractC1907U = new AbstractC1907U();
         f15648m = abstractC1907U;
         abstractC1907U.k0(false);
         TimeUnit timeUnit = TimeUnit.MILLISECONDS;

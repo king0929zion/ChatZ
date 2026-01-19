@@ -32,7 +32,7 @@ public final class a implements f5.a {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, g5.b] */
     public final void d() {
-        ?? obj = new Object();
+        Object obj = new Object();
         System.currentTimeMillis();
         obj.a = this.f11777e;
         Thread.currentThread().getName();

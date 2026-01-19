@@ -10,7 +10,7 @@ public final class T extends AbstractC0141b0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [m.X, h0.q, v.U] */
     @Override // H0.AbstractC0141b0
     public final AbstractC1040q e() {
-        ?? abstractC1216X = new AbstractC1216X(1);
+        AbstractC1216X abstractC1216X = new AbstractC1216X(1);
         abstractC1216X.f15270s = V.f15272c;
         abstractC1216X.f15271t = true;
         return abstractC1216X;

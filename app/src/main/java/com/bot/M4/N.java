@@ -32,7 +32,7 @@ public final class N extends f0 {
     public final Object g(Object obj) {
         long[] jArr = (long[]) obj;
         AbstractC1276k.f(jArr, "<this>");
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.a = jArr;
         obj2.f3431b = jArr.length;
         obj2.b(10);

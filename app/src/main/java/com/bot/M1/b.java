@@ -63,10 +63,7 @@ public final class b {
     /* JADX WARN: Removed duplicated region for block: B:30:0x012f A[RETURN] */
     /* JADX WARN: Removed duplicated region for block: B:31:0x004c  */
     /* JADX WARN: Removed duplicated region for block: B:9:0x0032  */
-    /* JADX WARN: Type inference failed for: r1v2, types: [java.lang.Object, m4.t] */
-    /* JADX WARN: Type inference failed for: r2v4, types: [m4.w, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r3v0, types: [m4.w, java.lang.Object] */
-    /*
+                /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
     */
@@ -209,9 +206,7 @@ public final class b {
         return e12.g(e12.e(e13.c(e13.f14022k, h3, 1)));
     }
 
-    /* JADX WARN: Type inference failed for: r12v2, types: [java.util.List, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r1v2, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    public boolean d(C0040p c0040p) {
+            public boolean d(C0040p c0040p) {
         long j3;
         C0987j c0987j = (C0987j) this.f3234c;
         InterfaceC0961c interfaceC0961c = (InterfaceC0961c) this.f3236e;
@@ -219,7 +214,7 @@ public final class b {
         int i6 = Build.VERSION.SDK_INT;
         float f6 = -(i6 > 26 ? viewConfiguration.getScaledVerticalScrollFactor() : interfaceC0961c.e0(64));
         float f7 = -(i6 > 26 ? viewConfiguration.getScaledHorizontalScrollFactor() : interfaceC0961c.e0(64));
-        ?? r12 = c0040p.a;
+        Object r12 = c0040p.a;
         C1353b c1353b = new C1353b(0L);
         int size = r12.size();
         int i7 = 0;
@@ -324,14 +319,8 @@ public final class b {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r1v10 */
-    /* JADX WARN: Type inference failed for: r1v11 */
-    /* JADX WARN: Type inference failed for: r1v12 */
-    /* JADX WARN: Type inference failed for: r1v6 */
-    /* JADX WARN: Type inference failed for: r1v7, types: [java.io.Serializable] */
-    /* JADX WARN: Type inference failed for: r1v9 */
-    public b(AssetManager assetManager, Executor executor, f fVar, String str, File file) {
-        ?? r12;
+                            public b(AssetManager assetManager, Executor executor, f fVar, String str, File file) {
+        Object r12;
         this.a = false;
         this.f3233b = executor;
         this.f3234c = fVar;

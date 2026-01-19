@@ -109,14 +109,12 @@ public final class b implements t {
         return false;
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, X3.f] */
-    @Override // S0.t
+        @Override // S0.t
     public float b() {
         return ((Number) this.f1293c.getValue()).floatValue();
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, X3.f] */
-    @Override // S0.t
+        @Override // S0.t
     public float c() {
         return ((Number) this.f1294d.getValue()).floatValue();
     }
@@ -129,12 +127,11 @@ public final class b implements t {
         ((ArrayList) this.f1292b).add(new i(c1485a, cls));
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, m4.u] */
-    public InterfaceC0604f f(AbstractC0869b abstractC0869b, InterfaceC1193a interfaceC1193a) {
+        public InterfaceC0604f f(AbstractC0869b abstractC0869b, InterfaceC1193a interfaceC1193a) {
         int i6;
         int i7;
         int i8;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12971c = -1;
         synchronized (this.a) {
             Throwable th = (Throwable) this.f1292b;
@@ -681,8 +678,7 @@ public final class b implements t {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r5v15, types: [java.util.List] */
-    public b(C0545g c0545g, P p5, List list, InterfaceC0961c interfaceC0961c, W0.d dVar) {
+        public b(C0545g c0545g, P p5, List list, InterfaceC0961c interfaceC0961c, W0.d dVar) {
         int i6;
         String str;
         ArrayList arrayList;
@@ -952,7 +948,7 @@ public final class b implements t {
                 str2 = str3;
             }
             P p7 = new P(p6.a, uVar.a(uVar2));
-            ?? r5 = c0545g4.f7629c;
+            Object r5 = c0545g4.f7629c;
             Y3.v vVar5 = r5 == 0 ? vVar4 : r5;
             List list5 = (List) this.f1292b;
             ArrayList arrayList5 = new ArrayList(list5.size());

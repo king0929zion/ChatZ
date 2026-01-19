@@ -523,7 +523,7 @@ public abstract class m extends Activity implements a0, InterfaceC0837k, U1.e, I
         if (z5 == null) {
             return null;
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = z5;
         return obj;
     }

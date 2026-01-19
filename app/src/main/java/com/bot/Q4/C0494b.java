@@ -26,14 +26,7 @@ public final class C0494b {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r2v3 */
-    /* JADX WARN: Type inference failed for: r2v4 */
-    /* JADX WARN: Type inference failed for: r2v5, types: [d5.i] */
-    /* JADX WARN: Type inference failed for: r2v6, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r2v7 */
-    /* JADX WARN: Type inference failed for: r2v9 */
-    /* JADX WARN: Type inference failed for: r9v2, types: [d5.i, java.lang.Object] */
-    public static String b(String str, int i6, int i7, String str2, int i8) {
+                                public static String b(String str, int i6, int i7, String str2, int i8) {
         int i9 = (i8 & 1) != 0 ? 0 : i6;
         int length = (i8 & 2) != 0 ? str.length() : i7;
         boolean z5 = (i8 & 8) == 0;
@@ -47,9 +40,9 @@ public final class C0494b {
             int i11 = PegdownExtensions.FENCED_CODE_BLOCKS;
             int i12 = 32;
             if (codePointAt < 32 || codePointAt == 127 || ((codePointAt >= 128 && !z8) || AbstractC1776n.H(str2, (char) codePointAt) || ((codePointAt == 37 && (!z5 || (z6 && !d(i10, length, str)))) || (codePointAt == 43 && z7)))) {
-                ?? obj = new Object();
+                Object obj = new Object();
                 obj.f0(i9, i10, str);
-                ?? r22 = 0;
+                int r22 = 0;
                 while (i10 < length) {
                     int codePointAt2 = str.codePointAt(i10);
                     if (!z5 || (codePointAt2 != 9 && codePointAt2 != 10 && codePointAt2 != 12 && codePointAt2 != 13)) {
@@ -90,8 +83,7 @@ public final class C0494b {
         return i8 < i7 && str.charAt(i6) == '%' && R4.b.r(str.charAt(i6 + 1)) != -1 && R4.b.r(str.charAt(i8)) != -1;
     }
 
-    /* JADX WARN: Type inference failed for: r0v3, types: [d5.i, java.lang.Object] */
-    public static String e(int i6, int i7, int i8, String str) {
+        public static String e(int i6, int i7, int i8, String str) {
         int i9;
         if ((i8 & 1) != 0) {
             i6 = 0;
@@ -105,7 +97,7 @@ public final class C0494b {
         while (i10 < i7) {
             char charAt = str.charAt(i10);
             if (charAt == '%' || (charAt == '+' && z5)) {
-                ?? obj = new Object();
+                Object obj = new Object();
                 obj.f0(i6, i10, str);
                 while (i10 < i7) {
                     int codePointAt = str.codePointAt(i10);

@@ -35,7 +35,7 @@ public final class C0949i implements InterfaceC0951k, InterfaceC0950j, Cloneable
         if (j4 < this.f11482e && h(j4 - 1) == 13 && h(j4) == 10) {
             return e5.a.a(j4, this);
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         d(obj, 0L, Math.min(32, this.f11482e));
         throw new EOFException("\\n not found: limit=" + Math.min(this.f11482e, j3) + " content=" + obj.k(obj.f11482e).e() + (char) 8230);
     }
@@ -454,7 +454,7 @@ public final class C0949i implements InterfaceC0951k, InterfaceC0950j, Cloneable
 
     /* JADX WARN: Type inference failed for: r0v0, types: [d5.i, java.lang.Object] */
     public final Object clone() {
-        ?? obj = new Object();
+        Object obj = new Object();
         if (this.f11482e == 0) {
             return obj;
         }

@@ -258,7 +258,7 @@ public abstract class f2 {
     /* JADX WARN: Type inference failed for: r7v2, types: [java.util.List, java.util.Collection, java.lang.Object] */
     public static final boolean f(C0040p c0040p, boolean z5, boolean z6) {
         if (z6) {
-            ?? r7 = c0040p.a;
+            Object r7 = c0040p.a;
             int size = r7.size();
             int i6 = 0;
             while (true) {
@@ -272,7 +272,7 @@ public abstract class f2 {
                 }
             }
         }
-        ?? r5 = c0040p.a;
+        Object r5 = c0040p.a;
         int size2 = r5.size();
         for (int i7 = 0; i7 < size2; i7++) {
             B0.y yVar = (B0.y) r5.get(i7);

@@ -135,7 +135,7 @@ public final class C1468d {
         f13858v = c1481q16;
         C1481q c1481q17 = new C1481q("Perceptual Quantizer encoding", fArr3, c1483s, null, new F(15), new F(16), S.l.f7374V, 1.0f, c1482r4, 18);
         f13859w = c1481q17;
-        ?? abstractC1467c = new AbstractC1467c(j3, "Oklab", 19);
+        AbstractC1467c abstractC1467c = new AbstractC1467c(j3, "Oklab", 19);
         f13860x = abstractC1467c;
         f13861y = new AbstractC1467c[]{c1481q, c1481q2, c1481q3, c1481q4, c1481q5, c1481q6, c1481q7, c1481q8, c1481q9, c1481q10, c1481q11, c1481q12, c1481q13, c1481q14, c1475k, c1475k2, c1481q15, c1481q16, c1481q17, abstractC1467c};
     }

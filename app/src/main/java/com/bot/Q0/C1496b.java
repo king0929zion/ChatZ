@@ -31,7 +31,7 @@ public final class C1496b implements InterfaceC1498d {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [q0.a, java.lang.Object] */
     public C1496b() {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = AbstractC1497c.a;
         obj.f13940b = m.f11576c;
         obj.f13941c = f.a;

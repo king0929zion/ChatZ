@@ -1,7 +1,5 @@
 package m;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: m.F, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC1199F {
@@ -18,15 +16,12 @@ public final class EnumC1199F {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ EnumC1199F[] f12717g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, m.F] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, m.F] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, m.F] */
-    static {
-        ?? r02 = new Enum("PreEnter", 0);
+                static {
+        EnumC1199F r02 = new EnumC1199F();
         f12714c = r02;
-        ?? r12 = new Enum("Visible", 1);
+        EnumC1199F r12 = new EnumC1199F();
         f12715e = r12;
-        ?? r22 = new Enum("PostExit", 2);
+        EnumC1199F r22 = new EnumC1199F();
         f12716f = r22;
         f12717g = new EnumC1199F[]{r02, r12, r22};
     }

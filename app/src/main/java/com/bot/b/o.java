@@ -23,16 +23,16 @@ public abstract class o {
     public static final void a(MainActivity mainActivity, C0856E c0856e, C0856E c0856e2) {
         View decorView = mainActivity.getWindow().getDecorView();
         AbstractC1276k.e(decorView, "window.decorView");
-        ?? r02 = c0856e.f10910d;
+        Object r02 = c0856e.f10910d;
         Resources resources = decorView.getResources();
         AbstractC1276k.e(resources, "view.resources");
         boolean booleanValue = ((Boolean) r02.f(resources)).booleanValue();
-        ?? r03 = c0856e2.f10910d;
+        Object r03 = c0856e2.f10910d;
         Resources resources2 = decorView.getResources();
         AbstractC1276k.e(resources2, "view.resources");
         boolean booleanValue2 = ((Boolean) r03.f(resources2)).booleanValue();
         int i6 = Build.VERSION.SDK_INT;
-        ?? obj = i6 >= 30 ? new Object() : i6 >= 29 ? new Object() : i6 >= 28 ? new Object() : new Object();
+        Object obj = i6 >= 30 ? new Object() : i6 >= 29 ? new Object() : i6 >= 28 ? new Object() : new Object();
         Window window = mainActivity.getWindow();
         AbstractC1276k.e(window, "window");
         obj.b(c0856e, c0856e2, window, decorView, booleanValue, booleanValue2);

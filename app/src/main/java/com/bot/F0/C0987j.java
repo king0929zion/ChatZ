@@ -444,7 +444,7 @@ public class C0987j implements InterfaceC1293B, I0, InterfaceC1078B, InterfaceC1
     public C0987j(View view) {
         this.f11689c = 21;
         if (Build.VERSION.SDK_INT >= 30) {
-            ?? c0987j = new C0987j(view, 20);
+            C0987j c0987j = new C0987j(view, 20);
             c0987j.f14872f = view;
             this.f11690e = c0987j;
             return;

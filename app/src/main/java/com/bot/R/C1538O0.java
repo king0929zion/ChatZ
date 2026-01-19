@@ -39,15 +39,9 @@ public final class C1538O0 extends d4.i implements l4.e {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r0v0, types: [int] */
-    /* JADX WARN: Type inference failed for: r0v1, types: [x4.e0] */
-    /* JADX WARN: Type inference failed for: r0v2, types: [d4.i, l4.e] */
-    /* JADX WARN: Type inference failed for: r0v4, types: [x4.e0] */
-    /* JADX WARN: Type inference failed for: r0v8 */
-    /* JADX WARN: Type inference failed for: r0v9 */
-    @Override // d4.a
+                            @Override // d4.a
     public final Object r(Object obj) {
-        ?? r02 = this.f14103h;
+        Object r02 = this.f14103h;
         try {
             if (r02 == 0) {
                 X3.a.e(obj);

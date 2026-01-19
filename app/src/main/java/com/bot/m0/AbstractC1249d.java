@@ -102,7 +102,7 @@ public abstract class AbstractC1249d {
                             return cVar.f(y.r.f15933u);
                         }
                         int b5 = Q02.N0(i8) ? Q02.f15934r.b() : Q02.f15934r.e();
-                        ?? obj2 = new Object();
+                        Object obj2 = new Object();
                         C1609u c1609u = Q02.f15935s;
                         c1609u.getClass();
                         C1973m c1973m = new C1973m(b5, b5);
@@ -1344,7 +1344,7 @@ public abstract class AbstractC1249d {
                                     int i10 = i9 + 1;
                                     if (cArr.length < i10) {
                                         int length = cArr.length;
-                                        ?? r42 = new Object[Math.max(i10, length * 2)];
+                                        Object[] r42 = new Object[Math.max(i10, length * 2)];
                                         System.arraycopy(cArr, i6, r42, i6, length);
                                         cArr = r42;
                                     }
@@ -1491,7 +1491,7 @@ public abstract class AbstractC1249d {
                                 int i8 = i6 + 1;
                                 if (cArr.length < i8) {
                                     int length = cArr.length;
-                                    ?? r10 = new Object[Math.max(i8, length * 2)];
+                                    Object[] r10 = new Object[Math.max(i8, length * 2)];
                                     System.arraycopy(cArr, 0, r10, 0, length);
                                     cArr = r10;
                                 }
@@ -1578,7 +1578,7 @@ public abstract class AbstractC1249d {
                                 int i8 = i6 + 1;
                                 if (cArr.length < i8) {
                                     int length = cArr.length;
-                                    ?? r10 = new Object[Math.max(i8, length * 2)];
+                                    Object[] r10 = new Object[Math.max(i8, length * 2)];
                                     System.arraycopy(cArr, 0, r10, 0, length);
                                     cArr = r10;
                                 }

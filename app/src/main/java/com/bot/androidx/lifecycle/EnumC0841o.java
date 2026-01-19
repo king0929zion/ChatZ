@@ -4,8 +4,6 @@ import e4.C0969b;
 import e4.InterfaceC0968a;
 import v.AbstractC1787b;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: androidx.lifecycle.o, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC0841o {
@@ -20,28 +18,20 @@ public final class EnumC0841o {
     public static final EnumC0841o ON_START;
     public static final EnumC0841o ON_STOP;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, androidx.lifecycle.o] */
-    /* JADX WARN: Type inference failed for: r0v2, types: [java.lang.Object, androidx.lifecycle.m] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, androidx.lifecycle.o] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, androidx.lifecycle.o] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, androidx.lifecycle.o] */
-    /* JADX WARN: Type inference failed for: r4v2, types: [java.lang.Enum, androidx.lifecycle.o] */
-    /* JADX WARN: Type inference failed for: r5v2, types: [java.lang.Enum, androidx.lifecycle.o] */
-    /* JADX WARN: Type inference failed for: r6v2, types: [java.lang.Enum, androidx.lifecycle.o] */
-    static {
-        ?? r02 = new Enum("ON_CREATE", 0);
+                                    static {
+        EnumC0841o r02 = new EnumC0841o();
         ON_CREATE = r02;
-        ?? r12 = new Enum("ON_START", 1);
+        EnumC0841o r12 = new EnumC0841o();
         ON_START = r12;
-        ?? r22 = new Enum("ON_RESUME", 2);
+        EnumC0841o r22 = new EnumC0841o();
         ON_RESUME = r22;
-        ?? r32 = new Enum("ON_PAUSE", 3);
+        EnumC0841o r32 = new EnumC0841o();
         ON_PAUSE = r32;
-        ?? r42 = new Enum("ON_STOP", 4);
+        EnumC0841o r42 = new EnumC0841o();
         ON_STOP = r42;
-        ?? r5 = new Enum("ON_DESTROY", 5);
+        EnumC0841o r5 = new EnumC0841o();
         ON_DESTROY = r5;
-        ?? r6 = new Enum("ON_ANY", 6);
+        EnumC0841o r6 = new EnumC0841o();
         ON_ANY = r6;
         EnumC0841o[] enumC0841oArr = {r02, r12, r22, r32, r42, r5, r6};
         $VALUES = enumC0841oArr;

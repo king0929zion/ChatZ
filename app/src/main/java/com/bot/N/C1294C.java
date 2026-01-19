@@ -11,7 +11,7 @@ public final class C1294C implements InterfaceC1292A {
     /* JADX WARN: Type inference failed for: r6v1, types: [java.lang.Object, n.g0] */
     public C1294C(float f6, float f7, float f8) {
         this.a = f8;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = 1.0f;
         obj.f13157b = Math.sqrt(50.0d);
         obj.f13158c = 1.0f;

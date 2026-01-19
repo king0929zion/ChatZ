@@ -1,7 +1,5 @@
 package S;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class p {
 
@@ -23,23 +21,17 @@ public final class p {
     /* renamed from: i, reason: collision with root package name */
     public static final /* synthetic */ p[] f7418i;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, S.p] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, S.p] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, S.p] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, S.p] */
-    /* JADX WARN: Type inference failed for: r4v2, types: [java.lang.Enum, S.p] */
-    /* JADX WARN: Type inference failed for: r5v2, types: [java.lang.Enum, S.p] */
-    static {
-        ?? r02 = new Enum("DefaultSpatial", 0);
+                            static {
+        p r02 = new p();
         f7413c = r02;
-        ?? r12 = new Enum("FastSpatial", 1);
+        p r12 = new p();
         f7414e = r12;
-        ?? r22 = new Enum("SlowSpatial", 2);
-        ?? r32 = new Enum("DefaultEffects", 3);
+        p r22 = new p();
+        p r32 = new p();
         f7415f = r32;
-        ?? r42 = new Enum("FastEffects", 4);
+        p r42 = new p();
         f7416g = r42;
-        ?? r5 = new Enum("SlowEffects", 5);
+        p r5 = new p();
         f7417h = r5;
         f7418i = new p[]{r02, r12, r22, r32, r42, r5};
     }

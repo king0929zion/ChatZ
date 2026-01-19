@@ -621,7 +621,7 @@ public enum HtmlTreeBuilderState {
                 }
                 Element element4 = element;
                 Element element5 = element4;
-                for (?? r8 = z5; r8 < 3; r8++) {
+                for (Object r8 = z5; r8 < 3; r8++) {
                     if (htmlTreeBuilder.onStack(element4)) {
                         element4 = htmlTreeBuilder.aboveOnStack(element4);
                     }

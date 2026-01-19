@@ -41,7 +41,7 @@ public abstract class AbstractC0032h extends AbstractC1040q implements F0, w0, I
     /* JADX WARN: Type inference failed for: r0v0, types: [m4.w, java.lang.Object] */
     public final void M0() {
         C0025a c0025a;
-        ?? obj = new Object();
+        Object obj = new Object();
         AbstractC0157l.z(this, new C0031g(obj, 0));
         AbstractC0032h abstractC0032h = (AbstractC0032h) obj.f12973c;
         if (abstractC0032h == null || (c0025a = abstractC0032h.f450s) == null) {
@@ -54,7 +54,7 @@ public abstract class AbstractC0032h extends AbstractC1040q implements F0, w0, I
 
     /* JADX WARN: Type inference failed for: r0v0, types: [m4.r, java.lang.Object] */
     public final void O0() {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12968c = true;
         AbstractC0157l.B(this, new C0030f(obj));
         if (obj.f12968c) {
@@ -69,7 +69,7 @@ public abstract class AbstractC0032h extends AbstractC1040q implements F0, w0, I
         if (this.f451t) {
             this.f451t = false;
             if (this.f11819q) {
-                ?? obj = new Object();
+                Object obj = new Object();
                 AbstractC0157l.z(this, new A0.k(obj, 1));
                 AbstractC0032h abstractC0032h = (AbstractC0032h) obj.f12973c;
                 if (abstractC0032h != null) {
@@ -96,7 +96,7 @@ public abstract class AbstractC0032h extends AbstractC1040q implements F0, w0, I
     @Override // H0.w0
     public final void w(C0040p c0040p, EnumC0041q enumC0041q, long j3) {
         if (enumC0041q == EnumC0041q.f476e) {
-            ?? r32 = c0040p.a;
+            Object r32 = c0040p.a;
             int size = r32.size();
             for (int i6 = 0; i6 < size; i6++) {
                 if (P0(((y) r32.get(i6)).f489i)) {

@@ -62,7 +62,7 @@ public final class e {
             aVar.a = j3;
             aVar.f645b = f6;
         } else {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.a = j3;
             obj.f645b = f6;
             aVarArr[i6] = obj;

@@ -1,7 +1,5 @@
 package v;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: v.x, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC1817x {
@@ -18,15 +16,12 @@ public final class EnumC1817x {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ EnumC1817x[] f15368g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [v.x, java.lang.Enum] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [v.x, java.lang.Enum] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [v.x, java.lang.Enum] */
-    static {
-        ?? r02 = new Enum("Vertical", 0);
+                static {
+        EnumC1817x r02 = new EnumC1817x();
         f15365c = r02;
-        ?? r12 = new Enum("Horizontal", 1);
+        EnumC1817x r12 = new EnumC1817x();
         f15366e = r12;
-        ?? r22 = new Enum("Both", 2);
+        EnumC1817x r22 = new EnumC1817x();
         f15367f = r22;
         f15368g = new EnumC1817x[]{r02, r12, r22};
     }

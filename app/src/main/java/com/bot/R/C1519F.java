@@ -62,9 +62,9 @@ public final class C1519F extends d4.i implements l4.e {
             X3.a.e(obj);
             f6 = this.f14028k;
             if (Math.abs(f6) > 1.0f) {
-                ?? obj2 = new Object();
+                Object obj2 = new Object();
                 obj2.f12970c = f6;
-                ?? obj3 = new Object();
+                Object obj3 = new Object();
                 C1336m b5 = AbstractC1318d.b(S.l.f7374V, f6, 28);
                 try {
                     C1521G c1521g = this.f14029l;

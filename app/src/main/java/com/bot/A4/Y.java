@@ -1,7 +1,5 @@
 package A4;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* loaded from: classes.dex */
 public final class Y {
 
@@ -17,15 +15,12 @@ public final class Y {
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ Y[] f227g;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [A4.Y, java.lang.Enum] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [A4.Y, java.lang.Enum] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [A4.Y, java.lang.Enum] */
-    static {
-        ?? r02 = new Enum("START", 0);
+                static {
+        Y r02 = new Y();
         f224c = r02;
-        ?? r12 = new Enum("STOP", 1);
+        Y r12 = new Y();
         f225e = r12;
-        ?? r22 = new Enum("STOP_AND_RESET_REPLAY_CACHE", 2);
+        Y r22 = new Y();
         f226f = r22;
         f227g = new Y[]{r02, r12, r22};
     }

@@ -307,7 +307,7 @@ public abstract class AbstractC1907U extends AbstractC1908V implements Interface
         } else {
             C1906T c1906t = (C1906T) atomicReferenceFieldUpdater.get(this);
             if (c1906t == null) {
-                ?? obj = new Object();
+                Object obj = new Object();
                 obj.f15668c = j3;
                 while (!atomicReferenceFieldUpdater.compareAndSet(this, null, obj) && atomicReferenceFieldUpdater.get(this) == null) {
                 }

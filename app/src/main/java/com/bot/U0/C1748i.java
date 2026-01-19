@@ -123,8 +123,7 @@ public final class C1748i extends AbstractC1739D {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v10, types: [java.lang.Object, X3.f] */
-    public final void e() {
+        public final void e() {
         float f6 = this.f15071k;
         C1397h c1397h = this.f15078r;
         if (f6 == S.l.f7374V && this.f15072l == 1.0f) {
@@ -144,7 +143,7 @@ public final class C1748i extends AbstractC1739D {
             }
             path.setFillType(fillType2);
         }
-        ?? r02 = this.f15081u;
+        Object r02 = this.f15081u;
         ((C1398i) r02.getValue()).a.setPath(c1397h != null ? c1397h.a : null, false);
         float length = ((C1398i) r02.getValue()).a.getLength();
         float f7 = this.f15071k;

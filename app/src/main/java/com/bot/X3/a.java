@@ -42,7 +42,7 @@ public abstract class a {
             return new n(interfaceC1193a);
         }
         if (ordinal == 1) {
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f9398c = interfaceC1193a;
             obj.f9399e = vVar;
             return obj;
@@ -50,7 +50,7 @@ public abstract class a {
         if (ordinal != 2) {
             throw new RuntimeException();
         }
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f9414c = interfaceC1193a;
         obj2.f9415e = vVar;
         return obj2;

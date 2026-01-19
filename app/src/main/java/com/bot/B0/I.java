@@ -18,7 +18,7 @@ public final class I implements InterfaceC1039p {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [B0.H, java.lang.Object] */
     public I() {
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f394g = this;
         obj.f392e = E.f382c;
         this.f397d = obj;

@@ -27,7 +27,7 @@ public final class f implements d {
     public f(F2.h hVar, a aVar) {
         M.q qVar = g.a;
         M.q qVar2 = g.a;
-        ?? obj = new Object();
+        Object obj = new Object();
         N3.k kVar = h.a;
         C1998d c1998d = AbstractC0800h.a;
         kVar.getClass();

@@ -32,7 +32,7 @@ public final class z0 extends f0 {
     public final Object g(Object obj) {
         short[] sArr = ((X3.x) obj).f9413c;
         AbstractC1276k.f(sArr, "$this$toBuilder");
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.a = sArr;
         obj2.f3507b = sArr.length;
         obj2.b(10);

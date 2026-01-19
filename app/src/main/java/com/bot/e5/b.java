@@ -91,15 +91,15 @@ public abstract class b {
         int j5 = c6.j() & 65535;
         int j6 = c6.j() & 65535;
         long f7 = c6.f() & 4294967295L;
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12972c = c6.f() & 4294967295L;
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.f12972c = c6.f() & 4294967295L;
         int j7 = c6.j() & 65535;
         int j8 = c6.j() & 65535;
         int j9 = 65535 & c6.j();
         c6.skip(8L);
-        ?? obj3 = new Object();
+        Object obj3 = new Object();
         obj3.f12972c = c6.f() & 4294967295L;
         String p5 = c6.p(j7);
         if (AbstractC1776n.H(p5, (char) 0)) {
@@ -112,10 +112,10 @@ public abstract class b {
         if (obj3.f12972c == 4294967295L) {
             j10 += 8;
         }
-        ?? obj4 = new Object();
-        ?? obj5 = new Object();
-        ?? obj6 = new Object();
-        ?? obj7 = new Object();
+        Object obj4 = new Object();
+        Object obj5 = new Object();
+        Object obj6 = new Object();
+        Object obj7 = new Object();
         e(c6, j8, new i(obj7, j10, obj2, c6, obj, obj3, obj4, obj5, obj6));
         if (j10 > 0 && !obj7.f12968c) {
             throw new IOException("bad zip: zip64 extra required but absent");
@@ -173,9 +173,9 @@ public abstract class b {
             c6.skip(j4);
             return null;
         }
-        ?? obj = new Object();
-        ?? obj2 = new Object();
-        ?? obj3 = new Object();
+        Object obj = new Object();
+        Object obj2 = new Object();
+        Object obj3 = new Object();
         e(c6, j4, new h(c6, (C1288w) obj, (C1288w) obj2, (C1288w) obj3));
         return new g(gVar.a, gVar.f11610b, gVar.f11611c, gVar.f11612d, gVar.f11613e, gVar.f11614f, gVar.f11615g, gVar.f11616h, gVar.f11617i, gVar.f11618j, gVar.f11619k, gVar.f11620l, gVar.f11621m, (Integer) obj.f12973c, (Integer) obj2.f12973c, (Integer) obj3.f12973c);
     }

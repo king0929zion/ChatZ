@@ -46,9 +46,7 @@ public final class K {
         this.a = (F0.k0) interfaceC0138a;
     }
 
-    /* JADX WARN: Type inference failed for: r12v5, types: [m4.i, l4.e] */
-    /* JADX WARN: Type inference failed for: r3v7, types: [F0.k0, H0.a] */
-    public static final void a(K k3, AbstractC0107a abstractC0107a, int i6, i0 i0Var) {
+            public static final void a(K k3, AbstractC0107a abstractC0107a, int i6, i0 i0Var) {
         HashMap hashMap = k3.f1763i;
         float f6 = i6;
         long floatToRawIntBits = Float.floatToRawIntBits(f6) << 32;
@@ -123,10 +121,9 @@ public final class K {
         return this.f1762h != null;
     }
 
-    /* JADX WARN: Type inference failed for: r0v1, types: [F0.k0, H0.a] */
-    public final void f() {
+        public final void f() {
         this.f1756b = true;
-        ?? r02 = this.a;
+        Object r02 = this.a;
         InterfaceC0138a h3 = r02.h();
         if (h3 == null) {
             return;
@@ -145,12 +142,11 @@ public final class K {
         h3.b().f();
     }
 
-    /* JADX WARN: Type inference failed for: r2v1, types: [F0.k0, H0.a] */
-    public final void g() {
+        public final void g() {
         HashMap hashMap = this.f1763i;
         hashMap.clear();
         B0.G g3 = new B0.G(this, 2);
-        ?? r22 = this.a;
+        Object r22 = this.a;
         r22.F(g3);
         hashMap.putAll(b(r22.g()));
         this.f1756b = false;
@@ -160,8 +156,7 @@ public final class K {
     
         if (r0 != false) goto L29;
      */
-    /* JADX WARN: Type inference failed for: r1v0, types: [F0.k0, H0.a] */
-    /*
+        /*
         Code decompiled incorrectly, please refer to instructions dump.
         To view partially-correct add '--show-bad-code' argument
     */

@@ -38,11 +38,7 @@ public final class C0029e {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r14v2, types: [java.lang.Object[]] */
-    /* JADX WARN: Type inference failed for: r16v1 */
-    /* JADX WARN: Type inference failed for: r16v2 */
-    /* JADX WARN: Type inference failed for: r16v3 */
-    public final void a(long j3, List list, boolean z5) {
+                    public final void a(long j3, List list, boolean z5) {
         C1151E c1151e;
         int i6;
         C0038n c0038n;
@@ -62,7 +58,7 @@ public final class C0029e {
                 abstractC1040q.f11818p = new C0028d(0, this, abstractC1040q);
                 if (z6) {
                     V.e eVar = c0039o2.a;
-                    ?? r14 = eVar.f8759c;
+                    Object r14 = eVar.f8759c;
                     int i8 = eVar.f8761f;
                     int i9 = 0;
                     while (true) {

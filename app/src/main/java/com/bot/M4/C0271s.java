@@ -33,7 +33,7 @@ public final class C0271s extends f0 {
     public final Object g(Object obj) {
         double[] dArr = (double[]) obj;
         AbstractC1276k.f(dArr, "<this>");
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.a = dArr;
         obj2.f3486b = dArr.length;
         obj2.b(10);

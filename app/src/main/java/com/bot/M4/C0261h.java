@@ -33,7 +33,7 @@ public final class C0261h extends f0 {
     public final Object g(Object obj) {
         byte[] bArr = (byte[]) obj;
         AbstractC1276k.f(bArr, "<this>");
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.a = bArr;
         obj2.f3466b = bArr.length;
         obj2.b(10);

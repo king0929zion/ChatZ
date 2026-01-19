@@ -146,7 +146,7 @@ public final /* synthetic */ class L implements InterfaceC1193a {
                                             ArrayList arrayList9 = arrayList8;
                                             arrayList3 = arrayList9;
                                             if (length2 >= 1) {
-                                                ?? r42 = z7;
+                                                Object r42 = z7;
                                                 c1354c3 = l3.b(AbstractC1117a.f(i17, r42, length2 - 1));
                                                 z6 = r42;
                                                 arrayList2 = arrayList9;
@@ -210,9 +210,9 @@ public final /* synthetic */ class L implements InterfaceC1193a {
                 c0332s02.f4208s.setValue(null);
                 if (c0332s02.f4210u && c0332s02.h()) {
                     long j5 = 0;
-                    ?? obj = new Object();
-                    ?? obj2 = new Object();
-                    ?? obj3 = new Object();
+                    Object obj = new Object();
+                    Object obj2 = new Object();
+                    Object obj3 = new Object();
                     z0 z0Var2 = c0332s02.a;
                     ArrayList c8 = z0Var2.c(c0332s02.j());
                     ListIterator listIterator = c8.listIterator(c8.size());

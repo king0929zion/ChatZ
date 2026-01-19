@@ -470,7 +470,7 @@ public abstract class j {
     public static final C3.a Q(C1759c c1759c, io.ktor.utils.io.y yVar) {
         AbstractC1276k.f(c1759c, "<this>");
         AbstractC1276k.f(yVar, "content");
-        ?? c1759c2 = new C1759c(c1759c.f15161c);
+        C1759c c1759c2 = new C1759c(c1759c.f15161c);
         c1759c2.f15162e = new C3.b(c1759c2, c1759c.d(), 0);
         c1759c2.f15163f = new C3.c(c1759c2, yVar, c1759c.e());
         return c1759c2;

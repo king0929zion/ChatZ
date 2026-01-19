@@ -1,7 +1,5 @@
 package S0;
 
-/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
-/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
 /* renamed from: S0.i, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
 public final class EnumC0547i {
@@ -30,27 +28,20 @@ public final class EnumC0547i {
     /* renamed from: k, reason: collision with root package name */
     public static final /* synthetic */ EnumC0547i[] f7640k;
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Enum, S0.i] */
-    /* JADX WARN: Type inference failed for: r1v1, types: [java.lang.Enum, S0.i] */
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Enum, S0.i] */
-    /* JADX WARN: Type inference failed for: r3v2, types: [java.lang.Enum, S0.i] */
-    /* JADX WARN: Type inference failed for: r4v2, types: [java.lang.Enum, S0.i] */
-    /* JADX WARN: Type inference failed for: r5v2, types: [java.lang.Enum, S0.i] */
-    /* JADX WARN: Type inference failed for: r6v2, types: [java.lang.Enum, S0.i] */
-    static {
-        ?? r02 = new Enum("Paragraph", 0);
+                                static {
+        EnumC0547i r02 = new EnumC0547i();
         f7633c = r02;
-        ?? r12 = new Enum("Span", 1);
+        EnumC0547i r12 = new EnumC0547i();
         f7634e = r12;
-        ?? r22 = new Enum("VerbatimTts", 2);
+        EnumC0547i r22 = new EnumC0547i();
         f7635f = r22;
-        ?? r32 = new Enum("Url", 3);
+        EnumC0547i r32 = new EnumC0547i();
         f7636g = r32;
-        ?? r42 = new Enum("Link", 4);
+        EnumC0547i r42 = new EnumC0547i();
         f7637h = r42;
-        ?? r5 = new Enum("Clickable", 5);
+        EnumC0547i r5 = new EnumC0547i();
         f7638i = r5;
-        ?? r6 = new Enum("String", 6);
+        EnumC0547i r6 = new EnumC0547i();
         f7639j = r6;
         f7640k = new EnumC0547i[]{r02, r12, r22, r32, r42, r5, r6};
     }

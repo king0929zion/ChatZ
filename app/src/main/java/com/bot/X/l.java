@@ -81,8 +81,7 @@ public final class l implements W {
         this.f15507q = i11;
     }
 
-    /* JADX WARN: Type inference failed for: r2v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    public final l a(int i6, boolean z5) {
+        public final l a(int i6, boolean z5) {
         m mVar;
         int i7;
         int i8;
@@ -90,7 +89,7 @@ public final class l implements W {
         if (this.f15497g) {
             return null;
         }
-        ?? r22 = this.f15501k;
+        Object r22 = this.f15501k;
         if (r22.isEmpty() || (mVar = this.a) == null) {
             return null;
         }

@@ -69,7 +69,7 @@ public final class C0848w extends O {
         if (enumC0842p != enumC0842p2) {
             enumC0842p2 = EnumC0842p.f10876e;
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         HashMap hashMap = AbstractC0849x.a;
         boolean z5 = interfaceC0845t instanceof InterfaceC0844s;
         boolean z6 = interfaceC0845t instanceof InterfaceC0832f;

@@ -24,7 +24,7 @@ public final class b implements View.OnDragListener, c {
 
     /* JADX WARN: Type inference failed for: r0v0, types: [h0.q, k0.e] */
     public b() {
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         abstractC1040q.f12597t = 0L;
         this.a = abstractC1040q;
         this.f12593b = new C1160g(0);
@@ -41,7 +41,7 @@ public final class b implements View.OnDragListener, c {
         e eVar = this.a;
         switch (action) {
             case 1:
-                ?? obj = new Object();
+                Object obj = new Object();
                 C0030f c0030f = new C0030f(c0987j, eVar, obj);
                 if (c0030f.f(eVar) == e02) {
                     AbstractC0157l.B(eVar, c0030f);

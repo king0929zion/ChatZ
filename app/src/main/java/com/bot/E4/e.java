@@ -14,7 +14,7 @@ public final class e extends h {
         int i7 = k.f1369d;
         long j3 = k.f1370e;
         String str = k.a;
-        ?? abstractC1939v = new AbstractC1939v();
+        AbstractC1939v abstractC1939v = new AbstractC1939v();
         abstractC1939v.f1363f = new c(j3, str, i6, i7);
         f1362g = abstractC1939v;
     }

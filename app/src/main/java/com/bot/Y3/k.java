@@ -149,7 +149,7 @@ public abstract class k extends Y4.d {
                     }
                 } else if ((obj instanceof X3.x) && (obj2 instanceof X3.x)) {
                     short[] sArr = ((X3.x) obj).f9413c;
-                    ?? r5 = ((X3.x) obj2).f9413c;
+                    Object r5 = ((X3.x) obj2).f9413c;
                     if (sArr == null) {
                         sArr = null;
                     }
@@ -158,7 +158,7 @@ public abstract class k extends Y4.d {
                     }
                 } else if ((obj instanceof X3.s) && (obj2 instanceof X3.s)) {
                     int[] iArr = ((X3.s) obj).f9409c;
-                    ?? r52 = ((X3.s) obj2).f9409c;
+                    Object r52 = ((X3.s) obj2).f9409c;
                     if (iArr == null) {
                         iArr = null;
                     }
@@ -167,7 +167,7 @@ public abstract class k extends Y4.d {
                     }
                 } else if ((obj instanceof X3.u) && (obj2 instanceof X3.u)) {
                     long[] jArr = ((X3.u) obj).f9411c;
-                    ?? r53 = ((X3.u) obj2).f9411c;
+                    Object r53 = ((X3.u) obj2).f9411c;
                     if (jArr == null) {
                         jArr = null;
                     }

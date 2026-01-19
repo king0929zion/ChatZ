@@ -10,9 +10,7 @@ public final class D implements Comparator {
     public static final D a = new Object();
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r5v4, types: [java.lang.Object[], java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r5v9, types: [java.lang.Object[], java.lang.Object] */
-    @Override // java.util.Comparator
+            @Override // java.util.Comparator
     public final int compare(Object obj, Object obj2) {
         C c6 = (C) obj;
         C c7 = (C) obj2;
@@ -27,7 +25,7 @@ public final class D implements Comparator {
                     int i8 = i7 + 1;
                     if (jArr.length < i8) {
                         int length = jArr.length;
-                        ?? r5 = new Object[Math.max(i8, length * 2)];
+                        Object[] r5 = new Object[Math.max(i8, length * 2)];
                         System.arraycopy(jArr, 0, r5, 0, length);
                         jArr = r5;
                     }
@@ -44,7 +42,7 @@ public final class D implements Comparator {
                     int i10 = i9 + 1;
                     if (jArr2.length < i10) {
                         int length2 = jArr2.length;
-                        ?? r52 = new Object[Math.max(i10, length2 * 2)];
+                        Object[] r52 = new Object[Math.max(i10, length2 * 2)];
                         System.arraycopy(jArr2, 0, r52, 0, length2);
                         jArr2 = r52;
                     }

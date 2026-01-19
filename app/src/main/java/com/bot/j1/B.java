@@ -70,11 +70,7 @@ public final class B implements l4.g {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r10v1, types: [T.q] */
-    /* JADX WARN: Type inference failed for: r6v11 */
-    /* JADX WARN: Type inference failed for: r6v12 */
-    /* JADX WARN: Type inference failed for: r6v13, types: [java.lang.Object] */
-    @Override // l4.g
+                    @Override // l4.g
     public final Object i(Object obj, Object obj2, Object obj3, Object obj4) {
         boolean z5;
         I1.j jVar;
@@ -122,7 +118,7 @@ public final class B implements l4.g {
             default:
                 C1851b c1851b = (C1851b) obj;
                 int intValue = ((Number) obj2).intValue();
-                ?? r10 = (C0626q) obj3;
+                Object r10 = (C0626q) obj3;
                 int intValue2 = ((Number) obj4).intValue();
                 l4.c cVar = (l4.c) obj6;
                 InterfaceC1942y interfaceC1942y = (InterfaceC1942y) obj7;

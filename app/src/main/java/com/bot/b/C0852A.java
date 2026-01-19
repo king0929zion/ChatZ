@@ -18,8 +18,7 @@ public final class C0852A implements InterfaceC0859c {
         this.f10897c = uVar;
     }
 
-    /* JADX WARN: Type inference failed for: r0v2, types: [m4.i, l4.a] */
-    @Override // b.InterfaceC0859c
+        @Override // b.InterfaceC0859c
     public final void cancel() {
         C0853B c0853b = this.f10898e;
         Y3.j jVar = c0853b.f10899b;
@@ -30,7 +29,7 @@ public final class C0852A implements InterfaceC0859c {
             c0853b.f10900c = null;
         }
         uVar.f10956b.remove(this);
-        ?? r02 = uVar.f10957c;
+        Object r02 = uVar.f10957c;
         if (r02 != 0) {
             r02.b();
         }

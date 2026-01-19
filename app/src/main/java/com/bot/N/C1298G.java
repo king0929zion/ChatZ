@@ -17,7 +17,7 @@ public final class C1298G extends d4.i implements l4.e {
     /* JADX WARN: Type inference failed for: r0v0, types: [d4.i, n.G, b4.c] */
     @Override // d4.a
     public final InterfaceC0905c p(InterfaceC0905c interfaceC0905c, Object obj) {
-        ?? iVar = new d4.i(2, interfaceC0905c);
+        d4.i iVar = new d4.i(2, interfaceC0905c);
         iVar.f12997h = ((Number) obj).floatValue();
         return iVar;
     }

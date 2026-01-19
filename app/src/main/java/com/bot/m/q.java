@@ -90,29 +90,7 @@ public final class q implements B3.g, X1.b, InterfaceC1616w0, InterfaceC0604f, K
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r4v0 */
-    /* JADX WARN: Type inference failed for: r4v1, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v10 */
-    /* JADX WARN: Type inference failed for: r4v11 */
-    /* JADX WARN: Type inference failed for: r4v3 */
-    /* JADX WARN: Type inference failed for: r4v4, types: [h0.q] */
-    /* JADX WARN: Type inference failed for: r4v5, types: [java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r4v6 */
-    /* JADX WARN: Type inference failed for: r4v7 */
-    /* JADX WARN: Type inference failed for: r4v8 */
-    /* JADX WARN: Type inference failed for: r4v9 */
-    /* JADX WARN: Type inference failed for: r5v0 */
-    /* JADX WARN: Type inference failed for: r5v1 */
-    /* JADX WARN: Type inference failed for: r5v10 */
-    /* JADX WARN: Type inference failed for: r5v11 */
-    /* JADX WARN: Type inference failed for: r5v2 */
-    /* JADX WARN: Type inference failed for: r5v3, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v4 */
-    /* JADX WARN: Type inference failed for: r5v5 */
-    /* JADX WARN: Type inference failed for: r5v6, types: [V.e] */
-    /* JADX WARN: Type inference failed for: r5v8 */
-    /* JADX WARN: Type inference failed for: r5v9 */
-    public static void l(J j3) {
+                                                                                            public static void l(J j3) {
         if (j3.f1731T > 0) {
             if (j3.f1722K.f1769d == F.f1700h && !j3.p() && !j3.q() && !j3.f1732U && j3.I()) {
                 AbstractC1040q abstractC1040q = j3.f1721J.f1919f;
@@ -120,7 +98,7 @@ public final class q implements B3.g, X1.b, InterfaceC1616w0, InterfaceC0604f, K
                     while (abstractC1040q != null) {
                         if ((abstractC1040q.f11808f & PegdownExtensions.WIKILINKS) != 0) {
                             AbstractC0156k abstractC0156k = abstractC1040q;
-                            ?? r5 = 0;
+                            int r5 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof InterfaceC0161p) {
                                     InterfaceC0161p interfaceC0161p = (InterfaceC0161p) abstractC0156k;
@@ -456,8 +434,7 @@ public final class q implements B3.g, X1.b, InterfaceC1616w0, InterfaceC0604f, K
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v0, types: [java.lang.Object, X3.f] */
-    public InputMethodManager o() {
+        public InputMethodManager o() {
         return (InputMethodManager) this.f3180f.getValue();
     }
 

@@ -106,7 +106,7 @@ public class e extends AbstractMap implements W.c, Map, InterfaceC1376e {
             super.putAll(map);
             return;
         }
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.a = 0;
         int i6 = this.f9554i;
         n nVar = this.f9551f;

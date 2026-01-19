@@ -40,17 +40,14 @@ public class C1420J extends r {
         this.f13787z.b();
     }
 
-    /* JADX WARN: Type inference failed for: r12v1, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r12v2, types: [java.util.List, java.util.Collection, java.lang.Object] */
-    /* JADX WARN: Type inference failed for: r12v8, types: [java.util.List, java.lang.Object] */
-    @Override // p.r, H0.w0
+                @Override // p.r, H0.w0
     public final void w(C0040p c0040p, EnumC0041q enumC0041q, long j3) {
         super.w(c0040p, enumC0041q, j3);
         if (enumC0041q != EnumC0041q.f476e) {
             if (enumC0041q != EnumC0041q.f477f || this.f13592P == null) {
                 return;
             }
-            ?? r12 = c0040p.a;
+            Object r12 = c0040p.a;
             int size = r12.size();
             for (int i6 = 0; i6 < size; i6++) {
                 B0.y yVar = (B0.y) r12.get(i6);
@@ -76,7 +73,7 @@ public class C1420J extends r {
             }
             return;
         }
-        ?? r122 = c0040p.a;
+        Object r122 = c0040p.a;
         int size2 = r122.size();
         for (int i7 = 0; i7 < size2; i7++) {
             if (!AbstractC0047x.c((B0.y) r122.get(i7))) {

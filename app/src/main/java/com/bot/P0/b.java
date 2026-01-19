@@ -19,7 +19,7 @@ public final class b extends AbstractC0141b0 implements InterfaceC1039p {
     /* JADX WARN: Type inference failed for: r0v0, types: [P0.d, h0.q] */
     @Override // H0.AbstractC0141b0
     public final AbstractC1040q e() {
-        ?? abstractC1040q = new AbstractC1040q();
+        AbstractC1040q abstractC1040q = new AbstractC1040q();
         abstractC1040q.f4433r = this.a;
         abstractC1040q.f4434s = this.f4431b;
         return abstractC1040q;

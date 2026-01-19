@@ -15,15 +15,12 @@ public final class k extends a {
     /* renamed from: h, reason: collision with root package name */
     public boolean f9074h;
 
-    /* JADX WARN: Type inference failed for: r5v1 */
-    /* JADX WARN: Type inference failed for: r5v2, types: [boolean, int] */
-    /* JADX WARN: Type inference failed for: r5v3 */
-    public k(Object[] objArr, int i6, int i7, int i8) {
+                public k(Object[] objArr, int i6, int i7, int i8) {
         super(i6, i7);
         this.f9072f = i8;
         Object[] objArr2 = new Object[i8];
         this.f9073g = objArr2;
-        ?? r5 = i6 == i7 ? 1 : 0;
+        Object r5 = i6 == i7 ? 1 : 0;
         this.f9074h = r5;
         objArr2[0] = objArr;
         b(i6 - r5, 1);

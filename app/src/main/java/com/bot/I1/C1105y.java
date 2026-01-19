@@ -95,7 +95,7 @@ public final class C1105y extends AbstractC0171a {
     /* JADX WARN: Type inference failed for: r0v5 */
     public C1105y(InterfaceC1193a interfaceC1193a, C1079C c1079c, String str, View view, InterfaceC0961c interfaceC0961c, InterfaceC1078B interfaceC1078B, UUID uuid, boolean z5) {
         super(view.getContext());
-        ?? obj = Build.VERSION.SDK_INT >= 29 ? new Object() : new Object();
+        Object obj = Build.VERSION.SDK_INT >= 29 ? new Object() : new Object();
         this.f12036l = interfaceC1193a;
         this.f12037m = c1079c;
         this.f12038n = str;
@@ -345,7 +345,7 @@ public final class C1105y extends AbstractC0171a {
         long j3 = m14getPopupContentSizebOM6tXw.a;
         e1.k visibleDisplayBounds = getVisibleDisplayBounds();
         long b5 = (visibleDisplayBounds.b() & 4294967295L) | (visibleDisplayBounds.d() << 32);
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f12972c = 0L;
         this.f12031A.d(this, C1084d.f11978k, new C1104x(obj, this, kVar, b5, j3));
         int[] iArr = new int[2];

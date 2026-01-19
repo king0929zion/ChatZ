@@ -15,7 +15,7 @@ public final class C0878k extends Y.c implements InterfaceC0617l0 {
     @Override // Y.c
     /* renamed from: a */
     public final Y.e builder() {
-        ?? eVar = new Y.e(this);
+        Y.e eVar = new Y.e(this);
         eVar.f10987j = this;
         return eVar;
     }
@@ -23,7 +23,7 @@ public final class C0878k extends Y.c implements InterfaceC0617l0 {
     /* JADX WARN: Type inference failed for: r0v0, types: [Y.e, b0.j, W.c] */
     @Override // Y.c, W.d
     public final W.c builder() {
-        ?? eVar = new Y.e(this);
+        Y.e eVar = new Y.e(this);
         eVar.f10987j = this;
         return eVar;
     }

@@ -163,7 +163,7 @@ public abstract class E implements InterfaceC1623y1 {
                 t tVar;
                 switch (i7) {
                     case 0:
-                        ?? r14 = (Float) obj;
+                        Object r14 = (Float) obj;
                         float floatValue = r14.floatValue();
                         E e6 = this.f16178e;
                         long k3 = AbstractC1118b.k(e6);
@@ -321,7 +321,7 @@ public abstract class E implements InterfaceC1623y1 {
                 t tVar;
                 switch (i9) {
                     case 0:
-                        ?? r14 = (Float) obj;
+                        Object r14 = (Float) obj;
                         float floatValue = r14.floatValue();
                         E e6 = this.f16178e;
                         long k3 = AbstractC1118b.k(e6);

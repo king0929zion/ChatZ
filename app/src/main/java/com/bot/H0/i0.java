@@ -218,7 +218,7 @@ public abstract class i0 extends S implements F0.U, InterfaceC0134w, s0 {
         for (AbstractC1040q abstractC1040q = j3.f1721J.f1918e; abstractC1040q != null; abstractC1040q = abstractC1040q.f11810h) {
             if ((abstractC1040q.f11808f & 64) != 0) {
                 AbstractC0156k abstractC0156k = abstractC1040q;
-                ?? r6 = 0;
+                int r6 = 0;
                 while (abstractC0156k != 0) {
                     if (abstractC0156k instanceof u0) {
                         obj = ((u0) abstractC0156k).g(j3.f1714C, obj);
@@ -866,7 +866,7 @@ public abstract class i0 extends S implements F0.U, InterfaceC0134w, s0 {
                 }
                 if ((Y03.f11808f & PegdownExtensions.FENCED_CODE_BLOCKS) != 0) {
                     AbstractC0156k abstractC0156k = Y03;
-                    ?? r8 = 0;
+                    int r8 = 0;
                     while (abstractC0156k != 0) {
                         if (abstractC0156k instanceof InterfaceC0169y) {
                             ((InterfaceC0169y) abstractC0156k).q(this.f1487f);
@@ -948,7 +948,7 @@ public abstract class i0 extends S implements F0.U, InterfaceC0134w, s0 {
         for (AbstractC1040q Y02 = Y0(g3); Y02 != null && (Y02.f11809g & PegdownExtensions.EXTANCHORLINKS) != 0; Y02 = Y02.f11811i) {
             if ((Y02.f11808f & PegdownExtensions.EXTANCHORLINKS) != 0) {
                 AbstractC0156k abstractC0156k = Y02;
-                ?? r5 = 0;
+                int r5 = 0;
                 while (abstractC0156k != 0) {
                     if (abstractC0156k instanceof InterfaceC0169y) {
                         ((InterfaceC0169y) abstractC0156k).o(this);
@@ -1216,7 +1216,7 @@ public abstract class i0 extends S implements F0.U, InterfaceC0134w, s0 {
         switch (c0151g0.a) {
             case 0:
                 AbstractC0156k abstractC0156k2 = abstractC1040q;
-                ?? r42 = 0;
+                int r42 = 0;
                 while (abstractC0156k2 != 0) {
                     if (abstractC0156k2 instanceof w0) {
                         ((w0) abstractC0156k2).R();
@@ -1452,7 +1452,7 @@ public abstract class i0 extends S implements F0.U, InterfaceC0134w, s0 {
                     for (AbstractC1040q Y02 = Y0(g3); Y02 != null && (Y02.f11809g & 4) != 0; Y02 = Y02.f11811i) {
                         if ((Y02.f11808f & 4) != 0) {
                             AbstractC0156k abstractC0156k = Y02;
-                            ?? r9 = 0;
+                            int r9 = 0;
                             while (abstractC0156k != 0) {
                                 if (abstractC0156k instanceof InterfaceC0160o) {
                                     ((InterfaceC0160o) abstractC0156k).Q();

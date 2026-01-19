@@ -43,7 +43,7 @@ public abstract class v {
         AbstractC1276k.f(h3, "navigator");
         LinkedHashMap linkedHashMap = I.f2537b;
         this.f2591c = AbstractC0230i.d(h3.getClass());
-        ?? obj = new Object();
+        Object obj = new Object();
         obj.f2015b = this;
         obj.f2016c = new ArrayList();
         obj.f2017d = new LinkedHashMap();

@@ -75,7 +75,7 @@ public final class d implements W {
                 C0987j c0987j = (C0987j) this.f1545b;
                 O.c(fVar);
                 C1871g c1871g = (C1871g) c0987j.f11690e;
-                ?? obj = new Object();
+                Object obj = new Object();
                 int i7 = 1;
                 obj.a = new C1870f(c1871g, objArr == true ? 1 : 0, i7);
                 obj.f15591b = new C1870f(c1871g, i7, i7);

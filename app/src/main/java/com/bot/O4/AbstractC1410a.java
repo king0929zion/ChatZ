@@ -450,7 +450,7 @@ public abstract class AbstractC1410a {
     /* JADX WARN: Type inference failed for: r9v4 */
     /* JADX WARN: Type inference failed for: r9v5 */
     public static final ArrayList T(I0 i02, int i6, Integer num) {
-        ?? jVar = new g0.j(i02);
+        g0.j jVar = new g0.j(i02);
         int q3 = i02.q(i6);
         C0594a a6 = i02.a(i6);
         while (i6 >= 0) {
@@ -654,7 +654,7 @@ public abstract class AbstractC1410a {
         if (m02.f8007w || m02.p() == 0) {
             return v.f9812c;
         }
-        ?? jVar = new g0.j(m02);
+        g0.j jVar = new g0.j(m02);
         if (num2 != null) {
             i7 = num2.intValue();
         } else {

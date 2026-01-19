@@ -32,7 +32,7 @@ public final class q0 extends f0 {
     public final Object g(Object obj) {
         byte[] bArr = ((X3.q) obj).f9407c;
         AbstractC1276k.f(bArr, "$this$toBuilder");
-        ?? obj2 = new Object();
+        Object obj2 = new Object();
         obj2.a = bArr;
         obj2.f3484b = bArr.length;
         obj2.b(10);

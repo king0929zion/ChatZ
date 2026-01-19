@@ -33,7 +33,7 @@ public class A extends H {
             AbstractC1276k.d(vVar, "null cannot be cast to non-null type androidx.navigation.NavGraph");
             x xVar = (x) vVar;
             z0 z0Var = xVar.f2592e;
-            ?? obj = new Object();
+            Object obj = new Object();
             obj.f12973c = jVar.f2550k.a();
             L1.l lVar = xVar.f2600i;
             int i6 = lVar.f3045b;
