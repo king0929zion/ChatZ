@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_compose_foundation_autofill">Ինքնալրացում</string>
+    <string name="androidx_compose_ui_autofill">Ինքնալրացում</string>
+    <string name="call_notification_answer_action">Պատասխանել</string>
+    <string name="call_notification_answer_video_action">Տեսազանգ</string>
+    <string name="call_notification_decline_action">Մերժել</string>
+    <string name="call_notification_hang_up_action">Ավարտել</string>
+    <string name="call_notification_incoming_text">Մուտքային զանգ</string>
+    <string name="call_notification_ongoing_text">Ընթացիկ զանգ</string>
+    <string name="call_notification_screening_text">Մուտքային զանգի զտում</string>
+    <string name="close_drawer">Փակել նավիգացիայի ընտրացանկը</string>
+    <string name="close_sheet">Փակել թերթը</string>
+    <string name="default_error_message">Սխալ ներածում</string>
+    <string name="default_popup_window_title">Ելնող պատուհան</string>
+    <string name="dropdown_menu">Իջնող ցանկ</string>
+    <string name="in_progress">Ընթացքում է</string>
+    <string name="indeterminate">Մասնակի նշված</string>
+    <string name="m3c_bottom_sheet_collapse_description">Ծալել ներքևի էկրանը</string>
+    <string name="m3c_bottom_sheet_dismiss_description">Փակել ներքևի էկրանը</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">Տեղափոխման նշիչ</string>
+    <string name="m3c_bottom_sheet_expand_description">Ծավալել ներքևի էկրանը</string>
+    <string name="m3c_bottom_sheet_pane_title">Ներքևի էկրան</string>
+    <string name="m3c_dialog">Երկխոսության պատուհան</string>
+    <string name="m3c_dropdown_menu_collapsed">Ծալված է</string>
+    <string name="m3c_dropdown_menu_expanded">Ծավալված է</string>
+    <string name="m3c_dropdown_menu_toggle">Բացել/փակել իջնող ցանկը</string>
+    <string name="m3c_snackbar_pane_title">Ծանուցում</string>
+    <string name="navigation_menu">Նավիգացիայի ընտրացանկ</string>
+    <string name="not_selected">Ընտրված չէ</string>
+    <string name="range_end">Ընդգրկույթի վերջ</string>
+    <string name="range_start">Ընդգրկույթի սկիզբ</string>
+    <string name="selected">Ընտրված է</string>
+    <string name="state_empty">Դատարկ</string>
+    <string name="state_off">Անջատված է</string>
+    <string name="state_on">Միացված է</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_role">Փոխանջատիչ</string>
+    <string name="tab">Ներդիր</string>
+    <string name="template_percent">%1$d տոկոս։</string>
+    <string name="tooltip_description">հուշակ</string>
+    <string name="tooltip_label">ցուցադրել հուշակ</string>
+</resources>

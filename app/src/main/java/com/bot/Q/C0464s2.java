@@ -1,0 +1,17 @@
+package Q;
+
+import m4.C1274i;
+import o4.AbstractC1410a;
+
+/* renamed from: Q.s2, reason: case insensitive filesystem */
+/* loaded from: classes.dex */
+public final /* synthetic */ class C0464s2 extends C1274i implements l4.e {
+
+    /* renamed from: l, reason: collision with root package name */
+    public static final C0464s2 f6102l = new C1274i(2, AbstractC1410a.class, "min", "min(II)I", 1);
+
+    @Override // l4.e
+    public final Object m(Object obj, Object obj2) {
+        return Integer.valueOf(Math.min(((Number) obj).intValue(), ((Number) obj2).intValue()));
+    }
+}

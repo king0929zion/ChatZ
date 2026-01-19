@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "defaults": [
+    {
+      "api_schema": "openai",
+      "host": "api.openai.com",
+      "model_id_regex": "^(o1|o3).*",
+      "strategy": "OPENAI_REASONING_EFFORT",
+      "supports_effort": true,
+      "max_budget": 16000
+    },
+    {
+      "api_schema": "anthropic",
+      "provider_type": "minimax",
+      "strategy": "ANTHROPIC_THINKING_BLOCK",
+      "max_budget": 32000,
+      "append_reasoning_on_tool_call": true
+    },
+    {
+      "api_schema": "anthropic",
+      "strategy": "ANTHROPIC_THINKING_BLOCK",
+      "max_budget": 32000
+    },
+    {
+      "api_schema": "google",
+      "model_id_regex": "^gemini-2.*-thinking.*",
+      "strategy": "GOOGLE_THINKING_CONFIG",
+      "max_budget": 24576
+    },
+    {
+      "api_schema": "google",
+      "strategy": "NONE"
+    },
+    {
+      "api_schema": "openai",
+      "host": "api.x.ai",
+      "model_id_regex": "^grok-3.*",
+      "strategy": "OPENAI_REASONING_EFFORT",
+      "supports_effort": true,
+      "max_budget": 16000
+    },
+    {
+      "api_schema": "openai",
+      "host": "dashscope.aliyuncs.com",
+      "strategy": "X_EXTRA_BODY_PARAM",
+      "params": {
+        "enabled_body": {
+          "extra_body": {
+            "enable_thinking": true
+          }
+        },
+        "disabled_body": {
+          "extra_body": {
+            "enable_thinking": false
+          }
+        },
+        "budget_key": "extra_body.thinking_budget"
+      }
+    },
+    {
+      "api_schema": "openai",
+      "host": "open.bigmodel.cn",
+      "strategy": "X_EXTRA_BODY_PARAM",
+      "params": {
+        "enabled_body": {
+          "thinking": {
+            "type": "enabled",
+            "clear_thinking": false
+          }
+        },
+        "disabled_body": {
+          "thinking": {
+            "type": "disabled"
+          }
+        },
+        "budget_key": "thinking.budget_tokens"
+      }
+    },
+    {
+      "api_schema": "openai",
+      "provider_type": "ollama",
+      "strategy": "X_EXTRA_BODY_PARAM",
+      "params": {
+        "enabled_body": {
+          "think": true
+        },
+        "disabled_body": {
+          "think": false
+        }
+      }
+    },
+    {
+      "api_schema": "openai",
+      "host": "api.deepseek.com",
+      "model_id_regex": "deepseek-(reasoner|r1).*",
+      "strategy": "X_EXTRA_BODY_PARAM",
+      "force_enabled": true,
+      "append_reasoning_on_tool_call": true,
+      "params": {
+        "enabled_body": {
+          "extra_body": {
+            "thinking": {
+              "type": "enabled"
+            }
+          }
+        }
+      }
+    },
+    {
+      "api_schema": "openai",
+      "host": "qianfan.baidubce.com",
+      "strategy": "X_EXTRA_BODY_PARAM",
+      "params": {
+        "enabled_body": {
+          "thinking_mode": "thinking"
+        },
+        "disabled_body": {
+          "thinking_mode": "non-thinking"
+        }
+      }
+    },
+    {
+      "api_schema": "openai",
+      "host": "ark.cn-beijing.volces.com",
+      "strategy": "NONE"
+    }
+  ],
+  "models": [
+    {
+      "api_schema": "openai",
+      "host": "api.openai.com",
+      "model_id": "o1-mini",
+      "strategy": "OPENAI_REASONING_EFFORT",
+      "supports_effort": false
+    },
+    {
+      "api_schema": "openai",
+      "host": "api.openai.com",
+      "model_id": "o1-preview",
+      "strategy": "OPENAI_REASONING_EFFORT",
+      "supports_effort": false
+    }
+  ]
+}

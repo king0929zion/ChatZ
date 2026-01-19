@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_compose_foundation_autofill">自動入力</string>
+    <string name="androidx_compose_ui_autofill">自動入力</string>
+    <string name="call_notification_answer_action">応答</string>
+    <string name="call_notification_answer_video_action">ビデオ</string>
+    <string name="call_notification_decline_action">拒否</string>
+    <string name="call_notification_hang_up_action">通話終了</string>
+    <string name="call_notification_incoming_text">着信</string>
+    <string name="call_notification_ongoing_text">通話中</string>
+    <string name="call_notification_screening_text">着信をスクリーニング中</string>
+    <string name="close_drawer">ナビゲーションメニューを閉じる</string>
+    <string name="close_sheet">シートを閉じる</string>
+    <string name="default_error_message">入力値が無効です</string>
+    <string name="default_popup_window_title">ポップアップウィンドウ</string>
+    <string name="dropdown_menu">プルダウン メニュー</string>
+    <string name="in_progress">処理しています</string>
+    <string name="indeterminate">一部 ON</string>
+    <string name="m3c_bottom_sheet_collapse_description">ボトムシートを折りたたみます</string>
+    <string name="m3c_bottom_sheet_dismiss_description">ボトムシートを閉じます</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">ドラッグ ハンドル</string>
+    <string name="m3c_bottom_sheet_expand_description">ボトムシートを開きます</string>
+    <string name="m3c_bottom_sheet_pane_title">ボトムシート</string>
+    <string name="m3c_dialog">ダイアログ</string>
+    <string name="m3c_dropdown_menu_collapsed">閉じています</string>
+    <string name="m3c_dropdown_menu_expanded">開いています</string>
+    <string name="m3c_dropdown_menu_toggle">プルダウン メニューを切り替えます</string>
+    <string name="m3c_snackbar_pane_title">アラート</string>
+    <string name="navigation_menu">ナビゲーションメニュー</string>
+    <string name="not_selected">未選択</string>
+    <string name="range_end">範囲の末尾</string>
+    <string name="range_start">範囲の先頭</string>
+    <string name="selected">選択済み</string>
+    <string name="state_empty">なし</string>
+    <string name="state_off">OFF</string>
+    <string name="state_on">ON</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_role">切り替える</string>
+    <string name="tab">タブ</string>
+    <string name="template_percent">%1$dパーセント。</string>
+    <string name="tooltip_description">ツールチップ</string>
+    <string name="tooltip_label">ツールチップを表示</string>
+</resources>

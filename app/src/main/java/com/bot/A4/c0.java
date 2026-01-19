@@ -1,0 +1,29 @@
+package A4;
+
+import b4.InterfaceC0905c;
+
+/* loaded from: classes.dex */
+public final class c0 extends d4.i implements l4.e {
+
+    /* renamed from: h, reason: collision with root package name */
+    public /* synthetic */ Object f243h;
+
+    @Override // l4.e
+    public final Object m(Object obj, Object obj2) {
+        return ((c0) p((InterfaceC0905c) obj2, (Y) obj)).r(X3.y.a);
+    }
+
+    /* JADX WARN: Type inference failed for: r0v0, types: [A4.c0, d4.i, b4.c] */
+    @Override // d4.a
+    public final InterfaceC0905c p(InterfaceC0905c interfaceC0905c, Object obj) {
+        ?? iVar = new d4.i(2, interfaceC0905c);
+        iVar.f243h = obj;
+        return iVar;
+    }
+
+    @Override // d4.a
+    public final Object r(Object obj) {
+        X3.a.e(obj);
+        return Boolean.valueOf(((Y) this.f243h) != Y.f224c);
+    }
+}

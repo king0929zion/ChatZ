@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_compose_foundation_autofill">Automatsko popunjavanje</string>
+    <string name="androidx_compose_ui_autofill">Automatsko popunjavanje</string>
+    <string name="call_notification_answer_action">Odgovori</string>
+    <string name="call_notification_answer_video_action">Videozapis</string>
+    <string name="call_notification_decline_action">Odbij</string>
+    <string name="call_notification_hang_up_action">Prekini</string>
+    <string name="call_notification_incoming_text">Dolazni poziv</string>
+    <string name="call_notification_ongoing_text">Poziv u tijeku</string>
+    <string name="call_notification_screening_text">Filtriranje dolaznog poziva</string>
+    <string name="close_drawer">Zatvaranje izbornika za navigaciju</string>
+    <string name="close_sheet">Zatvaranje lista</string>
+    <string name="default_error_message">Nevažeći unos</string>
+    <string name="default_popup_window_title">Skočni prozor</string>
+    <string name="dropdown_menu">Padajući izbornik</string>
+    <string name="in_progress">U tijeku</string>
+    <string name="indeterminate">Djelomično potvrđeno</string>
+    <string name="m3c_bottom_sheet_collapse_description">Sažimanje donje tablice</string>
+    <string name="m3c_bottom_sheet_dismiss_description">Odbacivanje donje tablice</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">Marker za povlačenje</string>
+    <string name="m3c_bottom_sheet_expand_description">Proširivanje donje tablice</string>
+    <string name="m3c_bottom_sheet_pane_title">Donja tablica</string>
+    <string name="m3c_dialog">Dijaloški okvir</string>
+    <string name="m3c_dropdown_menu_collapsed">Sažeto</string>
+    <string name="m3c_dropdown_menu_expanded">Prošireno</string>
+    <string name="m3c_dropdown_menu_toggle">Prekidač za padajući izbornik</string>
+    <string name="m3c_snackbar_pane_title">Upozorenje</string>
+    <string name="navigation_menu">Navigacijski izbornik</string>
+    <string name="not_selected">Nije odabrano</string>
+    <string name="range_end">Kraj raspona</string>
+    <string name="range_start">Početak raspona</string>
+    <string name="selected">Odabrano</string>
+    <string name="state_empty">Prazno</string>
+    <string name="state_off">Isključeno</string>
+    <string name="state_on">Uključeno</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_role">Prekidač</string>
+    <string name="tab">Kartica</string>
+    <string name="template_percent">%1$d posto.</string>
+    <string name="tooltip_description">opis</string>
+    <string name="tooltip_label">prikaži opis</string>
+</resources>

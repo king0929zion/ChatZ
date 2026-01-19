@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="action" format="string" />
+    <attr name="activityAction" format="string" />
+    <attr name="activityName" format="string" />
+    <attr name="alpha" format="float" />
+    <attr name="alwaysExpand" format="boolean" />
+    <attr name="animationBackgroundColor" format="color" />
+    <attr name="argType" format="string" />
+    <attr name="clearTop" format="boolean" />
+    <attr name="data" format="string" />
+    <attr name="dataPattern" format="string" />
+    <attr name="destination" format="reference" />
+    <attr name="dragRangeMaxRatio" format="float" />
+    <attr name="dragRangeMinRatio" format="float" />
+    <attr name="embeddingDividerColor" format="reference|color" />
+    <attr name="embeddingDividerType">
+        <enum name="fixed" value="0" />
+        <enum name="draggable" value="1" />
+    </attr>
+    <attr name="embeddingDividerWidthDp" format="integer" />
+    <attr name="enterAnim" format="reference" />
+    <attr name="exitAnim" format="reference" />
+    <attr name="finishPrimaryWithPlaceholder">
+        <enum name="always" value="1" />
+        <enum name="adjacent" value="2" />
+    </attr>
+    <attr name="finishPrimaryWithSecondary">
+        <enum name="never" value="0" />
+        <enum name="always" value="1" />
+        <enum name="adjacent" value="2" />
+    </attr>
+    <attr name="finishSecondaryWithPrimary">
+        <enum name="never" value="0" />
+        <enum name="always" value="1" />
+        <enum name="adjacent" value="2" />
+    </attr>
+    <attr name="font" format="reference" />
+    <attr name="fontProviderAuthority" format="string" />
+    <attr name="fontProviderCerts" format="reference" />
+    <attr name="fontProviderFallbackQuery" format="string" />
+    <attr name="fontProviderFetchStrategy">
+        <enum name="blocking" value="0" />
+        <enum name="async" value="1" />
+    </attr>
+    <attr name="fontProviderFetchTimeout" format="integer">
+        <enum name="forever" value="-1" />
+    </attr>
+    <attr name="fontProviderPackage" format="string" />
+    <attr name="fontProviderQuery" format="string" />
+    <attr name="fontProviderSystemFontFamily" format="string" />
+    <attr name="fontStyle">
+        <enum name="normal" value="0" />
+        <enum name="italic" value="1" />
+    </attr>
+    <attr name="fontVariationSettings" format="string" />
+    <attr name="fontWeight" format="integer" />
+    <attr name="graph" format="reference" />
+    <attr name="isDraggingToFullscreenAllowed" format="boolean" />
+    <attr name="lStar" format="float" />
+    <attr name="launchSingleTop" format="boolean" />
+    <attr name="mimeType" format="string" />
+    <attr name="navGraph" format="reference" />
+    <attr name="nestedScrollViewStyle" format="reference" />
+    <attr name="nullable" format="boolean" />
+    <attr name="placeholderActivityName" format="string" />
+    <attr name="popEnterAnim" format="reference" />
+    <attr name="popExitAnim" format="reference" />
+    <attr name="popUpTo" format="reference" />
+    <attr name="popUpToInclusive" format="boolean" />
+    <attr name="popUpToSaveState" format="boolean" />
+    <attr name="primaryActivityName" format="string" />
+    <attr name="queryPatterns" format="reference" />
+    <attr name="restoreState" format="boolean" />
+    <attr name="route" format="string" />
+    <attr name="secondaryActivityAction" format="string" />
+    <attr name="secondaryActivityName" format="string" />
+    <attr name="shortcutMatchRequired" format="boolean" />
+    <attr name="splitChangeAnimation">
+        <enum name="systemDefault" value="0" />
+        <enum name="jumpCut" value="1" />
+    </attr>
+    <attr name="splitCloseAnimation">
+        <enum name="systemDefault" value="0" />
+        <enum name="jumpCut" value="1" />
+    </attr>
+    <attr name="splitLayoutDirection">
+        <enum name="locale" value="0" />
+        <enum name="ltr" value="1" />
+        <enum name="rtl" value="2" />
+        <enum name="topToBottom" value="3" />
+        <enum name="bottomToTop" value="4" />
+    </attr>
+    <attr name="splitMaxAspectRatioInLandscape" format="float">
+        <enum name="alwaysAllow" value="0" />
+        <enum name="alwaysDisallow" value="-1" />
+    </attr>
+    <attr name="splitMaxAspectRatioInPortrait" format="float">
+        <enum name="alwaysAllow" value="0" />
+        <enum name="alwaysDisallow" value="-1" />
+    </attr>
+    <attr name="splitMinHeightDp" format="integer" />
+    <attr name="splitMinSmallestWidthDp" format="integer" />
+    <attr name="splitMinWidthDp" format="integer" />
+    <attr name="splitOpenAnimation">
+        <enum name="systemDefault" value="0" />
+        <enum name="jumpCut" value="1" />
+    </attr>
+    <attr name="splitRatio" format="float" />
+    <attr name="startDestination" format="reference" />
+    <attr name="stickyPlaceholder" format="boolean" />
+    <attr name="tag" format="string" />
+    <attr name="targetPackage" format="string" />
+    <attr name="ttcIndex" format="integer" />
+    <attr name="uri" format="string" />
+</resources>

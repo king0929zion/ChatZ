@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_compose_foundation_autofill">အော်တိုဖြည့်</string>
+    <string name="androidx_compose_ui_autofill">အော်တိုဖြည့်</string>
+    <string name="call_notification_answer_action">ဖုန်းကိုင်ရန်</string>
+    <string name="call_notification_answer_video_action">ဗီဒီယို</string>
+    <string name="call_notification_decline_action">ငြင်းပယ်ရန်</string>
+    <string name="call_notification_hang_up_action">ဖုန်းချရန်</string>
+    <string name="call_notification_incoming_text">အဝင်ခေါ်ဆိုမှု</string>
+    <string name="call_notification_ongoing_text">လက်ရှိခေါ်ဆိုမှု</string>
+    <string name="call_notification_screening_text">အဝင်ခေါ်ဆိုမှုကို စစ်ဆေးနေသည်</string>
+    <string name="close_drawer">လမ်းညွှန် မီနူး ပိတ်ရန်</string>
+    <string name="close_sheet">စာမျက်နှာ ပိတ်ရန်</string>
+    <string name="default_error_message">ထည့်သွင်းမှု မမှန်ကန်ပါ</string>
+    <string name="default_popup_window_title">ပေါ့ပ်အပ် ဝင်းဒိုး</string>
+    <string name="dropdown_menu">ဆွဲချမီနူး</string>
+    <string name="in_progress">ဆောင်ရွက်နေဆဲ</string>
+    <string name="indeterminate">တစ်ဝက်တစ်ပျက် စစ်ဆေးထားသည်</string>
+    <string name="m3c_bottom_sheet_collapse_description">အောက်ခြေအပိုဆောင်း စာမျက်နှာကို ချုံ့သည်</string>
+    <string name="m3c_bottom_sheet_dismiss_description">အောက်ခြေအပိုဆောင်း စာမျက်နှာကို ပယ်သည်</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">ဖိဆွဲအထိန်း</string>
+    <string name="m3c_bottom_sheet_expand_description">အောက်ခြေအပိုဆောင်း စာမျက်နှာကို ချဲ့သည်</string>
+    <string name="m3c_bottom_sheet_pane_title">အောက်ခြေအပိုဆောင်း စာမျက်နှာ</string>
+    <string name="m3c_dialog">ဒိုင်ယာလော့</string>
+    <string name="m3c_dropdown_menu_collapsed">ချုံ့ထားသည်</string>
+    <string name="m3c_dropdown_menu_expanded">ချဲ့ထားသည်</string>
+    <string name="m3c_dropdown_menu_toggle">ဆွဲချမီနူးကို ပြောင်းရန်</string>
+    <string name="m3c_snackbar_pane_title">သတိပေးချက်</string>
+    <string name="navigation_menu">လမ်းညွှန် မီနူး</string>
+    <string name="not_selected">ရွေးမထားပါ</string>
+    <string name="range_end">အပိုင်းအခြား အဆုံး</string>
+    <string name="range_start">အပိုင်းအခြား အစ</string>
+    <string name="selected">ရွေးထားသည်</string>
+    <string name="state_empty">မရှိပါ</string>
+    <string name="state_off">ပိတ်</string>
+    <string name="state_on">ဖွင့်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
+    <string name="switch_role">ပြောင်းရန်</string>
+    <string name="tab">တဘ်</string>
+    <string name="template_percent">%1$d ရာခိုင်နှုန်း။</string>
+    <string name="tooltip_description">အကြံပြုချက်ပြ ပေါ့အပ် ဝင်းဒိုး</string>
+    <string name="tooltip_label">အကြံပြုချက်ပြ ပေါ့အပ်ဝင်းဒိုး ပြရန်</string>
+</resources>

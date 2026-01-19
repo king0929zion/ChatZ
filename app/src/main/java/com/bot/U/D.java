@@ -1,0 +1,31 @@
+package U;
+
+import T.C0627q0;
+import T.InterfaceC0598c;
+import T.M0;
+import b0.C0876i;
+import b0.C0879l;
+import java.util.ArrayList;
+
+/* loaded from: classes.dex */
+public final class D extends J {
+
+    /* renamed from: c, reason: collision with root package name */
+    public static final D f8539c = new J(0, 1, 1);
+
+    @Override // U.J
+    public final void a(L l3, InterfaceC0598c interfaceC0598c, M0 m02, C0879l c0879l, K k3) {
+        C0627q0 c0627q0 = (C0627q0) l3.d(0);
+        k.M m3 = c0879l.f10996i;
+        C0876i c0876i = m3 != null ? (C0876i) m3.g(c0627q0) : null;
+        if (c0876i != null) {
+            ArrayList arrayList = c0879l.f10997j;
+            if (arrayList == null) {
+                arrayList = new ArrayList();
+                c0879l.f10997j = arrayList;
+            }
+            arrayList.add(c0879l.f10992e);
+            c0879l.f10992e = c0876i.f10986e;
+        }
+    }
+}

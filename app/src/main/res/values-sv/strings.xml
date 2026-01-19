@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_compose_foundation_autofill">Autofyll</string>
+    <string name="androidx_compose_ui_autofill">Autofyll</string>
+    <string name="call_notification_answer_action">Svara</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Avvisa</string>
+    <string name="call_notification_hang_up_action">Lägg på</string>
+    <string name="call_notification_incoming_text">Inkommande samtal</string>
+    <string name="call_notification_ongoing_text">Pågående samtal</string>
+    <string name="call_notification_screening_text">Ett inkommande samtal filtreras</string>
+    <string name="close_drawer">Stäng navigeringsmenyn</string>
+    <string name="close_sheet">Stäng kalkylarket</string>
+    <string name="default_error_message">Ogiltiga indata</string>
+    <string name="default_popup_window_title">Popup-fönster</string>
+    <string name="dropdown_menu">Rullgardinsmeny</string>
+    <string name="in_progress">Pågår</string>
+    <string name="indeterminate">Delvis markerad</string>
+    <string name="m3c_bottom_sheet_collapse_description">Komprimera arket på nedre delen av skärmen</string>
+    <string name="m3c_bottom_sheet_dismiss_description">Stäng arket på nedre delen av skärmen</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">Handtag</string>
+    <string name="m3c_bottom_sheet_expand_description">Utöka arket på nedre delen av skärmen</string>
+    <string name="m3c_bottom_sheet_pane_title">Ark på nedre delen av skärmen</string>
+    <string name="m3c_dialog">Dialogruta</string>
+    <string name="m3c_dropdown_menu_collapsed">Komprimerad</string>
+    <string name="m3c_dropdown_menu_expanded">Utökad</string>
+    <string name="m3c_dropdown_menu_toggle">Utöka/komprimera rullgardinsmeny</string>
+    <string name="m3c_snackbar_pane_title">Varning</string>
+    <string name="navigation_menu">Navigeringsmeny</string>
+    <string name="not_selected">Inte vald</string>
+    <string name="range_end">Intervallets slut</string>
+    <string name="range_start">Intervallets början</string>
+    <string name="selected">Valt</string>
+    <string name="state_empty">Tom</string>
+    <string name="state_off">Av</string>
+    <string name="state_on">På</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_role">Reglage</string>
+    <string name="tab">Flik</string>
+    <string name="template_percent">%1$d procent.</string>
+    <string name="tooltip_description">beskrivning</string>
+    <string name="tooltip_label">visa beskrivning</string>
+</resources>

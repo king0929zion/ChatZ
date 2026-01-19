@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="androidx_compose_foundation_autofill">מילוי אוטומטי</string>
+    <string name="androidx_compose_ui_autofill">מילוי אוטומטי</string>
+    <string name="call_notification_answer_action">מענה</string>
+    <string name="call_notification_answer_video_action">וידאו</string>
+    <string name="call_notification_decline_action">דחייה</string>
+    <string name="call_notification_hang_up_action">ניתוק</string>
+    <string name="call_notification_incoming_text">שיחה נכנסת</string>
+    <string name="call_notification_ongoing_text">שיחה פעילה</string>
+    <string name="call_notification_screening_text">סינון שיחה נכנסת</string>
+    <string name="close_drawer">סגירת תפריט הניווט</string>
+    <string name="close_sheet">סגירת הגיליון</string>
+    <string name="default_error_message">הקלט לא תקין</string>
+    <string name="default_popup_window_title">חלון קופץ</string>
+    <string name="dropdown_menu">תפריט נפתח</string>
+    <string name="in_progress">בתהליך</string>
+    <string name="indeterminate">מסומנת חלקית</string>
+    <string name="m3c_bottom_sheet_collapse_description">כיווץ הגיליון התחתון</string>
+    <string name="m3c_bottom_sheet_dismiss_description">סגירת הגיליון התחתון</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">נקודת אחיזה לגרירה</string>
+    <string name="m3c_bottom_sheet_expand_description">הרחבת הגיליון התחתון</string>
+    <string name="m3c_bottom_sheet_pane_title">גיליון תחתון</string>
+    <string name="m3c_dialog">תיבת דו-שיח</string>
+    <string name="m3c_dropdown_menu_collapsed">התפריט הנפתח מכווץ</string>
+    <string name="m3c_dropdown_menu_expanded">התפריט הנפתח מורחב</string>
+    <string name="m3c_dropdown_menu_toggle">החלפת המצב של התפריט הנפתח</string>
+    <string name="m3c_snackbar_pane_title">התראה</string>
+    <string name="navigation_menu">תפריט הניווט</string>
+    <string name="not_selected">לא נבחר</string>
+    <string name="range_end">סוף הטווח</string>
+    <string name="range_start">תחילת הטווח</string>
+    <string name="selected">נבחר</string>
+    <string name="state_empty">ריק</string>
+    <string name="state_off">מצב מושבת</string>
+    <string name="state_on">מצב פעיל</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="switch_role">מתג</string>
+    <string name="tab">כרטיסייה</string>
+    <string name="template_percent">%1$d אחוזים.</string>
+    <string name="tooltip_description">הסבר קצר</string>
+    <string name="tooltip_label">הצגת ההסבר הקצר</string>
+</resources>
