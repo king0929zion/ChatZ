@@ -13,7 +13,7 @@ import x4.AbstractC1888A;
 import z4.EnumC2050a;
 
 /* loaded from: classes.dex */
-public abstract class i implements 
+public abstract class i extends AbstractC0054g {
 
     /* renamed from: g, reason: collision with root package name */
     public final InterfaceC0007h f595g;

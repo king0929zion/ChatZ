@@ -4,7 +4,7 @@ import b4.InterfaceC0910h;
 import x4.AbstractC1909W;
 
 /* loaded from: classes.dex */
-public abstract class h implements 
+public abstract class h extends AbstractC1909W {
 
     /* renamed from: f, reason: collision with root package name */
     public c f1363f;
