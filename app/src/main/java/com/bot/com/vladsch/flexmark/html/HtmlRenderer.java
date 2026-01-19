@@ -274,7 +274,7 @@ public class HtmlRenderer implements IRender {
     }
 
     /* loaded from: classes.dex */
-    public abstract class HtmlRendererExtension extends Extension {
+    public abstract class HtmlRendererExtension implements Extension,   {
         void extend(Builder builder, String str);
 
         void rendererOptions(MutableDataHolder mutableDataHolder);

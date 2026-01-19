@@ -9,7 +9,7 @@ import org.jsoup.nodes.NodeIterator;
 
 /* JADX INFO: Access modifiers changed from: package-private */
 /* loaded from: classes.dex */
-public abstract class StructuralEvaluator extends Evaluator {
+public abstract class StructuralEvaluator implements Evaluator,   {
     final Evaluator evaluator;
     final ThreadLocal<IdentityHashMap<Element, IdentityHashMap<Element, Boolean>>> threadMemo = ThreadLocal.withInitial(new c(2));
 

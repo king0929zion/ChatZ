@@ -10,7 +10,7 @@ import com.vladsch.flexmark.util.sequence.BasedSequence;
 import java.util.List;
 
 /* loaded from: classes.dex */
-public abstract class ListItem extends Block implements ParagraphItemContainer, BlankLineContainer, ParagraphContainer {
+public abstract class ListItem implements Block implements ParagraphItemContainer, BlankLineContainer, ParagraphContainer,   {
     static final /* synthetic */ boolean $assertionsDisabled = false;
     private boolean containsBlankLine;
     private boolean hadBlankAfterItemParagraph;

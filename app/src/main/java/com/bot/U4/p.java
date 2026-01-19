@@ -1,5 +1,5 @@
 package u4;
 
 /* loaded from: classes.dex */
-public abstract class p extends o {
+public abstract class p implements o,   {
 }

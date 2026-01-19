@@ -5,7 +5,7 @@ import com.vladsch.flexmark.util.html.Attribute;
 import com.vladsch.flexmark.util.sequence.BasedSequence;
 
 /* loaded from: classes.dex */
-public abstract class InlineLinkNode extends LinkNode {
+public abstract class InlineLinkNode implements LinkNode,   {
     protected BasedSequence linkClosingMarker;
     protected BasedSequence linkOpeningMarker;
     protected BasedSequence text;

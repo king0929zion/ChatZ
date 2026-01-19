@@ -1,5 +1,5 @@
 package Y3;
 
 /* loaded from: classes.dex */
-public abstract class o extends n {
+public abstract class o implements n,   {
 }

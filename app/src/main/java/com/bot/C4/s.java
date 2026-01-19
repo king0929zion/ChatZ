@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
 import x4.q0;
 
 /* loaded from: classes.dex */
-public abstract class s extends b implements q0 {
+public abstract class s implements b implements q0,   {
 
     /* renamed from: g, reason: collision with root package name */
     public static final /* synthetic */ AtomicIntegerFieldUpdater f714g = AtomicIntegerFieldUpdater.newUpdater(s.class, "cleanedAndPointers$volatile");

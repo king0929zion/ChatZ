@@ -4,7 +4,7 @@ import com.vladsch.flexmark.util.ast.Node;
 import com.vladsch.flexmark.util.sequence.BasedSequence;
 
 /* loaded from: classes.dex */
-public abstract class LinkNodeBase extends Node {
+public abstract class LinkNodeBase implements Node,   {
     protected BasedSequence anchorMarker;
     protected BasedSequence anchorRef;
     protected BasedSequence pageRef;

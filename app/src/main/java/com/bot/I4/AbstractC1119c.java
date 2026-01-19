@@ -6,7 +6,7 @@ import u4.AbstractC1776n;
 
 /* renamed from: i4.c, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC1119c extends AbstractC1120d {
+public abstract class AbstractC1119c implements AbstractC1120d,   {
     public static File v(File file) {
         int length;
         int N5;

@@ -11,7 +11,7 @@ import com.vladsch.flexmark.util.sequence.builder.tree.SegmentTree;
 import com.vladsch.flexmark.util.sequence.mappers.CharMapper;
 
 /* loaded from: classes.dex */
-public abstract class BasedSequenceImpl extends IRichSequenceBase<BasedSequence> implements BasedSequence {
+public abstract class BasedSequenceImpl implements IRichSequenceBase<BasedSequence> implements BasedSequence,   {
     static final /* synthetic */ boolean $assertionsDisabled = false;
 
     public BasedSequenceImpl(int i6) {

@@ -8,7 +8,7 @@ import java.util.ListIterator;
 import n4.InterfaceC1372a;
 
 /* loaded from: classes.dex */
-public abstract class c extends AbstractC0737d implements List, Collection, InterfaceC1372a {
+public abstract class c implements AbstractC0737d implements List, Collection, InterfaceC1372a,   {
     public abstract c b(int i6, Object obj);
 
     public abstract c c(Object obj);

@@ -8,7 +8,7 @@ import m4.AbstractC1276k;
 
 /* renamed from: Y3.d, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC0737d extends AbstractC0734a implements List {
+public abstract class AbstractC0737d implements AbstractC0734a implements List,   {
     @Override // java.util.List
     public final void add(int i6, Object obj) {
         throw new UnsupportedOperationException("Operation is not supported for read-only collection");

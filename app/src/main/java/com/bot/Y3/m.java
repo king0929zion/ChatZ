@@ -19,7 +19,7 @@ import java.util.Set;
 import m4.AbstractC1276k;
 
 /* loaded from: classes.dex */
-public abstract class m extends r {
+public abstract class m implements r,   {
     public static ArrayList A0(Collection collection, Object obj) {
         AbstractC1276k.f(collection, "<this>");
         ArrayList arrayList = new ArrayList(collection.size() + 1);

@@ -256,7 +256,7 @@ public class FlexmarkHtmlConverter {
     }
 
     /* loaded from: classes.dex */
-    public abstract class HtmlConverterExtension extends Extension {
+    public abstract class HtmlConverterExtension implements Extension,   {
         void extend(Builder builder);
 
         void rendererOptions(MutableDataHolder mutableDataHolder);

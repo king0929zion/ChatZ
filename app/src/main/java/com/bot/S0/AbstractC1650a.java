@@ -9,7 +9,7 @@ import o0.q;
 
 /* renamed from: s0.a, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC1650a extends ViewGroup {
+public abstract class AbstractC1650a implements ViewGroup,   {
     public final void a(q qVar, View view, long j3) {
         super.drawChild(AbstractC1392c.a(qVar), view, j3);
     }

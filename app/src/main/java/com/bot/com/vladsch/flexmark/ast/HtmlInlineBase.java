@@ -4,7 +4,7 @@ import com.vladsch.flexmark.util.ast.Node;
 import com.vladsch.flexmark.util.sequence.BasedSequence;
 
 /* loaded from: classes.dex */
-public abstract class HtmlInlineBase extends Node {
+public abstract class HtmlInlineBase implements Node,   {
     public HtmlInlineBase() {
     }
 

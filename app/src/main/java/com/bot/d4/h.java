@@ -7,7 +7,7 @@ import m4.C1290y;
 import m4.InterfaceC1273h;
 
 /* loaded from: classes.dex */
-public abstract class h extends g implements InterfaceC1273h {
+public abstract class h implements g implements InterfaceC1273h,   {
 
     /* renamed from: e, reason: collision with root package name */
     public final int f11438e;

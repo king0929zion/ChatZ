@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Iterator;
 
 /* loaded from: classes.dex */
-public abstract class LineAppendable extends Appendable, Iterable<LineInfo> {
+public abstract class LineAppendable implements Appendable, Iterable<LineInfo> {
 
     @Deprecated
     public static final int ALLOW_LEADING_EOL = 0;

@@ -12,8 +12,8 @@ android {
         applicationId "com.bot"
         minSdk 24
         targetSdk 34
-        versionCode 130
-        versionName "1.2.10"
+        versionCode 131
+        versionName "1.2.11"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

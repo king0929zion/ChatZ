@@ -311,14 +311,14 @@ public class Parser implements IParse {
     }
 
     /* loaded from: classes.dex */
-    public abstract class ParserExtension extends Extension {
+    public abstract class ParserExtension implements Extension,   {
         void extend(Builder builder);
 
         void parserOptions(MutableDataHolder mutableDataHolder);
     }
 
     /* loaded from: classes.dex */
-    public abstract class ReferenceHoldingExtension extends Extension {
+    public abstract class ReferenceHoldingExtension implements Extension,   {
         boolean transferReferences(MutableDataHolder mutableDataHolder, DataHolder dataHolder);
     }
 

@@ -8,7 +8,7 @@ import com.vladsch.flexmark.util.sequence.BasedSequence;
 import java.util.List;
 
 /* loaded from: classes.dex */
-public abstract class ListBlock extends Block implements BlankLineContainer {
+public abstract class ListBlock implements Block implements BlankLineContainer,   {
     private boolean tight;
 
     public ListBlock() {

@@ -6,7 +6,7 @@ import java.util.List;
 import m4.AbstractC1276k;
 
 /* loaded from: classes.dex */
-public abstract class q extends p {
+public abstract class q implements p,   {
     public static void a0(List list) {
         if (list.size() > 1) {
             Collections.sort(list);

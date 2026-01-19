@@ -11,7 +11,7 @@ import com.bot.core.database.dao.MessageDao;
 import java.util.List;
 
 /* loaded from: classes.dex */
-public abstract class AppDatabase extends v {
+public abstract class AppDatabase implements v,   {
 
     /* renamed from: j, reason: collision with root package name */
     public static volatile AppDatabase f11139j;

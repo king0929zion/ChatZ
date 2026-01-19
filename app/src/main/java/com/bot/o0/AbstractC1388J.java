@@ -8,7 +8,7 @@ import n0.C1356e;
 
 /* renamed from: o0.J, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC1388J extends AbstractC1404o {
+public abstract class AbstractC1388J implements AbstractC1404o,   {
     public C0987j a;
 
     /* renamed from: b, reason: collision with root package name */

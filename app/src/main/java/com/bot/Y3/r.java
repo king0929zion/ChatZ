@@ -14,7 +14,7 @@ import n4.InterfaceC1372a;
 import n4.InterfaceC1373b;
 
 /* loaded from: classes.dex */
-public abstract class r extends q {
+public abstract class r implements q,   {
     public static void c0(Iterable iterable, AbstractCollection abstractCollection) {
         AbstractC1276k.f(abstractCollection, "<this>");
         AbstractC1276k.f(iterable, "elements");

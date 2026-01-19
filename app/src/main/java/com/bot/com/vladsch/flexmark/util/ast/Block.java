@@ -4,7 +4,7 @@ import com.vladsch.flexmark.util.sequence.BasedSequence;
 import java.util.List;
 
 /* loaded from: classes.dex */
-public abstract class Block extends ContentNode {
+public abstract class Block implements ContentNode,   {
     public Block() {
     }
 
