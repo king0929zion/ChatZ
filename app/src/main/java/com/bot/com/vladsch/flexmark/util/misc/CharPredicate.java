@@ -7,44 +7,44 @@ import java.util.function.IntPredicate;
 
 /* loaded from: classes.dex */
 public interface CharPredicate extends IntPredicate {
-    public static final CharPredicate ALL;
-    public static final CharPredicate ANY_EOL;
-    public static final CharPredicate ANY_EOL_NUL;
-    public static final CharPredicate BACKSLASH;
-    public static final CharPredicate BINARY_DIGITS;
-    public static final CharPredicate BLANKSPACE;
-    public static final CharPredicate DECIMAL_DIGITS;
-    public static final CharPredicate EOL;
+    public static final CharPredicate ALL = null;
+    public static final CharPredicate ANY_EOL = null;
+    public static final CharPredicate ANY_EOL_NUL = null;
+    public static final CharPredicate BACKSLASH = null;
+    public static final CharPredicate BINARY_DIGITS = null;
+    public static final CharPredicate BLANKSPACE = null;
+    public static final CharPredicate DECIMAL_DIGITS = null;
+    public static final CharPredicate EOL = null;
 
     @Deprecated
-    public static final CharPredicate FALSE;
-    public static final CharPredicate HASH;
-    public static final CharPredicate HEXADECIMAL_DIGITS;
-    public static final CharPredicate LINE_SEP;
-    public static final CharPredicate NONE;
-    public static final CharPredicate OCTAL_DIGITS;
-    public static final CharPredicate SLASH;
-    public static final CharPredicate SPACE;
-    public static final CharPredicate SPACE_ANY_EOL;
-    public static final CharPredicate SPACE_EOL;
-    public static final CharPredicate SPACE_TAB;
-    public static final CharPredicate SPACE_TAB_EOL;
-    public static final CharPredicate SPACE_TAB_LINE_SEP;
-    public static final CharPredicate SPACE_TAB_NBSP;
-    public static final CharPredicate SPACE_TAB_NBSP_EOL;
-    public static final CharPredicate SPACE_TAB_NBSP_LINE_SEP;
-    public static final CharPredicate SPACE_TAB_NUL;
+    public static final CharPredicate FALSE = null;
+    public static final CharPredicate HASH = null;
+    public static final CharPredicate HEXADECIMAL_DIGITS = null;
+    public static final CharPredicate LINE_SEP = null;
+    public static final CharPredicate NONE = null;
+    public static final CharPredicate OCTAL_DIGITS = null;
+    public static final CharPredicate SLASH = null;
+    public static final CharPredicate SPACE = null;
+    public static final CharPredicate SPACE_ANY_EOL = null;
+    public static final CharPredicate SPACE_EOL = null;
+    public static final CharPredicate SPACE_TAB = null;
+    public static final CharPredicate SPACE_TAB_EOL = null;
+    public static final CharPredicate SPACE_TAB_LINE_SEP = null;
+    public static final CharPredicate SPACE_TAB_NBSP = null;
+    public static final CharPredicate SPACE_TAB_NBSP_EOL = null;
+    public static final CharPredicate SPACE_TAB_NBSP_LINE_SEP = null;
+    public static final CharPredicate SPACE_TAB_NUL = null;
 
     @Deprecated
-    public static final CharPredicate SPACE_TAB_OR_NUL;
-    public static final CharPredicate TAB;
+    public static final CharPredicate SPACE_TAB_OR_NUL = null;
+    public static final CharPredicate TAB = null;
 
     @Deprecated
-    public static final CharPredicate TRUE;
-    public static final CharPredicate WHITESPACE;
-    public static final CharPredicate WHITESPACE_NBSP;
-    public static final CharPredicate WHITESPACE_NBSP_OR_NUL;
-    public static final CharPredicate WHITESPACE_OR_NUL;
+    public static final CharPredicate TRUE = null;
+    public static final CharPredicate WHITESPACE = null;
+    public static final CharPredicate WHITESPACE_NBSP = null;
+    public static final CharPredicate WHITESPACE_NBSP_OR_NUL = null;
+    public static final CharPredicate WHITESPACE_OR_NUL = null;
 
     /* renamed from: com.vladsch.flexmark.util.misc.CharPredicate$1 */
     /* loaded from: classes.dex */

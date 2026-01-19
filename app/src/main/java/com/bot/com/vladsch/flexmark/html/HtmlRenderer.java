@@ -57,10 +57,10 @@ public class HtmlRenderer implements IRender {
     public static final DataKey<String> AUTOLINK_WWW_PREFIX;
 
     @Deprecated
-    public static final int COLLAPSE_WHITESPACE;
+    public static final int COLLAPSE_WHITESPACE = null;
 
     @Deprecated
-    public static final int CONVERT_TABS;
+    public static final int CONVERT_TABS = null;
     public static final DataKey<Boolean> DO_NOT_RENDER_LINKS;
     public static final DataKey<Boolean> EMBEDDED_ATTRIBUTE_PROVIDER;
     public static final DataKey<Boolean> ESCAPE_HTML;
@@ -74,20 +74,20 @@ public class HtmlRenderer implements IRender {
     public static final DataKey<String> FENCED_CODE_NO_LANGUAGE_CLASS;
 
     @Deprecated
-    public static final int FORMAT_ALL;
+    public static final int FORMAT_ALL = null;
 
     @Deprecated
-    public static final int FORMAT_ALL_OPTIONS;
+    public static final int FORMAT_ALL_OPTIONS = null;
 
     @Deprecated
-    public static final int FORMAT_COLLAPSE_WHITESPACE;
+    public static final int FORMAT_COLLAPSE_WHITESPACE = null;
 
     @Deprecated
-    public static final int FORMAT_CONVERT_TABS;
+    public static final int FORMAT_CONVERT_TABS = null;
     public static final DataKey<Integer> FORMAT_FLAGS;
 
     @Deprecated
-    public static final int FORMAT_SUPPRESS_TRAILING_WHITESPACE;
+    public static final int FORMAT_SUPPRESS_TRAILING_WHITESPACE = null;
     public static final DataKey<Boolean> GENERATE_HEADER_ID;
     public static final DataKey<Boolean> HEADER_ID_ADD_EMOJI_SHORTCUT;
     public static final DataKey<Boolean> HEADER_ID_GENERATOR_NON_ASCII_TO_LOWERCASE;
@@ -106,7 +106,7 @@ public class HtmlRenderer implements IRender {
     public static final DataKey<Boolean> OBFUSCATE_EMAIL_RANDOM;
 
     @Deprecated
-    public static final int PASS_THROUGH;
+    public static final int PASS_THROUGH = null;
     public static final DataKey<Boolean> RECHECK_UNDEFINED_REFERENCES;
     public static final DataKey<List<Pair<String, String>>> RENDERER_TYPE_EQUIVALENCE;
     public static final DataKey<Boolean> RENDER_HEADER_ID;
@@ -122,7 +122,7 @@ public class HtmlRenderer implements IRender {
     public static final DataKey<Boolean> SUPPRESS_INLINE_HTML_COMMENTS;
 
     @Deprecated
-    public static final int SUPPRESS_TRAILING_WHITESPACE;
+    public static final int SUPPRESS_TRAILING_WHITESPACE = null;
     public static final DataKey<ArrayList<TagRange>> TAG_RANGES;
     public static final DataKey<List<TrackedOffset>> TRACKED_OFFSETS;
     public static final DataKey<String> TYPE;

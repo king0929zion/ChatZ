@@ -16,42 +16,42 @@ public interface LineAppendable extends Appendable, Iterable<LineInfo> {
     public static final int ALLOW_LEADING_WHITESPACE = 0;
 
     @Deprecated
-    public static final int COLLAPSE_WHITESPACE;
+    public static final int COLLAPSE_WHITESPACE = null;
 
     @Deprecated
-    public static final int CONVERT_TABS;
+    public static final int CONVERT_TABS = null;
 
     @Deprecated
-    public static final int FORMAT_ALL;
-    public static final int F_COLLAPSE_WHITESPACE;
-    public static final int F_CONVERT_TABS;
-    public static final int F_FORMAT_ALL;
-    public static final int F_PASS_THROUGH;
-    public static final int F_PREFIX_PRE_FORMATTED;
-    public static final int F_TRIM_LEADING_EOL;
-    public static final int F_TRIM_LEADING_WHITESPACE;
-    public static final int F_TRIM_TRAILING_WHITESPACE;
-    public static final int F_WHITESPACE_REMOVAL;
-    public static final Options O_COLLAPSE_WHITESPACE;
-    public static final Options O_CONVERT_TABS;
+    public static final int FORMAT_ALL = null;
+    public static final int F_COLLAPSE_WHITESPACE = null;
+    public static final int F_CONVERT_TABS = null;
+    public static final int F_FORMAT_ALL = null;
+    public static final int F_PASS_THROUGH = null;
+    public static final int F_PREFIX_PRE_FORMATTED = null;
+    public static final int F_TRIM_LEADING_EOL = null;
+    public static final int F_TRIM_LEADING_WHITESPACE = null;
+    public static final int F_TRIM_TRAILING_WHITESPACE = null;
+    public static final int F_WHITESPACE_REMOVAL = null;
+    public static final Options O_COLLAPSE_WHITESPACE = null;
+    public static final Options O_CONVERT_TABS = null;
     public static final BitFieldSet<Options> O_FORMAT_ALL;
-    public static final Options O_PASS_THROUGH;
-    public static final Options O_PREFIX_PRE_FORMATTED;
-    public static final Options O_TRIM_LEADING_EOL;
-    public static final Options O_TRIM_LEADING_WHITESPACE;
-    public static final Options O_TRIM_TRAILING_WHITESPACE;
+    public static final Options O_PASS_THROUGH = null;
+    public static final Options O_PREFIX_PRE_FORMATTED = null;
+    public static final Options O_TRIM_LEADING_EOL = null;
+    public static final Options O_TRIM_LEADING_WHITESPACE = null;
+    public static final Options O_TRIM_TRAILING_WHITESPACE = null;
 
     @Deprecated
-    public static final int PASS_THROUGH;
+    public static final int PASS_THROUGH = null;
 
     @Deprecated
-    public static final int PREFIX_PRE_FORMATTED;
+    public static final int PREFIX_PRE_FORMATTED = null;
 
     @Deprecated
-    public static final int TRIM_LEADING_WHITESPACE;
+    public static final int TRIM_LEADING_WHITESPACE = null;
 
     @Deprecated
-    public static final int TRIM_TRAILING_WHITESPACE;
+    public static final int TRIM_TRAILING_WHITESPACE = null;
 
     /* loaded from: classes.dex */
     public enum Options {

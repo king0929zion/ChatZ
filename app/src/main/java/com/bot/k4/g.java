@@ -138,7 +138,7 @@ public final class g implements SerialDescriptor, InterfaceC0264k {
                 int f6 = serialDescriptor.f();
                 int i7 = this.f2960c;
                 if (i7 == f6) {
-                    for (0; i6 < i7; i6 + 1) {
+                    for (i6 = 0; i6 < i7; i6++) {
                         SerialDescriptor[] serialDescriptorArr = this.f2963f;
                         i6 = (AbstractC1276k.b(serialDescriptorArr[i6].a(), serialDescriptor.j(i6).a()) && AbstractC1276k.b(serialDescriptorArr[i6].e(), serialDescriptor.j(i6).e())) ? i6 + 1 : 0;
                     }

@@ -7,11 +7,11 @@ import java.util.Iterator;
 
 /* loaded from: classes.dex */
 public interface ISegmentBuilder<S extends ISegmentBuilder<S>> extends Iterable<Object> {
-    public static final int F_DEFAULT;
-    public static final int F_INCLUDE_ANCHORS;
-    public static final int F_TRACK_FIRST256;
-    public static final Options O_INCLUDE_ANCHORS;
-    public static final Options O_TRACK_FIRST256;
+    public static final int F_DEFAULT = null;
+    public static final int F_INCLUDE_ANCHORS = null;
+    public static final int F_TRACK_FIRST256 = null;
+    public static final Options O_INCLUDE_ANCHORS = null;
+    public static final Options O_TRACK_FIRST256 = null;
 
     /* loaded from: classes.dex */
     public enum Options {

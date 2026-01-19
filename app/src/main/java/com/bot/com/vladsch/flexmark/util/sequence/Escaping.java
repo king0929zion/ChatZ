@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 /* loaded from: classes.dex */
 public class Escaping {
-    public static final CharPredicate AMP_BACKSLASH_SET;
+    public static final CharPredicate AMP_BACKSLASH_SET = null;
     private static final Pattern AMP_ONLY;
     private static final Pattern BACKSLASH_ONLY;
     private static final Pattern BACKSLASH_OR_AMP;
@@ -22,7 +22,7 @@ public class Escaping {
     private static final Pattern ENTITY_ONLY;
     private static final Pattern ENTITY_OR_ESCAPED_CHAR;
     private static final Replacer ENTITY_REPLACER;
-    public static final String ESCAPABLE;
+    public static final String ESCAPABLE = null;
     public static final String ESCAPABLE_CHARS = "\"#$%&'()*+,./:;<=>?@[]\\^_`{|}~-";
     private static final Pattern ESCAPED_CHAR;
     private static final Pattern ESCAPE_IN_URI;

@@ -9,17 +9,17 @@ import com.vladsch.flexmark.util.sequence.builder.SegmentedSequenceStats;
 /* loaded from: classes.dex */
 public interface BasedOptionsHolder {
     public static final int F_APPLICATION_OPTIONS = -65536;
-    public static final int F_COLLECT_FIRST256_STATS;
-    public static final int F_COLLECT_SEGMENTED_STATS;
-    public static final int F_FULL_SEGMENTED_SEQUENCES;
+    public static final int F_COLLECT_FIRST256_STATS = null;
+    public static final int F_COLLECT_SEGMENTED_STATS = null;
+    public static final int F_FULL_SEGMENTED_SEQUENCES = null;
     public static final int F_LIBRARY_OPTIONS = 65535;
-    public static final int F_NO_ANCHORS;
-    public static final int F_TREE_SEGMENTED_SEQUENCES;
-    public static final Options O_COLLECT_FIRST256_STATS;
-    public static final Options O_COLLECT_SEGMENTED_STATS;
-    public static final Options O_FULL_SEGMENTED_SEQUENCES;
-    public static final Options O_NO_ANCHORS;
-    public static final Options O_TREE_SEGMENTED_SEQUENCES;
+    public static final int F_NO_ANCHORS = null;
+    public static final int F_TREE_SEGMENTED_SEQUENCES = null;
+    public static final Options O_COLLECT_FIRST256_STATS = null;
+    public static final Options O_COLLECT_SEGMENTED_STATS = null;
+    public static final Options O_FULL_SEGMENTED_SEQUENCES = null;
+    public static final Options O_NO_ANCHORS = null;
+    public static final Options O_TREE_SEGMENTED_SEQUENCES = null;
     public static final NullableDataKey<SegmentedSequenceStats> SEGMENTED_STATS;
 
     /* loaded from: classes.dex */

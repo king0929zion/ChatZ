@@ -221,7 +221,7 @@ public class C0256c0 implements SerialDescriptor, InterfaceC0264k {
                 int f6 = serialDescriptor.f();
                 int i7 = this.f3452c;
                 if (i7 == f6) {
-                    for (0; i6 < i7; i6 + 1) {
+                    for (i6 = 0; i6 < i7; i6++) {
                         i6 = (AbstractC1276k.b(j(i6).a(), serialDescriptor.j(i6).a()) && AbstractC1276k.b(j(i6).e(), serialDescriptor.j(i6).e())) ? i6 + 1 : 0;
                     }
                     return true;

@@ -31,7 +31,7 @@ public final class F extends C0256c0 {
                     int f7 = serialDescriptor.f();
                     int i7 = this.f3452c;
                     if (i7 == f7) {
-                        for (0; i6 < i7; i6 + 1) {
+                        for (i6 = 0; i6 < i7; i6++) {
                             i6 = (AbstractC1276k.b(j(i6).a(), serialDescriptor.j(i6).a()) && AbstractC1276k.b(j(i6).e(), serialDescriptor.j(i6).e())) ? i6 + 1 : 0;
                         }
                         return true;

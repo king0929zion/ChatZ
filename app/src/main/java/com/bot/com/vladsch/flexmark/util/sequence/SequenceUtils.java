@@ -22,13 +22,13 @@ public interface SequenceUtils {
     public static final String ANY_EOL = "\r\n";
 
     @Deprecated
-    public static final CharPredicate ANY_EOL_SET;
+    public static final CharPredicate ANY_EOL_SET = null;
 
     @Deprecated
-    public static final CharPredicate BACKSLASH_SET;
+    public static final CharPredicate BACKSLASH_SET = null;
 
     @Deprecated
-    public static final CharPredicate DECIMAL_DIGITS;
+    public static final CharPredicate DECIMAL_DIGITS = null;
     public static final int[] EMPTY_INDICES;
     public static final char ENC_NUL = 65533;
     public static final String EOL = "\n";
@@ -37,10 +37,10 @@ public interface SequenceUtils {
     public static final String EOL_CHARS = "\r\n";
 
     @Deprecated
-    public static final CharPredicate HASH_SET;
+    public static final CharPredicate HASH_SET = null;
 
     @Deprecated
-    public static final CharPredicate HEXADECIMAL_DIGITS;
+    public static final CharPredicate HEXADECIMAL_DIGITS = null;
     public static final char LS = 8232;
 
     @Deprecated
@@ -48,12 +48,12 @@ public interface SequenceUtils {
     public static final char NUL = 0;
 
     @Deprecated
-    public static final CharPredicate OCTAL_DIGITS;
+    public static final CharPredicate OCTAL_DIGITS = null;
     public static final String SPACE = " ";
     public static final String SPACE_EOL = " \n";
 
     @Deprecated
-    public static final CharPredicate SPACE_EOL_SET;
+    public static final CharPredicate SPACE_EOL_SET = null;
     public static final String SPACE_TAB = " \t";
     public static final char SPC = ' ';
     public static final int SPLIT_INCLUDE_DELIMS = 1;
@@ -64,7 +64,7 @@ public interface SequenceUtils {
     public static final char US = 31;
 
     @Deprecated
-    public static final CharPredicate US_SET;
+    public static final CharPredicate US_SET = null;
     public static final String WHITESPACE = " \t\r\n";
 
     @Deprecated
@@ -75,13 +75,13 @@ public interface SequenceUtils {
     public static final String WHITESPACE_NBSP_CHARS = " \t\r\n ";
 
     @Deprecated
-    public static final CharPredicate WHITESPACE_NBSP_SET;
+    public static final CharPredicate WHITESPACE_NBSP_SET = null;
 
     @Deprecated
     public static final String WHITESPACE_NO_EOL_CHARS = " \t";
 
     @Deprecated
-    public static final CharPredicate WHITESPACE_SET;
+    public static final CharPredicate WHITESPACE_SET = null;
     public static final Map<Character, String> visibleSpacesMap;
     public static final char EOL_CHAR = "\r\n".charAt(1);
     public static final char EOL_CHAR1 = "\r\n".charAt(0);
