@@ -107,9 +107,7 @@ public abstract class SequenceUtils {
     public static final CharPredicate SPACE_TAB_NBSP_SET = CharPredicate.SPACE_TAB_NBSP;
 
     @Deprecated
-    public static final CharPredicate SPACE_TAB_EOL_SET = CharPredicate.SPACE_TAB_EOL;
-
-    {
+    public static final CharPredicate SPACE_TAB_EOL_SET = CharPredicate.SPACE_TAB_EOL; {
         CharPredicate charPredicate = CharPredicate.WHITESPACE;
         SPACE_EOL_SET = charPredicate;
         ANY_EOL_SET = CharPredicate.ANY_EOL;

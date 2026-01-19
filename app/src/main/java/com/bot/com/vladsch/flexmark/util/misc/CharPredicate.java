@@ -50,9 +50,7 @@ public abstract class CharPredicate implements IntPredicate {
     /* loaded from: classes.dex */
     public static /* synthetic */ class AnonymousClass1 {
         static final /* synthetic */ boolean $assertionsDisabled = false;
-    }
-
-    {
+    } {
         k kVar = new k(21);
         NONE = kVar;
         k kVar2 = new k(4);

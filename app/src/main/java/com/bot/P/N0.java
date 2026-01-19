@@ -28,9 +28,7 @@ public final class N0 extends AbstractC1040q implements InterfaceC0170z, H0.A0 {
         P0.j jVar = new P0.j(new InterfaceC1193a(this) { // from class: p.M0
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ N0 f13604e;
-
-            {
+            public final /* synthetic */ N0 f13604e; {
                 this.f13604e = this;
             }
 
@@ -50,9 +48,7 @@ public final class N0 extends AbstractC1040q implements InterfaceC0170z, H0.A0 {
         }, new InterfaceC1193a(this) { // from class: p.M0
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ N0 f13604e;
-
-            {
+            public final /* synthetic */ N0 f13604e; {
                 this.f13604e = this;
             }
 

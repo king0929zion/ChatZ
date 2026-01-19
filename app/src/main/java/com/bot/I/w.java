@@ -67,9 +67,7 @@ public final class w {
                         public final /* synthetic */ w f2122e;
 
                         /* renamed from: f, reason: collision with root package name */
-                        public final /* synthetic */ Icon f2123f;
-
-                        {
+                        public final /* synthetic */ Icon f2123f; {
                             this.f2121c = i8;
                             this.f2122e = this;
                         }
@@ -110,9 +108,7 @@ public final class w {
                 public final /* synthetic */ w f2122e;
 
                 /* renamed from: f, reason: collision with root package name */
-                public final /* synthetic */ Icon f2123f;
-
-                {
+                public final /* synthetic */ Icon f2123f; {
                     this.f2121c = i9;
                     this.f2122e = this;
                 }

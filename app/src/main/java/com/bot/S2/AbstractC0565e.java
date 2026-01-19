@@ -2014,9 +2014,7 @@ public abstract class AbstractC0565e {
                         public final /* synthetic */ S0.P f7806h;
 
                         /* renamed from: i, reason: collision with root package name */
-                        public final /* synthetic */ boolean f7807i;
-
-                        {
+                        public final /* synthetic */ boolean f7807i; {
                             this.f7802c = i8;
                         }
 
@@ -2817,9 +2815,7 @@ public abstract class AbstractC0565e {
                 public final /* synthetic */ S0.P f7806h;
 
                 /* renamed from: i, reason: collision with root package name */
-                public final /* synthetic */ boolean f7807i;
-
-                {
+                public final /* synthetic */ boolean f7807i; {
                     this.f7802c = i9;
                 }
 

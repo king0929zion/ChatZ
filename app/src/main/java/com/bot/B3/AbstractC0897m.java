@@ -107,9 +107,7 @@ public abstract class AbstractC0897m {
                         public final /* synthetic */ l4.c f11028g;
 
                         /* renamed from: h, reason: collision with root package name */
-                        public final /* synthetic */ InterfaceC1193a f11029h;
-
-                        {
+                        public final /* synthetic */ InterfaceC1193a f11029h; {
                             this.f11025c = i10;
                         }
 
@@ -244,9 +242,7 @@ public abstract class AbstractC0897m {
                 public final /* synthetic */ l4.c f11028g;
 
                 /* renamed from: h, reason: collision with root package name */
-                public final /* synthetic */ InterfaceC1193a f11029h;
-
-                {
+                public final /* synthetic */ InterfaceC1193a f11029h; {
                     this.f11025c = i13;
                 }
 

@@ -29,9 +29,7 @@ public abstract class BasedOptionsHolder {
         NO_ANCHORS,
         FULL_SEGMENTED_SEQUENCES,
         TREE_SEGMENTED_SEQUENCES
-    }
-
-    {
+    } {
         Options options = Options.COLLECT_SEGMENTED_STATS;
         O_COLLECT_SEGMENTED_STATS = options;
         Options options2 = Options.COLLECT_FIRST256_STATS;

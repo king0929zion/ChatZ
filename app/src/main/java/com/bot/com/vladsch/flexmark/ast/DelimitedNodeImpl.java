@@ -5,7 +5,7 @@ import com.vladsch.flexmark.util.ast.Node;
 import com.vladsch.flexmark.util.sequence.BasedSequence;
 
 /* loaded from: classes.dex */
-public abstract class DelimitedNodeImpl implements Node, DelimitedNode  {
+public abstract class DelimitedNodeImpl implements Node, DelimitedNode {
     protected BasedSequence closingMarker;
     protected BasedSequence openingMarker;
     protected BasedSequence text;

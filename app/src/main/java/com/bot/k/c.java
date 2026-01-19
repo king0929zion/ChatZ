@@ -58,9 +58,7 @@ public final class c implements f {
                         public final /* synthetic */ c f2910e;
 
                         /* renamed from: f, reason: collision with root package name */
-                        public final /* synthetic */ InterfaceC1193a f2911f;
-
-                        {
+                        public final /* synthetic */ InterfaceC1193a f2911f; {
                             this.f2909c = i8;
                             this.f2910e = this;
                         }
@@ -105,9 +103,7 @@ public final class c implements f {
                 public final /* synthetic */ c f2910e;
 
                 /* renamed from: f, reason: collision with root package name */
-                public final /* synthetic */ InterfaceC1193a f2911f;
-
-                {
+                public final /* synthetic */ InterfaceC1193a f2911f; {
                     this.f2909c = i9;
                     this.f2910e = this;
                 }

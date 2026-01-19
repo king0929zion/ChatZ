@@ -17,9 +17,7 @@ public abstract class ISegmentBuilder<S extends ISegmentBuilder<S>> extends Iter
     public enum Options {
         INCLUDE_ANCHORS,
         TRACK_FIRST256
-    }
-
-    {
+    } {
         Options options = Options.INCLUDE_ANCHORS;
         O_INCLUDE_ANCHORS = options;
         Options options2 = Options.TRACK_FIRST256;

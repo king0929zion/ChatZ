@@ -65,9 +65,7 @@ public class C0256c0 implements SerialDescriptor, InterfaceC0264k {
         InterfaceC1193a interfaceC1193a = new InterfaceC1193a(this) { // from class: M4.b0
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C0256c0 f3448e;
-
-            {
+            public final /* synthetic */ C0256c0 f3448e; {
                 this.f3448e = this;
             }
 
@@ -104,9 +102,7 @@ public class C0256c0 implements SerialDescriptor, InterfaceC0264k {
         this.f3459j = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: M4.b0
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C0256c0 f3448e;
-
-            {
+            public final /* synthetic */ C0256c0 f3448e; {
                 this.f3448e = this;
             }
 
@@ -141,9 +137,7 @@ public class C0256c0 implements SerialDescriptor, InterfaceC0264k {
         this.f3460k = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: M4.b0
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C0256c0 f3448e;
-
-            {
+            public final /* synthetic */ C0256c0 f3448e; {
                 this.f3448e = this;
             }
 

@@ -42,9 +42,7 @@ public class StrikethroughYouTrackRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(Strikethrough.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: f3.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ StrikethroughYouTrackRenderer f11761b;
-
-            {
+            public final /* synthetic */ StrikethroughYouTrackRenderer f11761b; {
                 this.f11761b = this;
             }
 
@@ -64,9 +62,7 @@ public class StrikethroughYouTrackRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(Subscript.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: f3.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ StrikethroughYouTrackRenderer f11761b;
-
-            {
+            public final /* synthetic */ StrikethroughYouTrackRenderer f11761b; {
                 this.f11761b = this;
             }
 

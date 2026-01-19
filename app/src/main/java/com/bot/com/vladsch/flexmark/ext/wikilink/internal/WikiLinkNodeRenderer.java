@@ -55,9 +55,7 @@ public class WikiLinkNodeRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(WikiLink.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.wikilink.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ WikiLinkNodeRenderer f11291b;
-
-            {
+            public final /* synthetic */ WikiLinkNodeRenderer f11291b; {
                 this.f11291b = this;
             }
 
@@ -77,9 +75,7 @@ public class WikiLinkNodeRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(WikiImage.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.wikilink.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ WikiLinkNodeRenderer f11291b;
-
-            {
+            public final /* synthetic */ WikiLinkNodeRenderer f11291b; {
                 this.f11291b = this;
             }
 

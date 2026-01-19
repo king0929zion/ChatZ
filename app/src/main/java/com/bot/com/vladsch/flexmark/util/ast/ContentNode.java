@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /* loaded from: classes.dex */
-public abstract class ContentNode implements Node, Content  {
+public abstract class ContentNode implements Node, Content {
     protected List<BasedSequence> lineSegments;
 
     public ContentNode() {

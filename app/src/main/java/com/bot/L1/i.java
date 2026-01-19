@@ -858,9 +858,7 @@ public final class i {
                 t4.e eVar = new t4.e(new t4.o(t4.j.q(vVar, new I2.x(10)), new l4.c(this) { // from class: L1.h
 
                     /* renamed from: e, reason: collision with root package name */
-                    public final /* synthetic */ i f3014e;
-
-                    {
+                    public final /* synthetic */ i f3014e; {
                         this.f3014e = this;
                     }
 
@@ -893,9 +891,7 @@ public final class i {
                 t4.e eVar2 = new t4.e(new t4.o(t4.j.q(c(dVar.a, null), new I2.x(11)), new l4.c(this) { // from class: L1.h
 
                     /* renamed from: e, reason: collision with root package name */
-                    public final /* synthetic */ i f3014e;
-
-                    {
+                    public final /* synthetic */ i f3014e; {
                         this.f3014e = this;
                     }
 

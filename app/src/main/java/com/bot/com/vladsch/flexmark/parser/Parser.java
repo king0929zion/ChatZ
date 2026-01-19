@@ -322,8 +322,7 @@ public class Parser implements IParse {
         boolean transferReferences(MutableDataHolder mutableDataHolder, DataHolder dataHolder);
     }
 
-    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Object, com.vladsch.flexmark.util.data.DataNotNullValueFactory] */
-    {
+    /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Object, com.vladsch.flexmark.util.data.DataNotNullValueFactory] */ {
         Boolean bool = Boolean.TRUE;
         ASTERISK_DELIMITER_PROCESSOR = new DataKey<>("ASTERISK_DELIMITER_PROCESSOR", bool);
         Boolean bool2 = Boolean.FALSE;

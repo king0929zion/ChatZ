@@ -63,9 +63,7 @@ public class StrikethroughNodeRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(Strikethrough.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: f3.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ StrikethroughNodeRenderer f11760b;
-
-            {
+            public final /* synthetic */ StrikethroughNodeRenderer f11760b; {
                 this.f11760b = this;
             }
 
@@ -85,9 +83,7 @@ public class StrikethroughNodeRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(Subscript.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: f3.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ StrikethroughNodeRenderer f11760b;
-
-            {
+            public final /* synthetic */ StrikethroughNodeRenderer f11760b; {
                 this.f11760b = this;
             }
 

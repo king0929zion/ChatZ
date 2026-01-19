@@ -49,9 +49,7 @@ public class MMKV implements SharedPreferences, SharedPreferences.Editor {
     /* renamed from: com.tencent.mmkv.MMKV$1, reason: invalid class name */
     /* loaded from: classes.dex */
     public static /* synthetic */ class AnonymousClass1 {
-        static final /* synthetic */ int[] $SwitchMap$com$tencent$mmkv$MMKVLogLevel;
-
-        {
+        static final /* synthetic */ int[] $SwitchMap$com$tencent$mmkv$MMKVLogLevel; {
             int[] iArr = new int[MMKVLogLevel.values().length];
             $SwitchMap$com$tencent$mmkv$MMKVLogLevel = iArr;
             try {
@@ -80,9 +78,7 @@ public class MMKV implements SharedPreferences, SharedPreferences.Editor {
     /* loaded from: classes.dex */
     public abstract class LibLoader {
         void loadLibrary(String str);
-    }
-
-    {
+    } {
         EnumMap<MMKVRecoverStrategic, Integer> enumMap = new EnumMap<>((Class<MMKVRecoverStrategic>) MMKVRecoverStrategic.class);
         recoverIndex = enumMap;
         enumMap.put((EnumMap<MMKVRecoverStrategic, Integer>) MMKVRecoverStrategic.OnErrorDiscard, (MMKVRecoverStrategic) 0);

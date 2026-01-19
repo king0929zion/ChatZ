@@ -281,8 +281,7 @@ public class HtmlRenderer implements IRender {
     }
 
     /* JADX WARN: Type inference failed for: r2v11, types: [java.lang.Object, com.vladsch.flexmark.util.data.NotNullValueSupplier] */
-    /* JADX WARN: Type inference failed for: r2v17, types: [java.lang.Object, com.vladsch.flexmark.util.data.NotNullValueSupplier] */
-    {
+    /* JADX WARN: Type inference failed for: r2v17, types: [java.lang.Object, com.vladsch.flexmark.util.data.NotNullValueSupplier] */ {
         Boolean bool = Boolean.FALSE;
         DataKey<Boolean> dataKey = new DataKey<>("ESCAPE_HTML", bool);
         ESCAPE_HTML = dataKey;

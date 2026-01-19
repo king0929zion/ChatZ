@@ -300,9 +300,7 @@ public final class b implements t {
         X3.n d6 = X3.a.d(new InterfaceC1193a(this) { // from class: i2.d
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E1.b f12057e;
-
-            {
+            public final /* synthetic */ E1.b f12057e; {
                 this.f12057e = this;
             }
 
@@ -383,9 +381,7 @@ public final class b implements t {
         X3.n d7 = X3.a.d(new InterfaceC1193a(this) { // from class: i2.d
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E1.b f12057e;
-
-            {
+            public final /* synthetic */ E1.b f12057e; {
                 this.f12057e = this;
             }
 
@@ -692,9 +688,7 @@ public final class b implements t {
         InterfaceC1193a interfaceC1193a = new InterfaceC1193a(this) { // from class: S0.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E1.b f7656e;
-
-            {
+            public final /* synthetic */ E1.b f7656e; {
                 this.f7656e = this;
             }
 
@@ -764,9 +758,7 @@ public final class b implements t {
         this.f1294d = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: S0.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E1.b f7656e;
-
-            {
+            public final /* synthetic */ E1.b f7656e; {
                 this.f7656e = this;
             }
 

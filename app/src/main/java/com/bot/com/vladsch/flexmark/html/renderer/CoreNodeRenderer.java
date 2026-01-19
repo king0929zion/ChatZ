@@ -340,9 +340,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         return new HashSet(Arrays.asList(new NodeRenderingHandler(AutoLink.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -444,9 +442,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(BlockQuote.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -548,9 +544,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(BulletList.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -652,9 +646,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Code.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -756,9 +748,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(CodeBlock.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -860,9 +850,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Document.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -964,9 +952,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Emphasis.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1068,9 +1054,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(FencedCodeBlock.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1172,9 +1156,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HardLineBreak.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1276,9 +1258,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Heading.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1380,9 +1360,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HtmlBlock.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11325b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11325b; {
                 this.f11325b = this;
             }
 
@@ -1403,9 +1381,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HtmlCommentBlock.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11325b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11325b; {
                 this.f11325b = this;
             }
 
@@ -1426,9 +1402,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HtmlInnerBlock.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11325b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11325b; {
                 this.f11325b = this;
             }
 
@@ -1449,9 +1423,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HtmlInnerBlockComment.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1553,9 +1525,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HtmlEntity.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1657,9 +1627,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HtmlInline.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1761,9 +1729,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(HtmlInlineComment.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1865,9 +1831,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Image.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -1969,9 +1933,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(ImageRef.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2073,9 +2035,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(IndentedCodeBlock.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2177,9 +2137,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Link.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2281,9 +2239,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(LinkRef.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2385,9 +2341,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(BulletListItem.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2489,9 +2443,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(OrderedListItem.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2593,9 +2545,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(MailLink.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2697,9 +2647,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(OrderedList.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2801,9 +2749,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Paragraph.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -2905,9 +2851,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Reference.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -3009,9 +2953,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(SoftLineBreak.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -3113,9 +3055,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(StrongEmphasis.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -3217,9 +3157,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(Text.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -3321,9 +3259,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(TextBase.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 
@@ -3425,9 +3361,7 @@ public class CoreNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(ThematicBreak.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.html.renderer.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeRenderer f11320b;
-
-            {
+            public final /* synthetic */ CoreNodeRenderer f11320b; {
                 this.f11320b = this;
             }
 

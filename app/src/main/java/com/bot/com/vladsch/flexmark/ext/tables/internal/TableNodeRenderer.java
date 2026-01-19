@@ -90,9 +90,7 @@ public class TableNodeRenderer implements NodeRenderer {
         return new HashSet(Arrays.asList(new NodeRenderingHandler(TableBlock.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.tables.internal.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeRenderer f11289b;
-
-            {
+            public final /* synthetic */ TableNodeRenderer f11289b; {
                 this.f11289b = this;
             }
 
@@ -125,9 +123,7 @@ public class TableNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(TableHead.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.tables.internal.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeRenderer f11289b;
-
-            {
+            public final /* synthetic */ TableNodeRenderer f11289b; {
                 this.f11289b = this;
             }
 
@@ -160,9 +156,7 @@ public class TableNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(TableSeparator.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.tables.internal.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeRenderer f11289b;
-
-            {
+            public final /* synthetic */ TableNodeRenderer f11289b; {
                 this.f11289b = this;
             }
 
@@ -195,9 +189,7 @@ public class TableNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(TableBody.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.tables.internal.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeRenderer f11289b;
-
-            {
+            public final /* synthetic */ TableNodeRenderer f11289b; {
                 this.f11289b = this;
             }
 
@@ -230,9 +222,7 @@ public class TableNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(TableRow.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.tables.internal.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeRenderer f11289b;
-
-            {
+            public final /* synthetic */ TableNodeRenderer f11289b; {
                 this.f11289b = this;
             }
 
@@ -265,9 +255,7 @@ public class TableNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(TableCell.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.tables.internal.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeRenderer f11289b;
-
-            {
+            public final /* synthetic */ TableNodeRenderer f11289b; {
                 this.f11289b = this;
             }
 
@@ -300,9 +288,7 @@ public class TableNodeRenderer implements NodeRenderer {
         }), new NodeRenderingHandler(TableCaption.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: com.vladsch.flexmark.ext.tables.internal.c
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeRenderer f11289b;
-
-            {
+            public final /* synthetic */ TableNodeRenderer f11289b; {
                 this.f11289b = this;
             }
 

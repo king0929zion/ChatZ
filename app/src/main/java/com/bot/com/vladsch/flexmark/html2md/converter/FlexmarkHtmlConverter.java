@@ -1280,8 +1280,7 @@ public class FlexmarkHtmlConverter {
         }
     }
 
-    /* JADX WARN: Type inference failed for: r0v72, types: [java.lang.Iterable<org.jsoup.nodes.Node>, java.lang.Object] */
-    {
+    /* JADX WARN: Type inference failed for: r0v72, types: [java.lang.Iterable<org.jsoup.nodes.Node>, java.lang.Object] */ {
         Boolean bool = Boolean.TRUE;
         LIST_CONTENT_INDENT = new DataKey<>("LIST_CONTENT_INDENT", bool);
         SETEXT_HEADINGS = new DataKey<>("SETEXT_HEADINGS", bool);

@@ -293,9 +293,7 @@ public class Parsing {
             this.LINK_DESTINATION_MATCHED_PARENS_NOSP = getCachedPattern("LINK_DESTINATION_MATCHED_PARENS_NOSP", patternTypeFlags.withJekyllMacroInLinkUrl(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 
@@ -341,9 +339,7 @@ public class Parsing {
             this.LINK_DESTINATION = getCachedPattern("LINK_DESTINATION", patternTypeFlags.withJekyllMacroSpaceInLinkUrl(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 
@@ -389,9 +385,7 @@ public class Parsing {
             this.LINK_DESTINATION_MATCHED_PARENS = getCachedPattern("LINK_DESTINATION_MATCHED_PARENS", patternTypeFlags.withJekyllMacroSpaceInLinkUrl(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 
@@ -437,9 +431,7 @@ public class Parsing {
             this.EMAIL_AUTOLINK = getCachedPattern("EMAIL_AUTOLINK", patternTypeFlags.withHtmlTranslator(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 
@@ -485,9 +477,7 @@ public class Parsing {
             this.AUTOLINK = getCachedPattern("AUTOLINK", patternTypeFlags.withHtmlTranslator(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 
@@ -533,9 +523,7 @@ public class Parsing {
             this.WWW_AUTOLINK = getCachedPattern("WWW_AUTOLINK", patternTypeFlags.withHtmlTranslator(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 
@@ -581,9 +569,7 @@ public class Parsing {
             cachedPattern = getCachedPattern("HTML_TAG", patternTypeFlags.withHtmlTranslator(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 
@@ -630,9 +616,7 @@ public class Parsing {
             this.LIST_ITEM_MARKER = getCachedPattern("LIST_ITEM_MARKER", patternTypeFlags.withItemPrefixChars(), new Function(this) { // from class: com.vladsch.flexmark.ast.util.h
 
                 /* renamed from: b, reason: collision with root package name */
-                public final /* synthetic */ Parsing f11280b;
-
-                {
+                public final /* synthetic */ Parsing f11280b; {
                     this.f11280b = this;
                 }
 

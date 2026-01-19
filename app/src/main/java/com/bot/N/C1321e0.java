@@ -84,9 +84,7 @@ public final class C1321e0 extends N3.s {
         this.f13147o = new l4.c(this) { // from class: n.U
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C1321e0 f13045e;
-
-            {
+            public final /* synthetic */ C1321e0 f13045e; {
                 this.f13045e = this;
             }
 
@@ -154,9 +152,7 @@ public final class C1321e0 extends N3.s {
         this.f13149q = new l4.c(this) { // from class: n.U
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C1321e0 f13045e;
-
-            {
+            public final /* synthetic */ C1321e0 f13045e; {
                 this.f13045e = this;
             }
 

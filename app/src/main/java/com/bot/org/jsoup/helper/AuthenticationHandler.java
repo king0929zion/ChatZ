@@ -23,9 +23,7 @@ class AuthenticationHandler extends Authenticator {
 
     /* loaded from: classes.dex */
     public static class GlobalHandler implements AuthShim {
-        static ThreadLocal<AuthenticationHandler> authenticators = new ThreadLocal<>();
-
-        {
+        static ThreadLocal<AuthenticationHandler> authenticators = new ThreadLocal<>(); {
             Authenticator.setDefault(new AuthenticationHandler());
         }
 
@@ -43,9 +41,7 @@ class AuthenticationHandler extends Authenticator {
         public void remove() {
             authenticators.remove();
         }
-    }
-
-    {
+    } {
         try {
             handler = (AuthShim) Class.forName("org.jsoup.helper.RequestAuthHandler").getConstructor(null).newInstance(null);
         } catch (ClassNotFoundException unused) {

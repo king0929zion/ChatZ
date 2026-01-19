@@ -163,9 +163,7 @@ public class TableNodeFormatter implements NodeFormatter {
         return new HashSet(Arrays.asList(new NodeFormattingHandler(TableBlock.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 
@@ -201,9 +199,7 @@ public class TableNodeFormatter implements NodeFormatter {
         }), new NodeFormattingHandler(TableHead.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 
@@ -239,9 +235,7 @@ public class TableNodeFormatter implements NodeFormatter {
         }), new NodeFormattingHandler(TableSeparator.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 
@@ -277,9 +271,7 @@ public class TableNodeFormatter implements NodeFormatter {
         }), new NodeFormattingHandler(TableBody.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 
@@ -315,9 +307,7 @@ public class TableNodeFormatter implements NodeFormatter {
         }), new NodeFormattingHandler(TableRow.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 
@@ -353,9 +343,7 @@ public class TableNodeFormatter implements NodeFormatter {
         }), new NodeFormattingHandler(TableCell.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 
@@ -391,9 +379,7 @@ public class TableNodeFormatter implements NodeFormatter {
         }), new NodeFormattingHandler(TableCaption.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 
@@ -429,9 +415,7 @@ public class TableNodeFormatter implements NodeFormatter {
         }), new NodeFormattingHandler(Text.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.ext.tables.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableNodeFormatter f11288b;
-
-            {
+            public final /* synthetic */ TableNodeFormatter f11288b; {
                 this.f11288b = this;
             }
 

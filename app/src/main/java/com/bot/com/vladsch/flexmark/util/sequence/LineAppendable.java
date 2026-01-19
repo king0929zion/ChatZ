@@ -62,9 +62,7 @@ public abstract class LineAppendable implements Appendable, Iterable<LineInfo> {
         TRIM_LEADING_WHITESPACE,
         TRIM_LEADING_EOL,
         PREFIX_PRE_FORMATTED
-    }
-
-    {
+    } {
         Options options = Options.CONVERT_TABS;
         O_CONVERT_TABS = options;
         Options options2 = Options.COLLAPSE_WHITESPACE;

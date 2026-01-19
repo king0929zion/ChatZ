@@ -1861,9 +1861,7 @@ public abstract class V {
                 public final /* synthetic */ InterfaceC1193a f4645i;
 
                 /* renamed from: j, reason: collision with root package name */
-                public final /* synthetic */ int f4646j;
-
-                {
+                public final /* synthetic */ int f4646j; {
                     this.f4646j = i10;
                 }
 

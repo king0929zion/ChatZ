@@ -42,9 +42,7 @@ public class StrikethroughJiraRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(Strikethrough.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: f3.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ StrikethroughJiraRenderer f11759b;
-
-            {
+            public final /* synthetic */ StrikethroughJiraRenderer f11759b; {
                 this.f11759b = this;
             }
 
@@ -64,9 +62,7 @@ public class StrikethroughJiraRenderer implements NodeRenderer {
         hashSet.add(new NodeRenderingHandler(Subscript.class, new NodeRenderingHandler.CustomNodeRenderer(this) { // from class: f3.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ StrikethroughJiraRenderer f11759b;
-
-            {
+            public final /* synthetic */ StrikethroughJiraRenderer f11759b; {
                 this.f11759b = this;
             }
 

@@ -33,9 +33,7 @@ public class LineCollectingVisitor {
         this.myVisitor = new NodeVisitor(new VisitHandler(Text.class, new Visitor(this) { // from class: com.vladsch.flexmark.ast.util.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ LineCollectingVisitor f11278b;
-
-            {
+            public final /* synthetic */ LineCollectingVisitor f11278b; {
                 this.f11278b = this;
             }
 
@@ -65,9 +63,7 @@ public class LineCollectingVisitor {
         }), new VisitHandler(TextBase.class, new Visitor(this) { // from class: com.vladsch.flexmark.ast.util.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ LineCollectingVisitor f11278b;
-
-            {
+            public final /* synthetic */ LineCollectingVisitor f11278b; {
                 this.f11278b = this;
             }
 
@@ -97,9 +93,7 @@ public class LineCollectingVisitor {
         }), new VisitHandler(HtmlEntity.class, new Visitor(this) { // from class: com.vladsch.flexmark.ast.util.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ LineCollectingVisitor f11278b;
-
-            {
+            public final /* synthetic */ LineCollectingVisitor f11278b; {
                 this.f11278b = this;
             }
 
@@ -129,9 +123,7 @@ public class LineCollectingVisitor {
         }), new VisitHandler(HtmlInline.class, new Visitor(this) { // from class: com.vladsch.flexmark.ast.util.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ LineCollectingVisitor f11278b;
-
-            {
+            public final /* synthetic */ LineCollectingVisitor f11278b; {
                 this.f11278b = this;
             }
 
@@ -161,9 +153,7 @@ public class LineCollectingVisitor {
         }), new VisitHandler(SoftLineBreak.class, new Visitor(this) { // from class: com.vladsch.flexmark.ast.util.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ LineCollectingVisitor f11278b;
-
-            {
+            public final /* synthetic */ LineCollectingVisitor f11278b; {
                 this.f11278b = this;
             }
 
@@ -193,9 +183,7 @@ public class LineCollectingVisitor {
         }), new VisitHandler(HardLineBreak.class, new Visitor(this) { // from class: com.vladsch.flexmark.ast.util.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ LineCollectingVisitor f11278b;
-
-            {
+            public final /* synthetic */ LineCollectingVisitor f11278b; {
                 this.f11278b = this;
             }
 

@@ -107,9 +107,7 @@ public final class q extends AbstractC1040q implements InterfaceC0170z, Interfac
             l4.c r02 = new l4.c(this) { // from class: N.o
 
                 /* renamed from: e, reason: collision with root package name */
-                public final /* synthetic */ q f3596e;
-
-                {
+                public final /* synthetic */ q f3596e; {
                     this.f3596e = this;
                 }
 
@@ -224,9 +222,7 @@ public final class q extends AbstractC1040q implements InterfaceC0170z, Interfac
         xVar.a(P0.l.f4477l, new P0.a(null, new l4.c(this) { // from class: N.o
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ q f3596e;
-
-            {
+            public final /* synthetic */ q f3596e; {
                 this.f3596e = this;
             }
 
@@ -323,9 +319,7 @@ public final class q extends AbstractC1040q implements InterfaceC0170z, Interfac
         xVar.a(P0.l.f4478m, new P0.a(null, new l4.c(this) { // from class: N.o
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ q f3596e;
-
-            {
+            public final /* synthetic */ q f3596e; {
                 this.f3596e = this;
             }
 

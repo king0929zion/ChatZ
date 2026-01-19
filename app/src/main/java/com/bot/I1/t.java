@@ -86,9 +86,7 @@ public final class t {
         this.f2576d = X3.a.d(new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 
@@ -201,9 +199,7 @@ public final class t {
         this.f2577e = X3.a.d(new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 
@@ -316,9 +312,7 @@ public final class t {
         InterfaceC1193a interfaceC1193a = new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 
@@ -433,9 +427,7 @@ public final class t {
         this.f2580h = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 
@@ -548,9 +540,7 @@ public final class t {
         this.f2581i = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 
@@ -663,9 +653,7 @@ public final class t {
         this.f2582j = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 
@@ -778,9 +766,7 @@ public final class t {
         this.f2583k = X3.a.d(new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 
@@ -893,9 +879,7 @@ public final class t {
         X3.a.d(new InterfaceC1193a(this) { // from class: I1.q
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ t f2564e;
-
-            {
+            public final /* synthetic */ t f2564e; {
                 this.f2564e = this;
             }
 

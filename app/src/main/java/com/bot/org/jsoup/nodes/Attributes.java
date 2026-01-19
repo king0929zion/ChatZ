@@ -350,9 +350,7 @@ public class Attributes implements Iterable<Attribute>, Cloneable {
             int expectedSize;
 
             /* renamed from: i, reason: collision with root package name */
-            int f13526i = 0;
-
-            {
+            int f13526i = 0; {
                 this.expectedSize = Attributes.this.size;
             }
 

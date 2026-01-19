@@ -50,9 +50,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         this.f11142l = a.d(new InterfaceC1193a(this) { // from class: A2.d
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ AppDatabase_Impl f114e;
-
-            {
+            public final /* synthetic */ AppDatabase_Impl f114e; {
                 this.f114e = this;
             }
 
@@ -83,9 +81,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         this.f11143m = a.d(new InterfaceC1193a(this) { // from class: A2.d
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ AppDatabase_Impl f114e;
-
-            {
+            public final /* synthetic */ AppDatabase_Impl f114e; {
                 this.f114e = this;
             }
 
@@ -116,9 +112,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         this.f11144n = a.d(new InterfaceC1193a(this) { // from class: A2.d
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ AppDatabase_Impl f114e;
-
-            {
+            public final /* synthetic */ AppDatabase_Impl f114e; {
                 this.f114e = this;
             }
 
@@ -149,9 +143,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         this.f11145o = a.d(new InterfaceC1193a(this) { // from class: A2.d
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ AppDatabase_Impl f114e;
-
-            {
+            public final /* synthetic */ AppDatabase_Impl f114e; {
                 this.f114e = this;
             }
 
@@ -182,9 +174,7 @@ public final class AppDatabase_Impl extends AppDatabase {
         this.f11146p = a.d(new InterfaceC1193a(this) { // from class: A2.d
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ AppDatabase_Impl f114e;
-
-            {
+            public final /* synthetic */ AppDatabase_Impl f114e; {
                 this.f114e = this;
             }
 

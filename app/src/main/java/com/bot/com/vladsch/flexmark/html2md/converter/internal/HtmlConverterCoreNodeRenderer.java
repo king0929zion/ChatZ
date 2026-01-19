@@ -1340,9 +1340,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.COMMENT_NODE, Comment.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -1446,9 +1444,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler2 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.A_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -1552,9 +1548,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler3 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.ABBR_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -1658,9 +1652,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler4 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.ASIDE_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -1764,9 +1756,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler5 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.B_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -1870,9 +1860,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler6 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.BLOCKQUOTE_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -1976,9 +1964,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler7 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.BR_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2082,9 +2068,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler8 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.CODE_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2188,9 +2172,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler9 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.DEL_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2294,9 +2276,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler10 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.DIV_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2400,9 +2380,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler11 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.DL_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b; {
                 this.f11339b = this;
             }
 
@@ -2425,9 +2403,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler12 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.EM_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b; {
                 this.f11339b = this;
             }
 
@@ -2450,9 +2426,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler13 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.EMOJI_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b; {
                 this.f11339b = this;
             }
 
@@ -2475,9 +2449,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler14 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.H1_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2581,9 +2553,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler15 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.H2_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2687,9 +2657,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler16 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.H3_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2793,9 +2761,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler17 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.H4_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -2899,9 +2865,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler18 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.H5_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3005,9 +2969,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler19 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.H6_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3111,9 +3073,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler20 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.HR_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3217,9 +3177,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler21 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.I_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.e
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11339b; {
                 this.f11339b = this;
             }
 
@@ -3242,9 +3200,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler22 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.IMG_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3348,9 +3304,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler23 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.INPUT_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3454,9 +3408,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler24 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.INS_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3560,9 +3512,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler25 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.LI_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3666,9 +3616,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler26 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.MATH_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3772,9 +3720,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler27 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.OL_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3878,9 +3824,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler28 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.P_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -3984,9 +3928,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler29 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.PRE_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4090,9 +4032,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler30 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.SPAN_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4196,9 +4136,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler31 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.STRIKE_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4302,9 +4240,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler32 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.STRONG_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4408,9 +4344,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler33 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.SUB_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4514,9 +4448,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler34 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.SUP_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4620,9 +4552,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler35 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.SVG_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4726,9 +4656,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler36 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.TABLE_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4832,9 +4760,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler37 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.U_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -4938,9 +4864,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler38 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.UL_NODE, Element.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -5044,9 +4968,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HtmlNodeRendererHandler htmlNodeRendererHandler39 = new HtmlNodeRendererHandler(FlexmarkHtmlConverter.TEXT_NODE, TextNode.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -5150,9 +5072,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
         HashSet hashSet = new HashSet(Arrays.asList(htmlNodeRendererHandler, htmlNodeRendererHandler2, htmlNodeRendererHandler3, htmlNodeRendererHandler4, htmlNodeRendererHandler5, htmlNodeRendererHandler6, htmlNodeRendererHandler7, htmlNodeRendererHandler8, htmlNodeRendererHandler9, htmlNodeRendererHandler10, htmlNodeRendererHandler11, htmlNodeRendererHandler12, htmlNodeRendererHandler13, htmlNodeRendererHandler14, htmlNodeRendererHandler15, htmlNodeRendererHandler16, htmlNodeRendererHandler17, htmlNodeRendererHandler18, htmlNodeRendererHandler19, htmlNodeRendererHandler20, htmlNodeRendererHandler21, htmlNodeRendererHandler22, htmlNodeRendererHandler23, htmlNodeRendererHandler24, htmlNodeRendererHandler25, htmlNodeRendererHandler26, htmlNodeRendererHandler27, htmlNodeRendererHandler28, htmlNodeRendererHandler29, htmlNodeRendererHandler30, htmlNodeRendererHandler31, htmlNodeRendererHandler32, htmlNodeRendererHandler33, htmlNodeRendererHandler34, htmlNodeRendererHandler35, htmlNodeRendererHandler36, htmlNodeRendererHandler37, htmlNodeRendererHandler38, htmlNodeRendererHandler39, new HtmlNodeRendererHandler(FlexmarkHtmlConverter.DEFAULT_NODE, Node.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-            {
+            public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                 this.f11333b = this;
             }
 
@@ -5259,9 +5179,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
                 hashSet.add(new HtmlNodeRendererHandler(str, Node.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
                     /* renamed from: b, reason: collision with root package name */
-                    public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-                    {
+                    public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                         this.f11333b = this;
                     }
 
@@ -5370,9 +5288,7 @@ public class HtmlConverterCoreNodeRenderer implements PhasedHtmlNodeRenderer {
                 hashSet.add(new HtmlNodeRendererHandler(str2, Node.class, new CustomHtmlNodeRenderer(this) { // from class: com.vladsch.flexmark.html2md.converter.internal.b
 
                     /* renamed from: b, reason: collision with root package name */
-                    public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b;
-
-                    {
+                    public final /* synthetic */ HtmlConverterCoreNodeRenderer f11333b; {
                         this.f11333b = this;
                     }
 

@@ -44,9 +44,7 @@ public class Escaping {
         void replace(BasedSequence basedSequence, int i6, int i7, ReplacedTextMapper replacedTextMapper);
 
         void replace(String str, StringBuilder sb);
-    }
-
-    {
+    } {
         String s5 = AbstractC1135a.s("[!", ESCAPABLE_CHARS.replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]"), "]");
         ESCAPABLE = s5;
         BACKSLASH_ONLY = Pattern.compile("[\\\\]");

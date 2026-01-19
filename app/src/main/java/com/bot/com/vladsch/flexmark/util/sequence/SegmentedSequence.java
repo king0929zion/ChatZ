@@ -7,7 +7,7 @@ import com.vladsch.flexmark.util.sequence.builder.ISegmentBuilder;
 import com.vladsch.flexmark.util.sequence.builder.SequenceBuilder;
 
 /* loaded from: classes.dex */
-public abstract class SegmentedSequence implements BasedSequenceImpl, ReplacedBasedSequence  {
+public abstract class SegmentedSequence implements BasedSequenceImpl, ReplacedBasedSequence {
     static final /* synthetic */ boolean $assertionsDisabled = false;
     protected final BasedSequence baseSeq;
     protected final int endOffset;

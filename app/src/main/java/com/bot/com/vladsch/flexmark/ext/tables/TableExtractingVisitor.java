@@ -31,9 +31,7 @@ public class TableExtractingVisitor {
         this.myVisitor = new NodeVisitor(new VisitHandler(TableBlock.class, new Visitor(this) { // from class: com.vladsch.flexmark.ext.tables.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableExtractingVisitor f11285b;
-
-            {
+            public final /* synthetic */ TableExtractingVisitor f11285b; {
                 this.f11285b = this;
             }
 
@@ -66,9 +64,7 @@ public class TableExtractingVisitor {
         }), new VisitHandler(TableHead.class, new Visitor(this) { // from class: com.vladsch.flexmark.ext.tables.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableExtractingVisitor f11285b;
-
-            {
+            public final /* synthetic */ TableExtractingVisitor f11285b; {
                 this.f11285b = this;
             }
 
@@ -101,9 +97,7 @@ public class TableExtractingVisitor {
         }), new VisitHandler(TableSeparator.class, new Visitor(this) { // from class: com.vladsch.flexmark.ext.tables.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableExtractingVisitor f11285b;
-
-            {
+            public final /* synthetic */ TableExtractingVisitor f11285b; {
                 this.f11285b = this;
             }
 
@@ -136,9 +130,7 @@ public class TableExtractingVisitor {
         }), new VisitHandler(TableBody.class, new Visitor(this) { // from class: com.vladsch.flexmark.ext.tables.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableExtractingVisitor f11285b;
-
-            {
+            public final /* synthetic */ TableExtractingVisitor f11285b; {
                 this.f11285b = this;
             }
 
@@ -171,9 +163,7 @@ public class TableExtractingVisitor {
         }), new VisitHandler(TableRow.class, new Visitor(this) { // from class: com.vladsch.flexmark.ext.tables.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableExtractingVisitor f11285b;
-
-            {
+            public final /* synthetic */ TableExtractingVisitor f11285b; {
                 this.f11285b = this;
             }
 
@@ -206,9 +196,7 @@ public class TableExtractingVisitor {
         }), new VisitHandler(TableCell.class, new Visitor(this) { // from class: com.vladsch.flexmark.ext.tables.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableExtractingVisitor f11285b;
-
-            {
+            public final /* synthetic */ TableExtractingVisitor f11285b; {
                 this.f11285b = this;
             }
 
@@ -241,9 +229,7 @@ public class TableExtractingVisitor {
         }), new VisitHandler(TableCaption.class, new Visitor(this) { // from class: com.vladsch.flexmark.ext.tables.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ TableExtractingVisitor f11285b;
-
-            {
+            public final /* synthetic */ TableExtractingVisitor f11285b; {
                 this.f11285b = this;
             }
 

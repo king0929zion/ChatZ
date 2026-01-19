@@ -346,9 +346,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         return new HashSet(Arrays.asList(new NodeFormattingHandler(Node.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -450,9 +448,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(AutoLink.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -554,9 +550,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(BlankLine.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -658,9 +652,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(BlockQuote.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -762,9 +754,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Code.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -866,9 +856,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Document.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -970,9 +958,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Emphasis.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1074,9 +1060,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(FencedCodeBlock.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1178,9 +1162,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HardLineBreak.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1282,9 +1264,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Heading.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1386,9 +1366,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HtmlBlock.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1490,9 +1468,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HtmlCommentBlock.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1594,9 +1570,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HtmlInnerBlock.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1698,9 +1672,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HtmlInnerBlockComment.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -1802,9 +1774,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HtmlEntity.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.d
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11314b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11314b; {
                 this.f11314b = this;
             }
 
@@ -1828,9 +1798,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HtmlInline.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.d
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11314b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11314b; {
                 this.f11314b = this;
             }
 
@@ -1854,9 +1822,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(HtmlInlineComment.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.d
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11314b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11314b; {
                 this.f11314b = this;
             }
 
@@ -1880,9 +1846,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Image.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.d
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11314b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11314b; {
                 this.f11314b = this;
             }
 
@@ -1906,9 +1870,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(ImageRef.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2010,9 +1972,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(IndentedCodeBlock.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2114,9 +2074,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Link.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2218,9 +2176,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(LinkRef.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2322,9 +2278,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(BulletList.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2426,9 +2380,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(OrderedList.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2530,9 +2482,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(BulletListItem.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2634,9 +2584,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(OrderedListItem.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2738,9 +2686,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(MailLink.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2842,9 +2788,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Paragraph.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -2946,9 +2890,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Reference.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -3050,9 +2992,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(SoftLineBreak.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -3154,9 +3094,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(StrongEmphasis.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -3258,9 +3196,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(Text.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -3362,9 +3298,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(TextBase.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 
@@ -3466,9 +3400,7 @@ public class CoreNodeFormatter extends NodeRepositoryFormatter<ReferenceReposito
         }), new NodeFormattingHandler(ThematicBreak.class, new NodeFormattingHandler.CustomNodeFormatter(this) { // from class: com.vladsch.flexmark.formatter.internal.a
 
             /* renamed from: b, reason: collision with root package name */
-            public final /* synthetic */ CoreNodeFormatter f11311b;
-
-            {
+            public final /* synthetic */ CoreNodeFormatter f11311b; {
                 this.f11311b = this;
             }
 

@@ -483,9 +483,7 @@ public class ImageUtils {
             public final int markerRGB;
             final int radius;
             final /* synthetic */ Color val$color;
-            final /* synthetic */ int val$tolerance;
-
-            {
+            final /* synthetic */ int val$tolerance; {
                 this.val$color = color;
                 this.val$tolerance = i6;
                 this.markerRGB = color.getRGB() | (-16777216);

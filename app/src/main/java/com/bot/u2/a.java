@@ -220,9 +220,7 @@ public abstract class a {
                         public final /* synthetic */ Long f8613j;
 
                         /* renamed from: k, reason: collision with root package name */
-                        public final /* synthetic */ Long f8614k;
-
-                        {
+                        public final /* synthetic */ Long f8614k; {
                             this.f8607c = i11;
                         }
 
@@ -403,9 +401,7 @@ public abstract class a {
                 public final /* synthetic */ Long f8613j;
 
                 /* renamed from: k, reason: collision with root package name */
-                public final /* synthetic */ Long f8614k;
-
-                {
+                public final /* synthetic */ Long f8614k; {
                     this.f8607c = i14;
                 }
 
@@ -1104,9 +1100,7 @@ public abstract class a {
                         public final /* synthetic */ List f8648f;
 
                         /* renamed from: g, reason: collision with root package name */
-                        public final /* synthetic */ InterfaceC1041r f8649g;
-
-                        {
+                        public final /* synthetic */ InterfaceC1041r f8649g; {
                             this.f8646c = i8;
                         }
 
@@ -1272,9 +1266,7 @@ public abstract class a {
                 public final /* synthetic */ List f8648f;
 
                 /* renamed from: g, reason: collision with root package name */
-                public final /* synthetic */ InterfaceC1041r f8649g;
-
-                {
+                public final /* synthetic */ InterfaceC1041r f8649g; {
                     this.f8646c = i10;
                 }
 

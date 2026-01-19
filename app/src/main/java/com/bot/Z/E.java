@@ -148,9 +148,7 @@ public abstract class E implements InterfaceC1623y1 {
         this.f16058k = new C1529K(new l4.c(this) { // from class: z.x
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E f16178e;
-
-            {
+            public final /* synthetic */ E f16178e; {
                 this.f16178e = this;
             }
 
@@ -245,9 +243,7 @@ public abstract class E implements InterfaceC1623y1 {
         T.r.r(c0602e, new InterfaceC1193a(this) { // from class: z.y
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E f16180e;
-
-            {
+            public final /* synthetic */ E f16180e; {
                 this.f16180e = this;
             }
 
@@ -276,9 +272,7 @@ public abstract class E implements InterfaceC1623y1 {
         T.r.r(c0602e, new InterfaceC1193a(this) { // from class: z.y
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E f16180e;
-
-            {
+            public final /* synthetic */ E f16180e; {
                 this.f16180e = this;
             }
 
@@ -306,9 +300,7 @@ public abstract class E implements InterfaceC1623y1 {
         b0 b0Var = new b0(new l4.c(this) { // from class: z.x
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E f16178e;
-
-            {
+            public final /* synthetic */ E f16178e; {
                 this.f16178e = this;
             }
 
@@ -396,9 +388,7 @@ public abstract class E implements InterfaceC1623y1 {
         this.f16069v = new k(new Object(), b0Var, new InterfaceC1193a(this) { // from class: z.y
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ E f16180e;
-
-            {
+            public final /* synthetic */ E f16180e; {
                 this.f16180e = this;
             }
 

@@ -42,9 +42,7 @@ public final class C1629b {
         InterfaceC1193a interfaceC1193a = new InterfaceC1193a(this) { // from class: r2.a
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C1629b f14654e;
-
-            {
+            public final /* synthetic */ C1629b f14654e; {
                 this.f14654e = this;
             }
 
@@ -76,9 +74,7 @@ public final class C1629b {
         this.f14655b = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: r2.a
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C1629b f14654e;
-
-            {
+            public final /* synthetic */ C1629b f14654e; {
                 this.f14654e = this;
             }
 
@@ -151,9 +147,7 @@ public final class C1629b {
         InterfaceC1193a interfaceC1193a = new InterfaceC1193a(this) { // from class: r2.a
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C1629b f14654e;
-
-            {
+            public final /* synthetic */ C1629b f14654e; {
                 this.f14654e = this;
             }
 
@@ -185,9 +179,7 @@ public final class C1629b {
         this.f14655b = X3.a.c(gVar, new InterfaceC1193a(this) { // from class: r2.a
 
             /* renamed from: e, reason: collision with root package name */
-            public final /* synthetic */ C1629b f14654e;
-
-            {
+            public final /* synthetic */ C1629b f14654e; {
                 this.f14654e = this;
             }
 
