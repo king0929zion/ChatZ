@@ -12,8 +12,8 @@ android {
         applicationId = "com.bot"
         minSdk = 24
         targetSdk = 34
-        versionCode = 117
-        versionName = "1.1.7"
+        versionCode = 118
+        versionName = "1.1.8"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -51,11 +51,6 @@ android {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
-    }
-
-    // Disable resource processing optimizations
-    androidResources {
-        additionalParameters += "--no-version-vectors"
     }
 }
 
