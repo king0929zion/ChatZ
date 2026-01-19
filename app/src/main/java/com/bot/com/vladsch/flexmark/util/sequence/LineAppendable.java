@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Iterator;
 
 /* loaded from: classes.dex */
-public interface LineAppendable extends Appendable, Iterable<LineInfo> {
+public abstract class LineAppendable extends Appendable, Iterable<LineInfo> {
 
     @Deprecated
     public static final int ALLOW_LEADING_EOL = 0;
@@ -64,7 +64,7 @@ public interface LineAppendable extends Appendable, Iterable<LineInfo> {
         PREFIX_PRE_FORMATTED
     }
 
-    static {
+    {
         Options options = Options.CONVERT_TABS;
         O_CONVERT_TABS = options;
         Options options2 = Options.COLLAPSE_WHITESPACE;

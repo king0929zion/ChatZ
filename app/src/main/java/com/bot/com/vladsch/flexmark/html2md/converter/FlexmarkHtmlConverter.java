@@ -256,7 +256,7 @@ public class FlexmarkHtmlConverter {
     }
 
     /* loaded from: classes.dex */
-    public interface HtmlConverterExtension extends Extension {
+    public abstract class HtmlConverterExtension extends Extension {
         void extend(Builder builder);
 
         void rendererOptions(MutableDataHolder mutableDataHolder);
@@ -1281,7 +1281,7 @@ public class FlexmarkHtmlConverter {
     }
 
     /* JADX WARN: Type inference failed for: r0v72, types: [java.lang.Iterable<org.jsoup.nodes.Node>, java.lang.Object] */
-    static {
+    {
         Boolean bool = Boolean.TRUE;
         LIST_CONTENT_INDENT = new DataKey<>("LIST_CONTENT_INDENT", bool);
         SETEXT_HEADINGS = new DataKey<>("SETEXT_HEADINGS", bool);

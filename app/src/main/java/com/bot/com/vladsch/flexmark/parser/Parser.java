@@ -311,19 +311,19 @@ public class Parser implements IParse {
     }
 
     /* loaded from: classes.dex */
-    public interface ParserExtension extends Extension {
+    public abstract class ParserExtension extends Extension {
         void extend(Builder builder);
 
         void parserOptions(MutableDataHolder mutableDataHolder);
     }
 
     /* loaded from: classes.dex */
-    public interface ReferenceHoldingExtension extends Extension {
+    public abstract class ReferenceHoldingExtension extends Extension {
         boolean transferReferences(MutableDataHolder mutableDataHolder, DataHolder dataHolder);
     }
 
     /* JADX WARN: Type inference failed for: r2v2, types: [java.lang.Object, com.vladsch.flexmark.util.data.DataNotNullValueFactory] */
-    static {
+    {
         Boolean bool = Boolean.TRUE;
         ASTERISK_DELIMITER_PROCESSOR = new DataKey<>("ASTERISK_DELIMITER_PROCESSOR", bool);
         Boolean bool2 = Boolean.FALSE;

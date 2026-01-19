@@ -13,7 +13,7 @@ class AuthenticationHandler extends Authenticator {
     RequestAuthenticator auth;
 
     /* loaded from: classes.dex */
-    public interface AuthShim {
+    public abstract class AuthShim {
         void enable(RequestAuthenticator requestAuthenticator, HttpURLConnection httpURLConnection);
 
         AuthenticationHandler get(AuthenticationHandler authenticationHandler);
@@ -25,7 +25,7 @@ class AuthenticationHandler extends Authenticator {
     public static class GlobalHandler implements AuthShim {
         static ThreadLocal<AuthenticationHandler> authenticators = new ThreadLocal<>();
 
-        static {
+        {
             Authenticator.setDefault(new AuthenticationHandler());
         }
 
@@ -45,7 +45,7 @@ class AuthenticationHandler extends Authenticator {
         }
     }
 
-    static {
+    {
         try {
             handler = (AuthShim) Class.forName("org.jsoup.helper.RequestAuthHandler").getConstructor(null).newInstance(null);
         } catch (ClassNotFoundException unused) {

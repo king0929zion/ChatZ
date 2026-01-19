@@ -7,7 +7,7 @@ import com.vladsch.flexmark.util.misc.BitFieldSet;
 import com.vladsch.flexmark.util.sequence.builder.SegmentedSequenceStats;
 
 /* loaded from: classes.dex */
-public interface BasedOptionsHolder {
+public abstract class BasedOptionsHolder {
     public static final int F_APPLICATION_OPTIONS = -65536;
     public static final int F_COLLECT_FIRST256_STATS = null;
     public static final int F_COLLECT_SEGMENTED_STATS = null;
@@ -31,7 +31,7 @@ public interface BasedOptionsHolder {
         TREE_SEGMENTED_SEQUENCES
     }
 
-    static {
+    {
         Options options = Options.COLLECT_SEGMENTED_STATS;
         O_COLLECT_SEGMENTED_STATS = options;
         Options options2 = Options.COLLECT_FIRST256_STATS;

@@ -6,7 +6,7 @@ import com.vladsch.flexmark.util.sequence.builder.ISegmentBuilder;
 import java.util.Iterator;
 
 /* loaded from: classes.dex */
-public interface ISegmentBuilder<S extends ISegmentBuilder<S>> extends Iterable<Object> {
+public abstract class ISegmentBuilder<S extends ISegmentBuilder<S>> extends Iterable<Object> {
     public static final int F_DEFAULT = null;
     public static final int F_INCLUDE_ANCHORS = null;
     public static final int F_TRACK_FIRST256 = null;
@@ -19,7 +19,7 @@ public interface ISegmentBuilder<S extends ISegmentBuilder<S>> extends Iterable<
         TRACK_FIRST256
     }
 
-    static {
+    {
         Options options = Options.INCLUDE_ANCHORS;
         O_INCLUDE_ANCHORS = options;
         Options options2 = Options.TRACK_FIRST256;

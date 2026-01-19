@@ -6,7 +6,7 @@ import java.util.Objects;
 import java.util.function.IntPredicate;
 
 /* loaded from: classes.dex */
-public interface CharPredicate extends IntPredicate {
+public abstract class CharPredicate extends IntPredicate {
     public static final CharPredicate ALL = null;
     public static final CharPredicate ANY_EOL = null;
     public static final CharPredicate ANY_EOL_NUL = null;
@@ -52,7 +52,7 @@ public interface CharPredicate extends IntPredicate {
         static final /* synthetic */ boolean $assertionsDisabled = false;
     }
 
-    static {
+    {
         k kVar = new k(21);
         NONE = kVar;
         k kVar2 = new k(4);

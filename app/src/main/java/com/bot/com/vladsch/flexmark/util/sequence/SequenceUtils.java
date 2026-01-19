@@ -18,7 +18,7 @@ import java.util.Map;
 import java.util.function.Predicate;
 
 /* loaded from: classes.dex */
-public interface SequenceUtils {
+public abstract class SequenceUtils {
     public static final String ANY_EOL = "\r\n";
 
     @Deprecated
@@ -109,7 +109,7 @@ public interface SequenceUtils {
     @Deprecated
     public static final CharPredicate SPACE_TAB_EOL_SET = CharPredicate.SPACE_TAB_EOL;
 
-    static {
+    {
         CharPredicate charPredicate = CharPredicate.WHITESPACE;
         SPACE_EOL_SET = charPredicate;
         ANY_EOL_SET = CharPredicate.ANY_EOL;

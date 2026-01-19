@@ -275,7 +275,7 @@ public class Formatter implements IRender {
     }
 
     /* loaded from: classes.dex */
-    public interface FormatterExtension extends Extension {
+    public abstract class FormatterExtension extends Extension {
         void extend(Builder builder);
 
         void rendererOptions(MutableDataHolder mutableDataHolder);
@@ -1014,7 +1014,7 @@ public class Formatter implements IRender {
     /* JADX WARN: Type inference failed for: r0v14, types: [java.lang.Iterable<com.vladsch.flexmark.util.ast.Node>, java.lang.Object] */
     /* JADX WARN: Type inference failed for: r1v34, types: [java.lang.Object, com.vladsch.flexmark.util.data.NotNullValueSupplier] */
     /* JADX WARN: Type inference failed for: r1v35, types: [java.lang.Object, com.vladsch.flexmark.util.data.NotNullValueSupplier] */
-    static {
+    {
         Boolean bool = Boolean.FALSE;
         GENERATE_HEADER_ID = new DataKey<>("GENERATE_HEADER_ID", bool);
         MAX_BLANK_LINES = SharedDataKeys.FORMATTER_MAX_BLANK_LINES;
