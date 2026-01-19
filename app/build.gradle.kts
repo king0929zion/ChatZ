@@ -6,14 +6,14 @@ plugins {
 
 android {
     namespace = "com.bot"
-    compileSdk = 36
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.bot"
         minSdk = 24
         targetSdk = 34
-        versionCode = 109
-        versionName = "1.0.9"
+        versionCode = 110
+        versionName = "1.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -45,6 +45,12 @@ android {
         warningsAsErrors = false
         abortOnError = false
         checkReleaseBuilds = true
+    }
+
+    packagingOptions {
+        resources {
+            excludes += "/META-INF/{AL2.0,LGPL2.1}"
+        }
     }
 }
 
