@@ -7,7 +7,7 @@ import kotlinx.serialization.encoding.Encoder;
 
 /* renamed from: M4.q, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public abstract class AbstractC0270q implements 
+public abstract class AbstractC0270q extends AbstractC0251a {
     public final KSerializer a;
 
     public AbstractC0270q(KSerializer kSerializer) {
