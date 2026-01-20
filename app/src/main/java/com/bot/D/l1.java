@@ -1,6 +1,7 @@
 package D;
 
 /* loaded from: classes.dex */
+import F0.g0;
 public final class l1 implements F0.g0 {
     public final f1 a;
 
