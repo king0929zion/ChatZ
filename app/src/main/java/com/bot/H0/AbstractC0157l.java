@@ -116,7 +116,7 @@ public abstract class AbstractC0157l {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r12v0, types: [java.lang.Object, H0.F0] */
+    /* JADX WARN: Type inference failed for: r12v0, types: [java.lang.Object, H0.F0InnerInner] */
     /* JADX WARN: Type inference failed for: r13v0, types: [l4.c] */
     /* JADX WARN: Type inference failed for: r6v0 */
     /* JADX WARN: Type inference failed for: r6v1, types: [h0.q] */
@@ -540,7 +540,7 @@ public abstract class AbstractC0157l {
     }
 
     /* JADX WARN: Multi-variable type inference failed */
-    /* JADX WARN: Type inference failed for: r11v0, types: [H0.j, java.lang.Object, H0.F0] */
+    /* JADX WARN: Type inference failed for: r11v0, types: [H0.j, java.lang.Object, H0.F0InnerInner] */
     /* JADX WARN: Type inference failed for: r12v0, types: [l4.c] */
     /* JADX WARN: Type inference failed for: r2v11 */
     /* JADX WARN: Type inference failed for: r2v12, types: [h0.q] */

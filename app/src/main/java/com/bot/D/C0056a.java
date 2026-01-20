@@ -119,7 +119,7 @@ public final /* synthetic */ class C0056a implements l4.c {
                 return X3.y.a;
             case 8:
                 C0056a c0056a = (C0056a) this.f974e;
-                H0.F0 f02 = (H0.F0) obj;
+                H0.F0InnerInner f02 = (H0.F0InnerInner) obj;
                 if (!(f02 instanceof J.a)) {
                     throw new IllegalStateException("TextContextMenuDataNode.TraverseKey key must only be attached to instances of TextContextMenuDataNode.");
                 }

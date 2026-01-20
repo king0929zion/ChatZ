@@ -1,7 +1,7 @@
 package k0;
 
 import H0.AbstractC0157l;
-import H0.F0;
+import H0.F0InnerInner;
 import H0.InterfaceC0169y;
 import c.f;
 import f0.C0987j;
@@ -126,7 +126,7 @@ public final class e extends AbstractC1040q implements F0, InterfaceC0169y {
         }
     }
 
-    @Override // H0.F0
+    @Override // H0.F0Inner
     public final Object m() {
         return d.a;
     }

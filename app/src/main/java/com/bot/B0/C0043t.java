@@ -25,7 +25,7 @@ public final class C0043t extends AbstractC0032h {
         return (i6 == 3 || i6 == 4) ? false : true;
     }
 
-    @Override // H0.F0
+    @Override // H0.F0Inner
     public final /* bridge */ /* synthetic */ Object m() {
         return "androidx.compose.ui.input.pointer.PointerHoverIcon";
     }

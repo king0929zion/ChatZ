@@ -3,7 +3,7 @@ package A0;
 import H0.AbstractC0156k;
 import H0.AbstractC0157l;
 import H0.C0149f0;
-import H0.F0;
+import H0.F0InnerInner;
 import H0.J;
 import com.vladsch.flexmark.parser.PegdownExtensions;
 import h0.AbstractC1040q;
@@ -208,7 +208,7 @@ public final class j extends AbstractC1040q implements F0, a {
         return C1353b.f(a02, this.f52r.a0(C1353b.e(j3, a02), i6));
     }
 
-    @Override // H0.F0
+    @Override // H0.F0Inner
     public final Object m() {
         return this.f55u;
     }

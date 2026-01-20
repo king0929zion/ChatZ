@@ -19,7 +19,7 @@ import x4.InterfaceC1922e0;
 
 /* renamed from: p.b0, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public final class C1424b0 extends AbstractC0156k implements H0.A0, InterfaceC0161p, InterfaceC0154i, H0.m0, H0.F0 {
+public final class C1424b0 extends AbstractC0156k implements H0.A0, InterfaceC0161p, InterfaceC0154i, H0.m0, H0.F0Inner {
 
     /* renamed from: z, reason: collision with root package name */
     public static final C1423b f13676z = new Object();
@@ -99,8 +99,8 @@ public final class C1424b0 extends AbstractC0156k implements H0.A0, InterfaceC01
                             AbstractC0156k abstractC0156k = abstractC1040q;
                             int r5 = 0;
                             while (abstractC0156k != 0) {
-                                if (abstractC0156k instanceof H0.F0) {
-                                    if (AbstractC1426c0.f13686r.equals(((H0.F0) abstractC0156k).m())) {
+                                if (abstractC0156k instanceof H0.F0InnerInner) {
+                                    if (AbstractC1426c0.f13686r.equals(((H0.F0InnerInner) abstractC0156k).m())) {
                                         return;
                                     }
                                 } else if ((abstractC0156k.f11808f & PegdownExtensions.ATXHEADERSPACE) != 0 && (abstractC0156k instanceof AbstractC0156k)) {
@@ -192,7 +192,7 @@ public final class C1424b0 extends AbstractC0156k implements H0.A0, InterfaceC01
         }
     }
 
-    @Override // H0.F0
+    @Override // H0.F0Inner
     public final Object m() {
         return f13676z;
     }

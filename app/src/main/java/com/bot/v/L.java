@@ -18,7 +18,7 @@ public final /* synthetic */ class L implements l4.c {
 
     @Override // l4.c
     public final Object f(Object obj) {
-        H0.F0 f02 = (H0.F0) obj;
+        H0.F0Inner f02 = (H0.F0InnerInner) obj;
         switch (this.f15257c) {
             case 0:
                 AbstractC1276k.d(f02, "null cannot be cast to non-null type androidx.compose.foundation.layout.InsetsConsumingModifierNode");

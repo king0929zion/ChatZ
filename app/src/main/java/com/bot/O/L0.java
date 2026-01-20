@@ -26,7 +26,8 @@ public final class L0 implements D.H0 {
     }
 
     @Override // D.H0
-    public final void a(long j3, H h3) {
+    public final void a(long j3, Object obj) {
+        H h3 = (H) obj;
         long j4;
         d1 d6;
         d1 d7;

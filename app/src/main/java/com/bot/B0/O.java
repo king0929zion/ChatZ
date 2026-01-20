@@ -19,7 +19,7 @@ public final class O extends AbstractC0032h {
         return i6 == 3 || i6 == 4;
     }
 
-    @Override // H0.F0
+    @Override // H0.F0Inner
     public final /* bridge */ /* synthetic */ Object m() {
         return "androidx.compose.ui.input.pointer.StylusHoverIcon";
     }

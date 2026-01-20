@@ -2,7 +2,7 @@ package D;
 
 /* loaded from: classes.dex */
 public interface H0 {
-    void a(long j3, O.H h3);
+    void a(long j3, Object h3);
 
     void b();
 

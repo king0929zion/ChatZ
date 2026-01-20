@@ -4,7 +4,7 @@ import H0.AbstractC0157l;
 import h0.AbstractC1040q;
 
 /* loaded from: classes.dex */
-public abstract class M extends AbstractC1040q implements H0.F0 {
+public abstract class M extends AbstractC1040q implements H0.F0InnerInner {
 
     /* renamed from: r, reason: collision with root package name */
     public F0 f15259r;
@@ -42,7 +42,7 @@ public abstract class M extends AbstractC1040q implements H0.F0 {
         AbstractC0157l.A(this, "androidx.compose.foundation.layout.ConsumedInsetsProvider", new L(this, 0));
     }
 
-    @Override // H0.F0
+    @Override // H0.F0Inner
     public final Object m() {
         return "androidx.compose.foundation.layout.ConsumedInsetsProvider";
     }

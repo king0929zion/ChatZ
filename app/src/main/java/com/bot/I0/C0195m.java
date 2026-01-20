@@ -16,7 +16,7 @@ import z0.AbstractC2015c;
 
 /* renamed from: I0.m, reason: case insensitive filesystem */
 /* loaded from: classes.dex */
-public final class C0195m extends AbstractC1040q implements M0.a, H0.A0, z0.e, InterfaceC0170z, H0.F0, InterfaceC0155j {
+public final class C0195m extends AbstractC1040q implements M0.a, H0.A0, z0.e, InterfaceC0170z, H0.F0InnerInner, InterfaceC0155j {
 
     /* renamed from: r, reason: collision with root package name */
     public final B0.G f2328r = new B0.G(this, 5);
@@ -99,7 +99,7 @@ public final class C0195m extends AbstractC1040q implements M0.a, H0.A0, z0.e, I
         return false;
     }
 
-    @Override // H0.F0
+    @Override // H0.F0Inner
     public final Object m() {
         return "androidx.compose.ui.layout.WindowInsetsRulers";
     }
