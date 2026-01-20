@@ -88,7 +88,7 @@ public final /* synthetic */ class D0 implements l4.c {
                 float f7 = AbstractC0497b.a;
                 return yVar;
             case 14:
-                H0.F0Inner f02 = (H0.F0InnerInner) obj;
+                H0.F0Inner f02 = (H0.F0Inner) obj;
                 AbstractC1276k.d(f02, "null cannot be cast to non-null type androidx.compose.material3.internal.ParentSemanticsNode");
                 R.Z z5 = (R.Z) f02;
                 z5.f6733s = false;

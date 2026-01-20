@@ -29,7 +29,7 @@ public final /* synthetic */ class C0311h0 implements l4.c {
                 }
                 return X3.y.a;
             default:
-                H0.F0Inner f02 = (H0.F0InnerInner) obj;
+                H0.F0Inner f02 = (H0.F0Inner) obj;
                 C1283r c1283r = this.f4128e;
                 if (!c1283r.f12968c) {
                     AbstractC1276k.d(f02, "null cannot be cast to non-null type androidx.compose.foundation.gestures.ScrollableContainerNode");
